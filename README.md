@@ -49,7 +49,7 @@ z_pdf_tree = ZPDFTree(file_path=pdf_path, cache=cache)
 
 ### PDF Text Extraction
 ```python
-# non overlap extraction
+# non overlapping extraction
 def extract_text(toc_keys: list[str]) -> list[str]:
   pass
 
