@@ -1,0 +1,187 @@
+Parsing: data/sample_rxi_5.pdf
+Initializing ZPDFTree for file: data/sample_rxi_5.pdf
+5.1 Duplicate
+Found 174 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_1.pdf
+Initializing ZPDFTree for file: data/sample_rxi_1.pdf
+Found 63 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+0.2 not Found
+0.3 not Found
+0.4 not Found
+0.5 not Found
+0.6 not Found
+0.7 not Found
+0.8 not Found
+0.9 not Found
+0.10 not Found
+0.11 not Found
+0.11.1 not Found
+0.11.2 not Found
+0.11.3 not Found
+TOC Coverage Metric: 0.7936507936507937
+Running Post Correction...
+Running Post Correction...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_6.pdf
+Initializing ZPDFTree for file: data/sample_rxi_6.pdf
+Found 187 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_13.pdf
+Initializing ZPDFTree for file: data/sample_rxi_13.pdf
+Found 101 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_4.pdf
+Initializing ZPDFTree for file: data/sample_rxi_4.pdf
+Found 170 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_7.pdf
+Initializing ZPDFTree for file: data/sample_rxi_7.pdf
+Found 110 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_9.pdf
+Initializing ZPDFTree for file: data/sample_rxi_9.pdf
+Found 146 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_8.pdf
+Initializing ZPDFTree for file: data/sample_rxi_8.pdf
+Found 280 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_2.pdf
+Initializing ZPDFTree for file: data/sample_rxi_2.pdf
+Found 119 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_3.pdf
+Initializing ZPDFTree for file: data/sample_rxi_3.pdf
+Found 92 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_15.pdf
+Initializing ZPDFTree for file: data/sample_rxi_15.pdf
+Found 109 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_11.pdf
+Initializing ZPDFTree for file: data/sample_rxi_11.pdf
+Found 119 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_12.pdf
+Initializing ZPDFTree for file: data/sample_rxi_12.pdf
+Found 409 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_10.pdf
+Initializing ZPDFTree for file: data/sample_rxi_10.pdf
+Found 270 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+Parsing: data/sample_rxi_14.pdf
+Initializing ZPDFTree for file: data/sample_rxi_14.pdf
+Found 60 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
+{
+  "data/sample_rxi_5.pdf": {
+    "toc_headers_count": 174,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_1.pdf": {
+    "toc_headers_count": 63,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_6.pdf": {
+    "toc_headers_count": 187,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_13.pdf": {
+    "toc_headers_count": 101,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_4.pdf": {
+    "toc_headers_count": 170,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_7.pdf": {
+    "toc_headers_count": 110,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_9.pdf": {
+    "toc_headers_count": 146,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_8.pdf": {
+    "toc_headers_count": 280,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_2.pdf": {
+    "toc_headers_count": 119,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_3.pdf": {
+    "toc_headers_count": 92,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_15.pdf": {
+    "toc_headers_count": 109,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_11.pdf": {
+    "toc_headers_count": 119,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_12.pdf": {
+    "toc_headers_count": 409,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_10.pdf": {
+    "toc_headers_count": 270,
+    "coverage_metric": 1.0
+  },
+  "data/sample_rxi_14.pdf": {
+    "toc_headers_count": 60,
+    "coverage_metric": 1.0
+  }
+}
+Benchmarked Files: 15
+Benchmark Score: 1.0
