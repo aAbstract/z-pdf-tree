@@ -1,6 +1,6 @@
 # ZPDFTree
 ## Generic PDF Content Tree Parser
-ZPDFTree Python module converts PDFs into structured data, focusing on extracting and organizing table of contents. It uses fitz for PDF processing and pydantic for validation.
+ZPDFTree Python module converts PDFs into structured data, focusing on extracting and organizing table of contents. It uses fitz for PDF processing and pydantic for validation.  
 **Key Features:**  
 1. Creates searchable TOC links tree
 2. Non overlapping text extraction
