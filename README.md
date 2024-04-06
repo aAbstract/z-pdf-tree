@@ -15,6 +15,7 @@ It also uses LangChain with OpenAI API to do semantic text retrieval for very la
 ## Future Work
 1. [ ] Add install instructions to README.md
 2. [ ] Add LangChain integration for advanced semantic text retrieval
+3. [ ] Add generic post correction mechanism
 
 ## How to Use
 ### Create ZPDF Object
