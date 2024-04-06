@@ -1,5 +1,5 @@
 Parsing: data/sample_rxi_5.pdf
-Initializing ZPDFTree for file: data/sample_rxi_5.pdf
+Initializing ZPDF for file: data/sample_rxi_5.pdf
 5.1 Duplicate
 Found 174 TOC Headers
 Building TOC Tree...
@@ -7,7 +7,7 @@ Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_1.pdf
-Initializing ZPDFTree for file: data/sample_rxi_1.pdf
+Initializing ZPDF for file: data/sample_rxi_1.pdf
 Found 63 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
@@ -27,95 +27,207 @@ Validating TOC Tree...
 0.11.3 not Found
 TOC Coverage Metric: 0.7936507936507937
 Running Post Correction...
+Found 64 TOC Headers
 Running Post Correction...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_6.pdf
-Initializing ZPDFTree for file: data/sample_rxi_6.pdf
+Initializing ZPDF for file: data/sample_rxi_6.pdf
 Found 187 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_13.pdf
-Initializing ZPDFTree for file: data/sample_rxi_13.pdf
+Initializing ZPDF for file: data/sample_rxi_13.pdf
 Found 101 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_4.pdf
-Initializing ZPDFTree for file: data/sample_rxi_4.pdf
+Initializing ZPDF for file: data/sample_rxi_4.pdf
 Found 170 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
+Parsing: data/sample_mac_1.pdf
+Initializing ZPDF for file: data/sample_mac_1.pdf
+Found 549 TOC Headers
+Building TOC Tree...
+Building TOC Tree...OK
+Validating TOC Tree...
+0.3 not Found
+0.4 not Found
+0.5 not Found
+0.6 not Found
+0.7 not Found
+0.8 not Found
+0.9 not Found
+0.9.1 not Found
+0.9.2 not Found
+0.9.3 not Found
+0.9.4 not Found
+0.10 not Found
+0.10.1 not Found
+0.11 not Found
+0.11.1 not Found
+0.11.2 not Found
+0.12 not Found
+8.1 not Found
+8.2 not Found
+8.3 not Found
+8.4 not Found
+8.5 not Found
+8.6 not Found
+8.7 not Found
+8.8 not Found
+8.8.1 not Found
+8.9 not Found
+8.9.1 not Found
+8.9.2 not Found
+8.9.3 not Found
+8.9.4 not Found
+8.9.5 not Found
+8.9.6 not Found
+8.9.7 not Found
+8.9.8 not Found
+8.9.9 not Found
+8.9.10 not Found
+8.9.11 not Found
+8.9.12 not Found
+8.9.13 not Found
+8.9.14 not Found
+8.9.15 not Found
+8.9.16 not Found
+8.9.17 not Found
+8.9.18 not Found
+8.10 not Found
+8.10.1 not Found
+8.10.2 not Found
+8.10.3 not Found
+8.10.4 not Found
+8.10.5 not Found
+8.10.6 not Found
+8.10.7 not Found
+8.10.8 not Found
+8.10.9 not Found
+8.10.10 not Found
+8.11 not Found
+8.11.1 not Found
+8.11.2 not Found
+8.11.3 not Found
+8.11.4 not Found
+8.11.5 not Found
+8.11.6 not Found
+8.11.7 not Found
+8.12 not Found
+8.12.1 not Found
+8.12.2 not Found
+8.13 not Found
+8.14 not Found
+8.15 not Found
+8.15.1 not Found
+8.16 not Found
+8.17 not Found
+8.17.1 not Found
+8.17.2 not Found
+8.17.3 not Found
+8.17.4 not Found
+8.17.5 not Found
+8.18 not Found
+8.18.1 not Found
+8.18.2 not Found
+8.19 not Found
+8.19.1 not Found
+8.20 not Found
+8.21 not Found
+8.22 not Found
+8.23 not Found
+8.23.1 not Found
+8.24 not Found
+8.24.1 not Found
+8.24.2 not Found
+8.24.3 not Found
+8.25 not Found
+8.25.1 not Found
+8.25.2 not Found
+8.25.3 not Found
+8.26.1 not Found
+8.26.2 not Found
+8.27.1 not Found
+TOC Coverage Metric: 0.819672131147541
+Running Post Correction...
+Found 551 TOC Headers
+Running Post Correction...OK
+Validating TOC Tree...
+TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_7.pdf
-Initializing ZPDFTree for file: data/sample_rxi_7.pdf
+Initializing ZPDF for file: data/sample_rxi_7.pdf
 Found 110 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_9.pdf
-Initializing ZPDFTree for file: data/sample_rxi_9.pdf
+Initializing ZPDF for file: data/sample_rxi_9.pdf
 Found 146 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_8.pdf
-Initializing ZPDFTree for file: data/sample_rxi_8.pdf
+Initializing ZPDF for file: data/sample_rxi_8.pdf
 Found 280 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_2.pdf
-Initializing ZPDFTree for file: data/sample_rxi_2.pdf
+Initializing ZPDF for file: data/sample_rxi_2.pdf
 Found 119 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_3.pdf
-Initializing ZPDFTree for file: data/sample_rxi_3.pdf
+Initializing ZPDF for file: data/sample_rxi_3.pdf
 Found 92 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_15.pdf
-Initializing ZPDFTree for file: data/sample_rxi_15.pdf
+Initializing ZPDF for file: data/sample_rxi_15.pdf
 Found 109 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_11.pdf
-Initializing ZPDFTree for file: data/sample_rxi_11.pdf
+Initializing ZPDF for file: data/sample_rxi_11.pdf
 Found 119 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_12.pdf
-Initializing ZPDFTree for file: data/sample_rxi_12.pdf
+Initializing ZPDF for file: data/sample_rxi_12.pdf
 Found 409 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_10.pdf
-Initializing ZPDFTree for file: data/sample_rxi_10.pdf
+Initializing ZPDF for file: data/sample_rxi_10.pdf
 Found 270 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_14.pdf
-Initializing ZPDFTree for file: data/sample_rxi_14.pdf
+Initializing ZPDF for file: data/sample_rxi_14.pdf
 Found 60 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
@@ -127,7 +239,7 @@ TOC Coverage Metric: 1.0
     "coverage_metric": 1.0
   },
   "data/sample_rxi_1.pdf": {
-    "toc_headers_count": 63,
+    "toc_headers_count": 64,
     "coverage_metric": 1.0
   },
   "data/sample_rxi_6.pdf": {
@@ -140,6 +252,10 @@ TOC Coverage Metric: 1.0
   },
   "data/sample_rxi_4.pdf": {
     "toc_headers_count": 170,
+    "coverage_metric": 1.0
+  },
+  "data/sample_mac_1.pdf": {
+    "toc_headers_count": 551,
     "coverage_metric": 1.0
   },
   "data/sample_rxi_7.pdf": {
@@ -183,5 +299,5 @@ TOC Coverage Metric: 1.0
     "coverage_metric": 1.0
   }
 }
-Benchmarked Files: 15
+Benchmarked Files: 16
 Benchmark Score: 1.0

@@ -1,6 +1,6 @@
 import json
 from glob import glob
-from z_pdf_tree import *
+from zpdf import *
 
 
 def generate_benchmark(file_paths: list[str]) -> tuple[dict, float]:
@@ -8,12 +8,12 @@ def generate_benchmark(file_paths: list[str]) -> tuple[dict, float]:
     benchmark = {}
     for file_path in file_paths:
         print('Parsing:', file_path)
-        z_pdf_tree = ZPDFTree(file_path=file_path, debug=True)
+        zpdf = ZPDF(file_path=file_path, debug=True)
 
-        with open(f"temp/{file_path.replace('data/', '').replace('.pdf', '')}_cache.json", 'w') as f:
-            f.write(json.dumps(z_pdf_tree.get_cache(), indent=2))
+        with open(f"cache/{file_path.replace('data/', '').replace('.pdf', '')}_cache.json", 'w') as f:
+            f.write(json.dumps(zpdf.get_cache(), indent=2))
 
-        benchmark[file_path] = z_pdf_tree.get_benchmark()
+        benchmark[file_path] = zpdf.get_benchmark()
         agg_score += benchmark[file_path]['coverage_metric']
     return benchmark, (agg_score / len(file_paths))
 
