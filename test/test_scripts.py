@@ -3,7 +3,8 @@ from glob import glob
 from z_pdf_tree import *
 
 
-TEST_FILE = 'sample_rxi_12'
+RXI_TEST_FILE = 'sample_rxi_12'
+MAC_TEST_FILE = 'sample_mac_1'
 
 
 def _check_testbench(z_pdf_map: dict[str, ZPDFTree]) -> bool:
@@ -53,8 +54,16 @@ def _check_testbench(z_pdf_map: dict[str, ZPDFTree]) -> bool:
     assert success_count + failed_count == len(testbench)
 
 
-def test_create_cache_file():
-    file_path = 'data/sample_rxi_5.pdf'
+def test_create_cache_file_rxi_sample():
+    file_path = f"data/{RXI_TEST_FILE}.pdf"
+    z_pdf_tree = ZPDFTree(file_path=file_path, debug=True)
+    with open('test_cache.json', 'w') as f:
+        f.write(json.dumps(z_pdf_tree.get_cache(), indent=2))
+    assert glob('test_cache.json')
+
+
+def test_create_cache_file_mac_sample():
+    file_path = f"data/{MAC_TEST_FILE}.pdf"
     z_pdf_tree = ZPDFTree(file_path=file_path, debug=True)
     with open('test_cache.json', 'w') as f:
         f.write(json.dumps(z_pdf_tree.get_cache(), indent=2))
@@ -95,9 +104,9 @@ def test_caching():
 
 def test_extract_node_text():
     # load cache
-    with open(f"temp/{TEST_FILE}_cache.json", 'r') as f:
+    with open(f"temp/{RXI_TEST_FILE}_cache.json", 'r') as f:
         cache = json.loads(f.read())
-    z_pdf_tree = ZPDFTree(file_path=f"data/{TEST_FILE}.pdf", cache=cache)
+    z_pdf_tree = ZPDFTree(file_path=f"data/{RXI_TEST_FILE}.pdf", cache=cache)
 
     # test node text extraction
     toc_tree_node = z_pdf_tree.find_toc_tree_node('8')
@@ -109,9 +118,9 @@ def test_extract_node_text():
 
 def test_extract_text_no_overlap():
     # load cache
-    with open(f"temp/{TEST_FILE}_cache.json", 'r') as f:
+    with open(f"temp/{RXI_TEST_FILE}_cache.json", 'r') as f:
         cache = json.loads(f.read())
-    z_pdf_tree = ZPDFTree(file_path=f"data/{TEST_FILE}.pdf", cache=cache)
+    z_pdf_tree = ZPDFTree(file_path=f"data/{RXI_TEST_FILE}.pdf", cache=cache)
 
     # test text extraction no overlap
     toc_keys = ['12', '11.4.1', '10.10', '10.9.2']
@@ -122,9 +131,9 @@ def test_extract_text_no_overlap():
 
 def test_overlaps_filter():
     # load cache
-    with open(f"temp/{TEST_FILE}_cache.json", 'r') as f:
+    with open(f"temp/{RXI_TEST_FILE}_cache.json", 'r') as f:
         cache = json.loads(f.read())
-    z_pdf_tree = ZPDFTree(file_path=f"data/{TEST_FILE}.pdf", cache=cache)
+    z_pdf_tree = ZPDFTree(file_path=f"data/{RXI_TEST_FILE}.pdf", cache=cache)
 
     test_set = [
         (['8.1.7', '8.2.3', '8', '8.4'], ['8']),
@@ -140,9 +149,9 @@ def test_overlaps_filter():
 
 def test_extract_text_overlap():
     # load cache
-    with open(f"temp/{TEST_FILE}_cache.json", 'r') as f:
+    with open(f"temp/{RXI_TEST_FILE}_cache.json", 'r') as f:
         cache = json.loads(f.read())
-    z_pdf_tree = ZPDFTree(file_path=f"data/{TEST_FILE}.pdf", cache=cache)
+    z_pdf_tree = ZPDFTree(file_path=f"data/{RXI_TEST_FILE}.pdf", cache=cache)
 
     # test text extraction no overlap
     toc_keys = ['8.1.7', '8.2.3', '8', '8.4']
