@@ -1,3 +1,4 @@
+import os
 import json
 from glob import glob
 from zpdf import *
@@ -18,6 +19,7 @@ def generate_benchmark(file_paths: list[str]) -> tuple[dict, float]:
     return benchmark, (agg_score / len(file_paths))
 
 
+os.system('rm cache/*.json')
 sample_file_paths = glob('data/*.pdf')
 res = generate_benchmark(sample_file_paths)
 print(json.dumps(res[0], indent=2))

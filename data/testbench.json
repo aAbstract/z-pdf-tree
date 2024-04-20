@@ -101,7 +101,7 @@
         "start_page": 182,
         "end_page": 182,
         "end_link_label": "4.4.2 PROTOCOL FOR RELIEVING THE FIRST OFFICER ",
-        "text_file_path": "data/4_4_1.txt"
+        "text_file_path": "data/sample_rxi_12_4.4.1.txt"
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
@@ -109,7 +109,7 @@
         "start_page": 304,
         "end_page": 305,
         "end_link_label": "8.3.7 POLICY AND PROCEDURES FOR INFLIGHT FUEL MANAGEMENT ",
-        "text_file_path": "data/8_3_6.txt"
+        "text_file_path": "data/sample_rxi_12_8.3.6.txt"
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
@@ -117,6 +117,22 @@
         "start_page": 234,
         "end_page": 372,
         "end_link_label": "9 DANGEROUS GOODS AND WEAPONS ",
-        "text_file_path": "data/8.txt"
+        "text_file_path": "data/sample_rxi_12_8.txt"
+    },
+    {
+        "file_path": "data/sample_rxi_12.pdf",
+        "toc_header": "14 APPENDICES ",
+        "start_page": 476,
+        "end_page": -1,
+        "end_link_label": null,
+        "text_file_path": "data/sample_rxi_12_14.txt"
+    },
+    {
+        "file_path": "data/sample_mac_6.pdf",
+        "toc_header": "8.10.7 COMMUNICATION SYSTEM ",
+        "start_page": 327,
+        "end_page": 327,
+        "end_link_label": "8.10.8 INTERPHONEPUBLIC ADDRESS ",
+        "text_file_path": "data/sample_mac_6_8.10.7.txt"
     }
 ]

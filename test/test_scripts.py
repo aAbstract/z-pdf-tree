@@ -170,7 +170,7 @@ def test_extract_text_overlap():
     sections = zpdf.extract_text(toc_keys)
     assert None not in sections
     assert len(sections) == 1
-    with open('data/8.txt', 'r') as f:
+    with open('data/sample_rxi_12_8.txt', 'r') as f:
         target_text = f.read()
     assert sections[0] == target_text
 
@@ -182,3 +182,36 @@ def test_validate_bounds_using_cache_files():
             cache = json.loads(f.read())
             print('Validating file:', cache_file_path)
             assert _validate_cache_bounds(cache)
+
+
+def test_terminal_text_extraction():
+    with open(f"cache/{RXI_TEST_FILE}_cache.json", 'r') as f:
+        cache = json.loads(f.read())
+    zpdf = ZPDF(file_path=f"data/{RXI_TEST_FILE}.pdf", cache=cache)
+    sections = zpdf.extract_text(['14'])
+    assert None not in sections
+    assert len(sections) == 1
+    with open('data/sample_rxi_12_14.txt', 'r') as f:
+        target_text = f.read()
+    assert sections[0] == target_text
+
+
+def _test_create_cache_file_function():
+    file_path = 'data/sample_mac_6.pdf'
+    zpdf = ZPDF(file_path=file_path, debug=True)
+    with open('test_cache.json', 'w') as f:
+        f.write(json.dumps(zpdf.get_cache(), indent=2))
+    assert glob('test_cache.json')
+
+
+def _test_extract_text_function():
+    file_name = 'sample_mac_6'
+    file_path = f"data/{file_name}.pdf"
+    cache_file_path = f"cache/{file_name}_cache.json"
+    with open(cache_file_path, 'r') as f:
+        cache = json.loads(f.read())
+    zpdf = ZPDF(file_path=file_path, cache=cache)
+    link_idx = '8.10.7'
+    sections = zpdf.extract_text([link_idx])
+    with open(f"data/{file_name}_{link_idx}.txt", 'w') as f:
+        f.write(sections[0])
