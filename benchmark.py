@@ -9,7 +9,7 @@ def generate_benchmark(file_paths: list[str]) -> tuple[dict, float]:
     benchmark = {}
     for file_path in file_paths:
         print('Parsing:', file_path)
-        zpdf = ZPDF(file_path=file_path, debug=True)
+        zpdf = ZPDF(file_path=file_path)
 
         with open(f"cache/{file_path.replace('data/', '').replace('.pdf', '')}_cache.json", 'w') as f:
             f.write(json.dumps(zpdf.get_cache(), indent=2))

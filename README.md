@@ -91,7 +91,7 @@ from zpdf import *
 
 def test_create_cache_file():
     file_path = 'data/sample_rxi_5.pdf'
-    zpdf = ZPDF(file_path=file_path, debug=True)
+    zpdf = ZPDF(file_path=file_path)
     with open('test_cache.json', 'w') as f:
         f.write(json.dumps(zpdf.get_cache(), indent=2))
 ```

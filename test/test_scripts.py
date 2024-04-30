@@ -18,24 +18,23 @@ def _check_testbench(z_pdf_map: dict[str, ZPDF]) -> bool:
 
     def success_routine(item):
         nonlocal success_count
-        print('SUCCESS:', item['file_path'], '-', item['toc_header'])
+        print('SUCCESS:', item['file_path'], '-', item['toc_key'])
         success_count += 1
 
     def failed_routine(item):
         nonlocal failed_count
-        print('FAILED:', item['file_path'], '-', item['toc_header'])
+        print('FAILED:', item['file_path'], '-', item['toc_key'])
         failed_count += 1
 
     for idx, item in enumerate(testbench):
-        print(idx, 'Testing:', item['file_path'], '-', item['toc_header'])
+        print(idx, 'Testing:', item['file_path'], '-', item['toc_key'])
         zpdf = z_pdf_map[item['file_path']]
-        toc_header: str = item['toc_header']
-        toc_header_key = toc_header.split(' ')[0]
-        toc_tree_node = zpdf.find_toc_tree_node(toc_header_key)
+        toc_key: str = item['toc_key']
+        toc_tree_node = zpdf.find_toc_tree_node(toc_key)
         if not toc_tree_node:
             failed_routine(item)
             continue
-        if toc_tree_node.start_page != item['start_page'] or toc_tree_node.end_page != item['end_page'] or toc_tree_node.end_link_label != item['end_link_label']:
+        if toc_tree_node.start_page != item['start_page'] or toc_tree_node.end_page != item['end_page'] or toc_tree_node.end_tag != item['end_tag']:
             failed_routine(item)
             continue
         if item['text_file_path']:
@@ -68,7 +67,7 @@ def _validate_cache_bounds(cache: dict) -> bool:
 
 def test_create_cache_file_rxi_sample():
     file_path = f"data/{RXI_TEST_FILE}.pdf"
-    zpdf = ZPDF(file_path=file_path, debug=True)
+    zpdf = ZPDF(file_path=file_path)
     with open('test_cache.json', 'w') as f:
         f.write(json.dumps(zpdf.get_cache(), indent=2))
     assert glob('test_cache.json')
@@ -76,7 +75,7 @@ def test_create_cache_file_rxi_sample():
 
 def test_create_cache_file_mac_sample():
     file_path = f"data/{MAC_TEST_FILE}.pdf"
-    zpdf = ZPDF(file_path=file_path, debug=True)
+    zpdf = ZPDF(file_path=file_path)
     with open('test_cache.json', 'w') as f:
         f.write(json.dumps(zpdf.get_cache(), indent=2))
     assert glob('test_cache.json')
@@ -142,11 +141,6 @@ def test_extract_text_no_overlap():
 
 
 def test_overlaps_filter():
-    # load cache
-    with open(f"cache/{RXI_TEST_FILE}_cache.json", 'r') as f:
-        cache = json.loads(f.read())
-    zpdf = ZPDF(file_path=f"data/{RXI_TEST_FILE}.pdf", cache=cache)
-
     test_set = [
         (['8.1.7', '8.2.3', '8', '8.4'], ['8']),
         (['1.1.3', '1.1', '1.5.2', '1.5', '1.1.5'], ['1.1', '1.5']),
@@ -156,7 +150,31 @@ def test_overlaps_filter():
     ]
     for test_sample in test_set:
         inp, target_out = test_sample
-        assert zpdf._remove_key_overlaps(inp) == target_out
+        assert ZPDF._remove_key_overlaps(inp) == target_out
+
+
+def test_link_pattern_match():
+    test_set = [
+        ('1.4.5 CABIN CREW TRAINING SUPERVISOR .............................................................................................. 19   ', ('1.4.5 CABIN CREW TRAINING SUPERVISOR ', '1.4.5')),
+        ('1.3.1 DELEGATION OF NOMINATED MANAGEMENT PERSONNEL OF CABIN CREW DEPARTMENT ', ('1.3.1 DELEGATION OF NOMINATED MANAGEMENT PERSONNEL OF CABIN CREW DEPARTMENT ', '1.3.1')),
+        ('8.5 CC POSITION B737800 NORMALEMERGENCY DEMONSTRATION ......................................... 85   ', ('8.5 CC POSITION B737800 NORMALEMERGENCY DEMONSTRATION ......................................... 85   ', '8.5')),
+        ('8.18 GALLEYS  B737800 FWD AND AFT GALLEY .................................................................................. 832   ', ('8.18 GALLEYS  B737800 FWD AND AFT GALLEY .................................................................................. 832   ', '8.18')),
+        ('8.27 B737 EMERGENCY EQUIPMENT CHECKLISTS ................................................................................ 845   ', ('8.27 B737 EMERGENCY EQUIPMENT CHECKLISTS ................................................................................ 845   ', '8.27')),
+        ('5.2.1 B737 RECURRENT TRAINING ................................................................................................. 522   ', ('5.2.1 B737 RECURRENT TRAINING ................................................................................................. 522   ', '5.2.1')),
+    ]
+
+    for inp, target_out in test_set:
+        assert ZPDF._link_pattern_match(inp) == target_out
+
+
+def test_links_gap_check_by_idx():
+    test_set = [
+        (['1', '1.1', '1.2', '1.3', '1.4', '2', '2.1', '2.1.1', '2.1.2', '2.1.3', '2.1.4'], []),
+        (['1', '1.1', '1.2', '1.3', '1.6', '1.7', '2', '2.1', '2.1.1', '2.1.2', '2.1.3', '2.1.4', '2.1.7'], ['1.4', '1.5', '2.1.5', '2.1.6']),
+    ]
+
+    for inp, target_out in test_set:
+        assert ZPDF._links_gap_check_by_idx(inp) == target_out
 
 
 def test_extract_text_overlap():
@@ -197,8 +215,8 @@ def test_terminal_text_extraction():
 
 
 def _test_create_cache_file_function():
-    file_path = 'data/sample_mac_6.pdf'
-    zpdf = ZPDF(file_path=file_path, debug=True)
+    file_path = 'data/sample_mac_8.pdf'
+    zpdf = ZPDF(file_path=file_path)
     with open('test_cache.json', 'w') as f:
         f.write(json.dumps(zpdf.get_cache(), indent=2))
     assert glob('test_cache.json')

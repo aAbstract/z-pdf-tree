@@ -4,22 +4,22 @@
     "link_label": "0 FRONT MATTER ",
     "start_page": 2,
     "end_page": 46,
-    "end_link_label": "1 DANGEROUS GOODS  GENERAL ",
+    "end_tag": "1",
     "children": [
       {
         "link_idx": "0.1",
-        "link_label": "0.1 TABLE OF CONTENTS ",
+        "link_label": "0.1 TABLE OF CONTENTS ................................................................................................................................... 03 0.2REVISION  HIGHLIGHTS ............................................................................................................................... 09",
         "start_page": 2,
         "end_page": 8,
-        "end_link_label": "0.2 REVISION  HIGHLIGHTS ",
+        "end_tag": "0.2",
         "children": []
       },
       {
         "link_idx": "0.2",
-        "link_label": "0.2 REVISION  HIGHLIGHTS ",
+        "link_label": "0.2 REVISION  HIGHLIGHTS ............................................................................................................................... 09 0.3RECORD OF REVISIONS ............................................................................................................................ 011",
         "start_page": 8,
         "end_page": 10,
-        "end_link_label": "0.3 RECORD OF REVISIONS ",
+        "end_tag": "0.3",
         "children": []
       },
       {
@@ -27,7 +27,7 @@
         "link_label": "0.3 RECORD OF REVISIONS ",
         "start_page": 10,
         "end_page": 12,
-        "end_link_label": "0.4 RECORD OF TEMPORARY REVISIONS ",
+        "end_tag": "0.4",
         "children": []
       },
       {
@@ -35,23 +35,23 @@
         "link_label": "0.4 RECORD OF TEMPORARY REVISIONS ",
         "start_page": 12,
         "end_page": 14,
-        "end_link_label": "0.5 LIST OF EFFECTIVE PAGES ",
+        "end_tag": "0.5",
         "children": []
       },
       {
         "link_idx": "0.5",
-        "link_label": "0.5 LIST OF EFFECTIVE PAGES ",
+        "link_label": "0.5 LIST OF EFFECTIVE PAGES ........................................................................................................................ 015 0.6LIST OF TABLES ............................................................................................................................................ 021",
         "start_page": 14,
         "end_page": 20,
-        "end_link_label": "0.6 LIST OF TABLES ",
+        "end_tag": "0.6",
         "children": []
       },
       {
         "link_idx": "0.6",
-        "link_label": "0.6 LIST OF TABLES ",
+        "link_label": "0.6 LIST OF TABLES ............................................................................................................................................ 021 0.7LIST OF FIGURES .......................................................................................................................................... 023",
         "start_page": 20,
         "end_page": 22,
-        "end_link_label": "0.7 LIST OF FIGURES ",
+        "end_tag": "0.7",
         "children": []
       },
       {
@@ -59,7 +59,7 @@
         "link_label": "0.7 LIST OF FIGURES ",
         "start_page": 22,
         "end_page": 24,
-        "end_link_label": "0.8 LIST OF COMPLIANCE ENTRIES ",
+        "end_tag": "0.8",
         "children": []
       },
       {
@@ -67,23 +67,23 @@
         "link_label": "0.8 LIST OF COMPLIANCE ENTRIES ",
         "start_page": 24,
         "end_page": 28,
-        "end_link_label": "0.9 MANAGEMENT APPROVAL ",
+        "end_tag": "0.9",
         "children": []
       },
       {
         "link_idx": "0.9",
-        "link_label": "0.9 MANAGEMENT APPROVAL ",
+        "link_label": "0.9 MANAGEMENT APPROVAL ..................................................................................................................... 029 0.10GACA APPROVAL  ACCEPTANCE ........................................................................................................ 031",
         "start_page": 28,
         "end_page": 30,
-        "end_link_label": "0.10 GACA APPROVAL  ACCEPTANCE ",
+        "end_tag": "0.10",
         "children": []
       },
       {
         "link_idx": "0.10",
-        "link_label": "0.10 GACA APPROVAL  ACCEPTANCE ",
+        "link_label": "0.10 GACA APPROVAL  ACCEPTANCE ........................................................................................................ 031 0.11INTRODUCTION ........................................................................................................................................... 033",
         "start_page": 30,
         "end_page": 32,
-        "end_link_label": "0.11 INTRODUCTION ",
+        "end_tag": "0.11",
         "children": []
       },
       {
@@ -91,14 +91,14 @@
         "link_label": "0.11 INTRODUCTION ",
         "start_page": 32,
         "end_page": 36,
-        "end_link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
+        "end_tag": "0.12",
         "children": [
           {
             "link_idx": "0.11.1",
             "link_label": "0.11.1 POLICY ",
             "start_page": 32,
             "end_page": 32,
-            "end_link_label": "0.11.2 APPLICABILITY ",
+            "end_tag": "0.11.2",
             "children": []
           },
           {
@@ -106,7 +106,7 @@
             "link_label": "0.11.2 APPLICABILITY ",
             "start_page": 32,
             "end_page": 32,
-            "end_link_label": "0.11.3 COMMON LANGUAGE ",
+            "end_tag": "0.11.3",
             "children": []
           },
           {
@@ -114,7 +114,7 @@
             "link_label": "0.11.3 COMMON LANGUAGE ",
             "start_page": 32,
             "end_page": 33,
-            "end_link_label": "0.11.4 USAGE OF TERMS ",
+            "end_tag": "0.11.4",
             "children": []
           },
           {
@@ -122,7 +122,7 @@
             "link_label": "0.11.4 USAGE OF TERMS ",
             "start_page": 33,
             "end_page": 33,
-            "end_link_label": "0.11.5 HUMAN FACTOR PRINCIPLES ",
+            "end_tag": "0.11.5",
             "children": []
           },
           {
@@ -130,7 +130,7 @@
             "link_label": "0.11.5 HUMAN FACTOR PRINCIPLES ",
             "start_page": 33,
             "end_page": 34,
-            "end_link_label": "0.11.6 APPLICABLE REGULATIONS AND STANDARDS ",
+            "end_tag": "0.11.6",
             "children": []
           },
           {
@@ -138,7 +138,7 @@
             "link_label": "0.11.6 APPLICABLE REGULATIONS AND STANDARDS ",
             "start_page": 34,
             "end_page": 36,
-            "end_link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
+            "end_tag": "0.12",
             "children": []
           }
         ]
@@ -148,14 +148,14 @@
         "link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
         "start_page": 36,
         "end_page": 42,
-        "end_link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
+        "end_tag": "0.13",
         "children": [
           {
             "link_idx": "0.12.1",
             "link_label": "0.12.1 ABBREVIATIONS AND ACRONYMS ",
             "start_page": 36,
             "end_page": 38,
-            "end_link_label": "0.12.2 DEFINITIONS ",
+            "end_tag": "0.12.2",
             "children": []
           },
           {
@@ -163,7 +163,7 @@
             "link_label": "0.12.2 DEFINITIONS ",
             "start_page": 38,
             "end_page": 42,
-            "end_link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
+            "end_tag": "0.13",
             "children": []
           }
         ]
@@ -173,14 +173,14 @@
         "link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
         "start_page": 42,
         "end_page": 46,
-        "end_link_label": "1 DANGEROUS GOODS  GENERAL ",
+        "end_tag": "1",
         "children": [
           {
             "link_idx": "0.13.1",
             "link_label": "0.13.1 MANUAL OWNERSHIP ",
             "start_page": 42,
             "end_page": 42,
-            "end_link_label": "0.13.2 MANUAL HOLDER RESPONSIBILITY ",
+            "end_tag": "0.13.2",
             "children": []
           },
           {
@@ -188,7 +188,7 @@
             "link_label": "0.13.2 MANUAL HOLDER RESPONSIBILITY ",
             "start_page": 42,
             "end_page": 42,
-            "end_link_label": "0.13.3 DISTRIBUTION LIST AND AVAILABILITY ",
+            "end_tag": "0.13.3",
             "children": []
           },
           {
@@ -196,15 +196,15 @@
             "link_label": "0.13.3 DISTRIBUTION LIST AND AVAILABILITY ",
             "start_page": 42,
             "end_page": 43,
-            "end_link_label": "0.13.4 PUBLICATION HIERARCHY ",
+            "end_tag": "0.13.4",
             "children": []
           },
           {
             "link_idx": "0.13.4",
-            "link_label": "0.13.4 PUBLICATION HIERARCHY ",
+            "link_label": "0.13.4 PUBLICATION HIERARCHY ...................................................................................................................... 044 0.13.5MANUAL STRUCTURE ............................................................................................................................... 044",
             "start_page": 43,
             "end_page": 43,
-            "end_link_label": "0.13.5 MANUAL STRUCTURE ",
+            "end_tag": "0.13.5",
             "children": []
           },
           {
@@ -212,7 +212,7 @@
             "link_label": "0.13.5 MANUAL STRUCTURE ",
             "start_page": 43,
             "end_page": 43,
-            "end_link_label": "0.13.6 SOURCE OF AMENDMENTS ",
+            "end_tag": "0.13.6",
             "children": []
           },
           {
@@ -220,7 +220,7 @@
             "link_label": "0.13.6 SOURCE OF AMENDMENTS ",
             "start_page": 43,
             "end_page": 43,
-            "end_link_label": "0.13.7 REFERENCED AND LINKED DOCUMENTS ",
+            "end_tag": "0.13.7",
             "children": []
           },
           {
@@ -228,7 +228,7 @@
             "link_label": "0.13.7 REFERENCED AND LINKED DOCUMENTS ",
             "start_page": 43,
             "end_page": 44,
-            "end_link_label": "0.13.8 FORMAT AND DOCUMENTATION CONTROL REQUIREMENTS ",
+            "end_tag": "0.13.8",
             "children": []
           },
           {
@@ -236,7 +236,7 @@
             "link_label": "0.13.8 FORMAT AND DOCUMENTATION CONTROL REQUIREMENTS ",
             "start_page": 44,
             "end_page": 44,
-            "end_link_label": "0.13.9 ERROR REPORTING AND CORRECTIONS AND SUGGESTIONS FOR IMPROVEMENT ",
+            "end_tag": "0.13.9",
             "children": []
           },
           {
@@ -244,7 +244,7 @@
             "link_label": "0.13.9 ERROR REPORTING AND CORRECTIONS AND SUGGESTIONS FOR IMPROVEMENT ",
             "start_page": 44,
             "end_page": 46,
-            "end_link_label": "1 DANGEROUS GOODS  GENERAL ",
+            "end_tag": "1",
             "children": []
           }
         ]
@@ -256,14 +256,14 @@
     "link_label": "1 DANGEROUS GOODS  GENERAL ",
     "start_page": 46,
     "end_page": 58,
-    "end_link_label": "2 CLASSIFICATION AND PACKAGING OF DANGEROUS GOODS ",
+    "end_tag": "2",
     "children": [
       {
         "link_idx": "1.1",
-        "link_label": "1.1 GENERAL POLICIES ON DANGEROUS GOODS TRANSPORTATION ",
+        "link_label": "1.1 GENERAL POLICIES ON DANGEROUS GOODS TRANSPORTATION .......................................... 11 1.2DEFINITION OF DANGEROUS GOODS .................................................................................................. 12",
         "start_page": 46,
         "end_page": 47,
-        "end_link_label": "1.2 DEFINITION OF DANGEROUS GOODS ",
+        "end_tag": "1.2",
         "children": []
       },
       {
@@ -271,7 +271,7 @@
         "link_label": "1.2 DEFINITION OF DANGEROUS GOODS ",
         "start_page": 47,
         "end_page": 48,
-        "end_link_label": "1.3 MANAGEMENT DEPARTMENTS AND RESPONSIBILITIES ",
+        "end_tag": "1.3",
         "children": []
       },
       {
@@ -279,22 +279,22 @@
         "link_label": "1.3 MANAGEMENT DEPARTMENTS AND RESPONSIBILITIES ",
         "start_page": 48,
         "end_page": 49,
-        "end_link_label": "1.4 ROLES AND RESPONSIBILITIES ",
+        "end_tag": "1.4",
         "children": []
       },
       {
         "link_idx": "1.4",
-        "link_label": "1.4 ROLES AND RESPONSIBILITIES ",
+        "link_label": "1.4 ROLES AND RESPONSIBILITIES ................................................................................................................. 14 1.4.1DANGEROUS GOODS MANAGER ............................................................................................................ 14",
         "start_page": 49,
         "end_page": 52,
-        "end_link_label": "1.5 CONTACT DETAILS ",
+        "end_tag": "1.5",
         "children": [
           {
             "link_idx": "1.4.1",
-            "link_label": "1.4.1 DANGEROUS GOODS MANAGER ",
+            "link_label": "1.4.1 DANGEROUS GOODS MANAGER ............................................................................................................ 14 1.4.2TRAINING INSTRUCTOR .............................................................................................................................. 14",
             "start_page": 49,
             "end_page": 49,
-            "end_link_label": "1.4.2 TRAINING INSTRUCTOR ",
+            "end_tag": "1.4.2",
             "children": []
           },
           {
@@ -302,7 +302,7 @@
             "link_label": "1.4.2 TRAINING INSTRUCTOR ",
             "start_page": 49,
             "end_page": 50,
-            "end_link_label": "1.4.3 COMPLIANCE AGENTS ",
+            "end_tag": "1.4.3",
             "children": []
           },
           {
@@ -310,25 +310,25 @@
             "link_label": "1.4.3 COMPLIANCE AGENTS ",
             "start_page": 50,
             "end_page": 51,
-            "end_link_label": "1.4.4 RAMP SUPERVISOR ",
+            "end_tag": "1.4.4",
             "children": []
           },
           {
             "link_idx": "1.4.4",
-            "link_label": "1.4.4 RAMP SUPERVISOR ",
+            "link_label": "1.4.4 RAMP SUPERVISOR ....................................................................................................................................... 16 5CONTACT DETAILS ........................................................................................................................................ 17",
             "start_page": 51,
             "end_page": 52,
-            "end_link_label": "1.5 CONTACT DETAILS ",
+            "end_tag": "1.5",
             "children": []
           }
         ]
       },
       {
         "link_idx": "1.5",
-        "link_label": "1.5 CONTACT DETAILS ",
+        "link_label": "1.5 CONTACT DETAILS ........................................................................................................................................ 17 1.6DELEGATION OF DUTIES ............................................................................................................................. 18",
         "start_page": 52,
         "end_page": 53,
-        "end_link_label": "1.6 DELEGATION OF DUTIES ",
+        "end_tag": "1.6",
         "children": []
       },
       {
@@ -336,7 +336,7 @@
         "link_label": "1.6 DELEGATION OF DUTIES ",
         "start_page": 53,
         "end_page": 54,
-        "end_link_label": "1.7 REGULATIONS ON DANGEROUS GOODS TRANSPORTATION ",
+        "end_tag": "1.7",
         "children": []
       },
       {
@@ -344,24 +344,24 @@
         "link_label": "1.7 REGULATIONS ON DANGEROUS GOODS TRANSPORTATION ",
         "start_page": 54,
         "end_page": 55,
-        "end_link_label": "1.8 THE SHIPPERS RESPONSIBILITIES ",
+        "end_tag": "1.8",
         "children": [
           {
             "link_idx": "1.7.1",
-            "link_label": "1.7.1 COMPLIANCE WITH GACAR ",
+            "link_label": "1.7.1 COMPLIANCE WITH GACAR ...................................................................................................................... 19 8THE SHIPPERS RESPONSIBILITIES ........................................................................................................ 110",
             "start_page": 54,
             "end_page": 55,
-            "end_link_label": "1.8 THE SHIPPERS RESPONSIBILITIES ",
+            "end_tag": "1.8",
             "children": []
           }
         ]
       },
       {
         "link_idx": "1.8",
-        "link_label": "1.8 THE SHIPPERS RESPONSIBILITIES ",
+        "link_label": "1.8 THE SHIPPERS RESPONSIBILITIES ........................................................................................................ 110 1.9TRAINING OF DANGEROUS GOODS TRANSPORT ........................................................................ 111",
         "start_page": 55,
         "end_page": 56,
-        "end_link_label": "1.9 TRAINING OF DANGEROUS GOODS TRANSPORT ",
+        "end_tag": "1.9",
         "children": []
       },
       {
@@ -369,7 +369,7 @@
         "link_label": "1.9 TRAINING OF DANGEROUS GOODS TRANSPORT ",
         "start_page": 56,
         "end_page": 57,
-        "end_link_label": "1.10 DANGEROUS GOODS EXCEPTIONS ",
+        "end_tag": "1.10",
         "children": []
       },
       {
@@ -377,7 +377,7 @@
         "link_label": "1.10 DANGEROUS GOODS EXCEPTIONS ",
         "start_page": 57,
         "end_page": 58,
-        "end_link_label": "2 CLASSIFICATION AND PACKAGING OF DANGEROUS GOODS ",
+        "end_tag": "2",
         "children": []
       }
     ]
@@ -387,93 +387,93 @@
     "link_label": "2 CLASSIFICATION AND PACKAGING OF DANGEROUS GOODS ",
     "start_page": 58,
     "end_page": 86,
-    "end_link_label": "3 CARRIAGE OF DANGEROUS GOODS ",
+    "end_tag": "3",
     "children": [
       {
         "link_idx": "2.1",
         "link_label": "2.1 CLASSIFICATION OF DANGEROUS GOODS ",
         "start_page": 58,
         "end_page": 70,
-        "end_link_label": "2.2 IDENTIFICATION OF DANGEROUS GOODS",
+        "end_tag": "2.2",
         "children": [
           {
             "link_idx": "2.1.1",
             "link_label": "2.1.1 SHIPPERS RESPONSIBILITY ",
             "start_page": 59,
             "end_page": 59,
-            "end_link_label": "2.1.2 CLASS",
+            "end_tag": "2.1.2",
             "children": []
           },
           {
             "link_idx": "2.1.2",
-            "link_label": "2.1.2 CLASS",
+            "link_label": "2.1.2 CLASS 1EXPLOSIVES ....................................................................................................... 22",
             "start_page": 59,
             "end_page": 59,
-            "end_link_label": "2.1.3 CLASS",
+            "end_tag": "2.1.3",
             "children": []
           },
           {
             "link_idx": "2.1.3",
-            "link_label": "2.1.3 CLASS",
+            "link_label": "2.1.3 CLASS 2GASES ............................................................................................................................................ 23",
             "start_page": 59,
             "end_page": 60,
-            "end_link_label": "2.1.4 CLASS",
+            "end_tag": "2.1.4",
             "children": []
           },
           {
             "link_idx": "2.1.4",
-            "link_label": "2.1.4 CLASS",
+            "link_label": "2.1.4 CLASS 3FLAMMABLE LIQUIDS ............................................................................................................. 24",
             "start_page": 60,
             "end_page": 61,
-            "end_link_label": "2.1.5 CLASS",
+            "end_tag": "2.1.5",
             "children": []
           },
           {
             "link_idx": "2.1.5",
-            "link_label": "2.1.5 CLASS",
+            "link_label": "2.1.5 CLASS 4FLAMMABLE SOLIDS SUBSTANCES LIABLE TO SPONTANEOUS COMBUSTION",
             "start_page": 61,
             "end_page": 62,
-            "end_link_label": "2.1.6 CLASS",
+            "end_tag": "2.1.6",
             "children": []
           },
           {
             "link_idx": "2.1.6",
-            "link_label": "2.1.6 CLASS",
+            "link_label": "2.1.6 CLASS 5OXIDIZING SUBSTANCES AND ORGANIC PEROXIDES .............................................. 25",
             "start_page": 62,
             "end_page": 63,
-            "end_link_label": "2.1.7 CLASS",
+            "end_tag": "2.1.7",
             "children": []
           },
           {
             "link_idx": "2.1.7",
-            "link_label": "2.1.7 CLASS",
+            "link_label": "2.1.7 CLASS 6TOXIC AND INFECTIOUS SUBSTANCES ........................................................................... 26",
             "start_page": 63,
             "end_page": 63,
-            "end_link_label": "2.1.8 CLASS",
+            "end_tag": "2.1.8",
             "children": []
           },
           {
             "link_idx": "2.1.8",
-            "link_label": "2.1.8 CLASS",
+            "link_label": "2.1.8 CLASS 7RADIOACTIVE MATERIAL ....................................................................................................... 26",
             "start_page": 63,
             "end_page": 64,
-            "end_link_label": "2.1.9 CLASS",
+            "end_tag": "2.1.9",
             "children": []
           },
           {
             "link_idx": "2.1.9",
-            "link_label": "2.1.9 CLASS",
+            "link_label": "2.1.9 CLASS 8CORROSIVES ............................................................................................................................... 27",
             "start_page": 64,
             "end_page": 64,
-            "end_link_label": "2.1.10 CLASS",
+            "end_tag": "2.1.10",
             "children": []
           },
           {
             "link_idx": "2.1.10",
-            "link_label": "2.1.10 CLASS",
+            "link_label": "2.1.10 CLASS 9MISCELLANEOUS DANGEROUS GOODS ......................................................................... 27",
             "start_page": 64,
             "end_page": 65,
-            "end_link_label": "2.1.11 CLASSIFICATION OF ARTICLESSUBSTANCES WITH MULTIPLE HAZARDS ",
+            "end_tag": "2.1.11",
             "children": []
           },
           {
@@ -481,7 +481,7 @@
             "link_label": "2.1.11 CLASSIFICATION OF ARTICLESSUBSTANCES WITH MULTIPLE HAZARDS ",
             "start_page": 65,
             "end_page": 68,
-            "end_link_label": "2.1.12 TRANSPORT OF SAMPLES FOR FURTHER TESTING ",
+            "end_tag": "2.1.12",
             "children": []
           },
           {
@@ -489,7 +489,7 @@
             "link_label": "2.1.12 TRANSPORT OF SAMPLES FOR FURTHER TESTING ",
             "start_page": 68,
             "end_page": 70,
-            "end_link_label": "2.2 IDENTIFICATION OF DANGEROUS GOODS",
+            "end_tag": "2.2",
             "children": []
           }
         ]
@@ -499,7 +499,7 @@
         "link_label": "2.2 IDENTIFICATION OF DANGEROUS GOODS",
         "start_page": 70,
         "end_page": 71,
-        "end_link_label": "2.3 SEGREGATION OF INCOMPATIBLE GOODS ",
+        "end_tag": "2.3",
         "children": []
       },
       {
@@ -507,7 +507,7 @@
         "link_label": "2.3 SEGREGATION OF INCOMPATIBLE GOODS ",
         "start_page": 71,
         "end_page": 73,
-        "end_link_label": "2.4 GENERAL REQUIREMENT OF PACKAGING ",
+        "end_tag": "2.4",
         "children": []
       },
       {
@@ -515,7 +515,7 @@
         "link_label": "2.4 GENERAL REQUIREMENT OF PACKAGING ",
         "start_page": 73,
         "end_page": 75,
-        "end_link_label": "2.5 MARKINGS AND LABELS ",
+        "end_tag": "2.5",
         "children": []
       },
       {
@@ -523,22 +523,22 @@
         "link_label": "2.5 MARKINGS AND LABELS ",
         "start_page": 75,
         "end_page": 86,
-        "end_link_label": "3 CARRIAGE OF DANGEROUS GOODS ",
+        "end_tag": "3",
         "children": [
           {
             "link_idx": "2.5.1",
             "link_label": "2.5.1 GENERAL ",
             "start_page": 75,
             "end_page": 75,
-            "end_link_label": "2.5.2 MARKING ",
+            "end_tag": "2.5.2",
             "children": []
           },
           {
             "link_idx": "2.5.2",
-            "link_label": "2.5.2 MARKING ",
+            "link_label": "2.5.2 MARKING ....................................................................................................................................................... 218 2.5.3LABELLING ...................................................................................................................................................... 221",
             "start_page": 75,
             "end_page": 78,
-            "end_link_label": "2.5.3 LABELLING ",
+            "end_tag": "2.5.3",
             "children": []
           },
           {
@@ -546,7 +546,7 @@
             "link_label": "2.5.3 LABELLING ",
             "start_page": 78,
             "end_page": 79,
-            "end_link_label": "2.5.4 HAZARD LABEL SPECIFICATIONS ",
+            "end_tag": "2.5.4",
             "children": []
           },
           {
@@ -554,7 +554,7 @@
             "link_label": "2.5.4 HAZARD LABEL SPECIFICATIONS ",
             "start_page": 79,
             "end_page": 83,
-            "end_link_label": "2.5.5 HANDLING LABELS ",
+            "end_tag": "2.5.5",
             "children": []
           },
           {
@@ -562,7 +562,7 @@
             "link_label": "2.5.5 HANDLING LABELS ",
             "start_page": 83,
             "end_page": 86,
-            "end_link_label": "3 CARRIAGE OF DANGEROUS GOODS ",
+            "end_tag": "3",
             "children": []
           }
         ]
@@ -571,17 +571,17 @@
   },
   {
     "link_idx": "3",
-    "link_label": "3 CARRIAGE OF DANGEROUS GOODS ",
+    "link_label": "3 CARRIAGE OF DANGEROUS GOODS .............................................................................. 31 3.1GENERAL PRINCIPLES ................................................................................................................................... 31",
     "start_page": 86,
     "end_page": 108,
-    "end_link_label": "4 DANGEROUS GOODS TRANSPORT PROCEDURES ",
+    "end_tag": "4",
     "children": [
       {
         "link_idx": "3.1",
         "link_label": "3.1 GENERAL PRINCIPLES ",
         "start_page": 86,
         "end_page": 87,
-        "end_link_label": "3.2 DANGEROUS GOODS PROHIBITED IN AIR TRANSPORT ",
+        "end_tag": "3.2",
         "children": []
       },
       {
@@ -589,22 +589,22 @@
         "link_label": "3.2 DANGEROUS GOODS PROHIBITED IN AIR TRANSPORT ",
         "start_page": 87,
         "end_page": 90,
-        "end_link_label": "3.3 DANGEROUS GOODS CARRIED BY PASSENGERS AND CREW ",
+        "end_tag": "3.3",
         "children": [
           {
             "link_idx": "3.2.1",
-            "link_label": "3.2.1 FORBIDDEN DANGEROUS GOODS ",
+            "link_label": "3.2.1 FORBIDDEN DANGEROUS GOODS ......................................................................................................... 32 3.2.2DANGEROUS GOODS REQUIRING EXEMPTION ................................................................................ 32",
             "start_page": 87,
             "end_page": 87,
-            "end_link_label": "3.2.2 DANGEROUS GOODS REQUIRING EXEMPTION ",
+            "end_tag": "3.2.2",
             "children": []
           },
           {
             "link_idx": "3.2.2",
-            "link_label": "3.2.2 DANGEROUS GOODS REQUIRING EXEMPTION ",
+            "link_label": "3.2.2 DANGEROUS GOODS REQUIRING EXEMPTION ................................................................................ 32 3.2.3APPROVAL OF EXEMPTIONS ..................................................................................................................... 33",
             "start_page": 87,
             "end_page": 88,
-            "end_link_label": "3.2.3 APPROVAL OF EXEMPTIONS ",
+            "end_tag": "3.2.3",
             "children": []
           },
           {
@@ -612,7 +612,7 @@
             "link_label": "3.2.3 APPROVAL OF EXEMPTIONS ",
             "start_page": 88,
             "end_page": 88,
-            "end_link_label": "3.2.4 RESTRICTIONS ON SPECIFIC DANGEROUS GOODS ",
+            "end_tag": "3.2.4",
             "children": []
           },
           {
@@ -620,32 +620,32 @@
             "link_label": "3.2.4 RESTRICTIONS ON SPECIFIC DANGEROUS GOODS ",
             "start_page": 88,
             "end_page": 89,
-            "end_link_label": "3.2.5 DANGEROUS GOODS IN THE MAIL ",
+            "end_tag": "3.2.5",
             "children": []
           },
           {
             "link_idx": "3.2.5",
-            "link_label": "3.2.5 DANGEROUS GOODS IN THE MAIL ",
+            "link_label": "3.2.5 DANGEROUS GOODS IN THE MAIL ........................................................................................................ 34 3DANGEROUS GOODS CARRIED BY PASSENGERS AND CREW .................................................... 35",
             "start_page": 89,
             "end_page": 90,
-            "end_link_label": "3.3 DANGEROUS GOODS CARRIED BY PASSENGERS AND CREW ",
+            "end_tag": "3.3",
             "children": []
           }
         ]
       },
       {
         "link_idx": "3.3",
-        "link_label": "3.3 DANGEROUS GOODS CARRIED BY PASSENGERS AND CREW ",
+        "link_label": "3.3 DANGEROUS GOODS CARRIED BY PASSENGERS AND CREW .................................................... 35 3.3.1REQUIRED OPERATOR APPROVAL .......................................................................................................... 35",
         "start_page": 90,
         "end_page": 98,
-        "end_link_label": "3.4 GENERAL EXCEPTIONS ",
+        "end_tag": "3.4",
         "children": [
           {
             "link_idx": "3.3.1",
             "link_label": "3.3.1 REQUIRED OPERATOR APPROVAL ",
             "start_page": 90,
             "end_page": 90,
-            "end_link_label": "3.3.2 FORBIDDEN GOODS ",
+            "end_tag": "3.3.2",
             "children": []
           },
           {
@@ -653,7 +653,7 @@
             "link_label": "3.3.2 FORBIDDEN GOODS ",
             "start_page": 90,
             "end_page": 91,
-            "end_link_label": "3.3.3 PROVISIONS FOR CARRIAGE IN THE CABIN ",
+            "end_tag": "3.3.3",
             "children": []
           },
           {
@@ -661,7 +661,7 @@
             "link_label": "3.3.3 PROVISIONS FOR CARRIAGE IN THE CABIN ",
             "start_page": 91,
             "end_page": 98,
-            "end_link_label": "3.4 GENERAL EXCEPTIONS ",
+            "end_tag": "3.4",
             "children": []
           }
         ]
@@ -671,14 +671,14 @@
         "link_label": "3.4 GENERAL EXCEPTIONS ",
         "start_page": 98,
         "end_page": 99,
-        "end_link_label": "3.5 HANDLING OF SPECIFIC DANGEROUS GOODS ",
+        "end_tag": "3.5",
         "children": [
           {
             "link_idx": "3.4.1",
             "link_label": "3.4.1 AIRWORTHINESS AND OPERATIONAL ITEMS ",
             "start_page": 98,
             "end_page": 98,
-            "end_link_label": "3.4.2 MEDICAL AID FOR A PATIENT ",
+            "end_tag": "3.4.2",
             "children": []
           },
           {
@@ -686,7 +686,7 @@
             "link_label": "3.4.2 MEDICAL AID FOR A PATIENT ",
             "start_page": 98,
             "end_page": 99,
-            "end_link_label": "3.5 HANDLING OF SPECIFIC DANGEROUS GOODS ",
+            "end_tag": "3.5",
             "children": []
           }
         ]
@@ -696,22 +696,22 @@
         "link_label": "3.5 HANDLING OF SPECIFIC DANGEROUS GOODS ",
         "start_page": 99,
         "end_page": 102,
-        "end_link_label": "3.6 MARKING AND LABELLING OF PACKAGES ",
+        "end_tag": "3.6",
         "children": [
           {
             "link_idx": "3.5.1",
             "link_label": "3.5.1 LOADING OF BATTERY POWERED MOBILITY AIDS  GENERAL REQUIREMENTS ",
             "start_page": 99,
             "end_page": 99,
-            "end_link_label": "3.5.2 ADDITIONAL REQUIREMENTS  NONSPILLABLE BATTERY POWERED MOBILITY AIDS",
+            "end_tag": "3.5.2",
             "children": []
           },
           {
             "link_idx": "3.5.2",
-            "link_label": "3.5.2 ADDITIONAL REQUIREMENTS  NONSPILLABLE BATTERY POWERED MOBILITY AIDS",
+            "link_label": "3.5.2 ADDITIONAL REQUIREMENTS  NONSPILLABLE BATTERY POWERED MOBILITY AIDS ",
             "start_page": 99,
             "end_page": 100,
-            "end_link_label": "3.5.3 ADDITIONAL REQUIREMENTS  SPILLABLE BATTERY POWERED MOBILITY AIDS ",
+            "end_tag": "3.5.3",
             "children": []
           },
           {
@@ -719,7 +719,7 @@
             "link_label": "3.5.3 ADDITIONAL REQUIREMENTS  SPILLABLE BATTERY POWERED MOBILITY AIDS ",
             "start_page": 100,
             "end_page": 100,
-            "end_link_label": "3.5.4 ADDITIONAL REQUIREMENTS  LITHIUMION BATTERY POWERED MOBILITY AIDS ",
+            "end_tag": "3.5.4",
             "children": []
           },
           {
@@ -727,7 +727,7 @@
             "link_label": "3.5.4 ADDITIONAL REQUIREMENTS  LITHIUMION BATTERY POWERED MOBILITY AIDS ",
             "start_page": 100,
             "end_page": 100,
-            "end_link_label": "3.5.5 LABELLING OF BATTERY POWERED MOBILITY AIDS ",
+            "end_tag": "3.5.5",
             "children": []
           },
           {
@@ -735,7 +735,7 @@
             "link_label": "3.5.5 LABELLING OF BATTERY POWERED MOBILITY AIDS ",
             "start_page": 100,
             "end_page": 101,
-            "end_link_label": "3.5.6 BATTERY POWERED MOBILITY AIDS  INFORMATION TO COMMANDER ",
+            "end_tag": "3.5.6",
             "children": []
           },
           {
@@ -743,7 +743,7 @@
             "link_label": "3.5.6 BATTERY POWERED MOBILITY AIDS  INFORMATION TO COMMANDER ",
             "start_page": 101,
             "end_page": 101,
-            "end_link_label": "3.5.7 MEDICAL OXYGEN ",
+            "end_tag": "3.5.7",
             "children": []
           },
           {
@@ -751,7 +751,7 @@
             "link_label": "3.5.7 MEDICAL OXYGEN ",
             "start_page": 101,
             "end_page": 101,
-            "end_link_label": "3.5.8 DRY ICE CARBON DIOXIDE SOLID ",
+            "end_tag": "3.5.8",
             "children": []
           },
           {
@@ -759,7 +759,7 @@
             "link_label": "3.5.8 DRY ICE CARBON DIOXIDE SOLID ",
             "start_page": 101,
             "end_page": 101,
-            "end_link_label": "3.5.9 AMMUNITION ",
+            "end_tag": "3.5.9",
             "children": []
           },
           {
@@ -767,7 +767,7 @@
             "link_label": "3.5.9 AMMUNITION ",
             "start_page": 101,
             "end_page": 102,
-            "end_link_label": "3.6 MARKING AND LABELLING OF PACKAGES ",
+            "end_tag": "3.6",
             "children": []
           }
         ]
@@ -777,14 +777,14 @@
         "link_label": "3.6 MARKING AND LABELLING OF PACKAGES ",
         "start_page": 102,
         "end_page": 107,
-        "end_link_label": "3.7 RECOGNITION OF UNDECLARED DANGEROUS GOODS ",
+        "end_tag": "3.7",
         "children": [
           {
             "link_idx": "3.6.1",
             "link_label": "3.6.1 HAZARD LABELS ",
             "start_page": 102,
             "end_page": 105,
-            "end_link_label": "3.6.2 HANDLING LABELS ",
+            "end_tag": "3.6.2",
             "children": []
           },
           {
@@ -792,7 +792,7 @@
             "link_label": "3.6.2 HANDLING LABELS ",
             "start_page": 105,
             "end_page": 106,
-            "end_link_label": "3.6.3 MARKINGS ",
+            "end_tag": "3.6.3",
             "children": []
           },
           {
@@ -800,7 +800,7 @@
             "link_label": "3.6.3 MARKINGS ",
             "start_page": 106,
             "end_page": 107,
-            "end_link_label": "3.7 RECOGNITION OF UNDECLARED DANGEROUS GOODS ",
+            "end_tag": "3.7",
             "children": []
           }
         ]
@@ -810,14 +810,14 @@
         "link_label": "3.7 RECOGNITION OF UNDECLARED DANGEROUS GOODS ",
         "start_page": 107,
         "end_page": 108,
-        "end_link_label": "4 DANGEROUS GOODS TRANSPORT PROCEDURES ",
+        "end_tag": "4",
         "children": [
           {
             "link_idx": "3.7.1",
             "link_label": "3.7.1 IDENTIFICATION OF DANGEROUS GOODS THROUGH XRAY SCREENING ",
             "start_page": 107,
             "end_page": 107,
-            "end_link_label": "3.7.2 GHS CONSUMER LABELLING ",
+            "end_tag": "3.7.2",
             "children": []
           },
           {
@@ -825,7 +825,7 @@
             "link_label": "3.7.2 GHS CONSUMER LABELLING ",
             "start_page": 107,
             "end_page": 108,
-            "end_link_label": "4 DANGEROUS GOODS TRANSPORT PROCEDURES ",
+            "end_tag": "4",
             "children": []
           }
         ]
@@ -837,37 +837,37 @@
     "link_label": "4 DANGEROUS GOODS TRANSPORT PROCEDURES ",
     "start_page": 108,
     "end_page": 124,
-    "end_link_label": "5 RADIOACTIVE MATERIAL ",
+    "end_tag": "5",
     "children": [
       {
         "link_idx": "4.1",
         "link_label": "4.1 GENERAL RULES FOR COLLECTION AND TRANSPORTATION ",
         "start_page": 108,
         "end_page": 109,
-        "end_link_label": "4.2 DELIVERY COLLECTION AND TRANSPORTATION PROCEDURES ",
+        "end_tag": "4.2",
         "children": []
       },
       {
         "link_idx": "4.2",
-        "link_label": "4.2 DELIVERY COLLECTION AND TRANSPORTATION PROCEDURES ",
+        "link_label": "4.2 DELIVERY COLLECTION AND TRANSPORTATION PROCEDURES .............................................. 42 4.3STORAGE OF DANGEROUS GOODS ....................................................................................................... 44",
         "start_page": 109,
         "end_page": 111,
-        "end_link_label": "4.3 STORAGE OF DANGEROUS GOODS ",
+        "end_tag": "4.3",
         "children": []
       },
       {
         "link_idx": "4.3",
-        "link_label": "4.3 STORAGE OF DANGEROUS GOODS ",
+        "link_label": "4.3 STORAGE OF DANGEROUS GOODS ....................................................................................................... 44 4.3.1GENERAL STORAGE REQUIREMENTS..................................................................................................... 44",
         "start_page": 111,
         "end_page": 113,
-        "end_link_label": "4.4 LOADING OF DANGEROUS GOODS ",
+        "end_tag": "4.4",
         "children": [
           {
             "link_idx": "4.3.1",
             "link_label": "4.3.1 GENERAL STORAGE REQUIREMENTS",
             "start_page": 111,
             "end_page": 111,
-            "end_link_label": "4.3.2 STORAGE OF SPECIFIC DANGEROUS GOODS ",
+            "end_tag": "4.3.2",
             "children": []
           },
           {
@@ -875,25 +875,25 @@
             "link_label": "4.3.2 STORAGE OF SPECIFIC DANGEROUS GOODS ",
             "start_page": 111,
             "end_page": 112,
-            "end_link_label": "4.3.3 STORAGE OF DANGEROUS GOODS SPARES ",
+            "end_tag": "4.3.3",
             "children": []
           },
           {
             "link_idx": "4.3.3",
-            "link_label": "4.3.3 STORAGE OF DANGEROUS GOODS SPARES ",
+            "link_label": "4.3.3 STORAGE OF DANGEROUS GOODS SPARES ..................................................................... 45 4LOADING OF DANGEROUS GOODS ....................................................................................................... 46",
             "start_page": 112,
             "end_page": 113,
-            "end_link_label": "4.4 LOADING OF DANGEROUS GOODS ",
+            "end_tag": "4.4",
             "children": []
           }
         ]
       },
       {
         "link_idx": "4.4",
-        "link_label": "4.4 LOADING OF DANGEROUS GOODS ",
+        "link_label": "4.4 LOADING OF DANGEROUS GOODS ....................................................................................................... 46 4.5DANGEROUS GOODS DOCUMENTS ...................................................................................................... 47",
         "start_page": 113,
         "end_page": 114,
-        "end_link_label": "4.5 DANGEROUS GOODS DOCUMENTS ",
+        "end_tag": "4.5",
         "children": []
       },
       {
@@ -901,7 +901,7 @@
         "link_label": "4.5 DANGEROUS GOODS DOCUMENTS ",
         "start_page": 114,
         "end_page": 115,
-        "end_link_label": "4.6 HANDLING ",
+        "end_tag": "4.6",
         "children": []
       },
       {
@@ -909,22 +909,22 @@
         "link_label": "4.6 HANDLING ",
         "start_page": 115,
         "end_page": 120,
-        "end_link_label": "4.7 PROVISION OF INFORMATION ",
+        "end_tag": "4.7",
         "children": [
           {
             "link_idx": "4.6.1",
-            "link_label": "4.6.1 GENERAL ",
+            "link_label": "4.6.1 GENERAL ............................................................................................................................................................ 48 4.6.2ACCEPTANCE ................................................................................................................................................... 48",
             "start_page": 115,
             "end_page": 115,
-            "end_link_label": "4.6.2 ACCEPTANCE ",
+            "end_tag": "4.6.2",
             "children": []
           },
           {
             "link_idx": "4.6.2",
-            "link_label": "4.6.2 ACCEPTANCE ",
+            "link_label": "4.6.2 ACCEPTANCE ................................................................................................................................................... 48 4.6.3LOADING ........................................................................................................................................................... 49",
             "start_page": 115,
             "end_page": 116,
-            "end_link_label": "4.6.3 LOADING ",
+            "end_tag": "4.6.3",
             "children": []
           },
           {
@@ -932,7 +932,7 @@
             "link_label": "4.6.3 LOADING ",
             "start_page": 116,
             "end_page": 119,
-            "end_link_label": "4.6.4 INSPECTION ",
+            "end_tag": "4.6.4",
             "children": []
           },
           {
@@ -940,7 +940,7 @@
             "link_label": "4.6.4 INSPECTION ",
             "start_page": 119,
             "end_page": 120,
-            "end_link_label": "4.7 PROVISION OF INFORMATION ",
+            "end_tag": "4.7",
             "children": []
           }
         ]
@@ -950,14 +950,14 @@
         "link_label": "4.7 PROVISION OF INFORMATION ",
         "start_page": 120,
         "end_page": 122,
-        "end_link_label": "4.8 RETENTION OF DOCUMENTS ",
+        "end_tag": "4.8",
         "children": [
           {
             "link_idx": "4.7.1",
             "link_label": "4.7.1 INFORMATION TO THE PILOTINCOMMAND ",
             "start_page": 120,
             "end_page": 120,
-            "end_link_label": "4.7.2 INFORMATION BY PILOTINCOMMAND IN INFLIGHT EMERGENCY ",
+            "end_tag": "4.7.2",
             "children": []
           },
           {
@@ -965,7 +965,7 @@
             "link_label": "4.7.2 INFORMATION BY PILOTINCOMMAND IN INFLIGHT EMERGENCY ",
             "start_page": 120,
             "end_page": 120,
-            "end_link_label": "4.7.3 INFORMATION TO PASSENGERS ",
+            "end_tag": "4.7.3",
             "children": []
           },
           {
@@ -973,7 +973,7 @@
             "link_label": "4.7.3 INFORMATION TO PASSENGERS ",
             "start_page": 120,
             "end_page": 122,
-            "end_link_label": "4.8 RETENTION OF DOCUMENTS ",
+            "end_tag": "4.8",
             "children": []
           }
         ]
@@ -983,7 +983,7 @@
         "link_label": "4.8 RETENTION OF DOCUMENTS ",
         "start_page": 122,
         "end_page": 124,
-        "end_link_label": "5 RADIOACTIVE MATERIAL ",
+        "end_tag": "5",
         "children": []
       }
     ]
@@ -993,14 +993,14 @@
     "link_label": "5 RADIOACTIVE MATERIAL ",
     "start_page": 124,
     "end_page": 136,
-    "end_link_label": "6 EMERGENCY HANDLING OF DANGEROUS GOODS ",
+    "end_tag": "6",
     "children": [
       {
         "link_idx": "5.1",
         "link_label": "5.1 TRANSPORT OF RADIOACTIVE MATERIAL ",
         "start_page": 124,
         "end_page": 126,
-        "end_link_label": "5.2 LIMITATIONS ",
+        "end_tag": "5.2",
         "children": []
       },
       {
@@ -1008,7 +1008,7 @@
         "link_label": "5.2 LIMITATIONS ",
         "start_page": 126,
         "end_page": 127,
-        "end_link_label": "5.3 CLASSIFICATION ",
+        "end_tag": "5.3",
         "children": []
       },
       {
@@ -1016,14 +1016,14 @@
         "link_label": "5.3 CLASSIFICATION ",
         "start_page": 127,
         "end_page": 129,
-        "end_link_label": "5.4 IDENTIFICATION ",
+        "end_tag": "5.4",
         "children": [
           {
             "link_idx": "5.3.1",
             "link_label": "5.3.1 SPECIAL FORM RADIOACTIVE MATERIAL ",
             "start_page": 127,
             "end_page": 128,
-            "end_link_label": "5.3.2 LOW SPECIFIC ACTIVITY LSA MATERIAL ",
+            "end_tag": "5.3.2",
             "children": []
           },
           {
@@ -1031,7 +1031,7 @@
             "link_label": "5.3.2 LOW SPECIFIC ACTIVITY LSA MATERIAL ",
             "start_page": 128,
             "end_page": 128,
-            "end_link_label": "5.3.3 SURFACE CONTAMINATED OBJECT ",
+            "end_tag": "5.3.3",
             "children": []
           },
           {
@@ -1039,7 +1039,7 @@
             "link_label": "5.3.3 SURFACE CONTAMINATED OBJECT ",
             "start_page": 128,
             "end_page": 129,
-            "end_link_label": "5.4 IDENTIFICATION ",
+            "end_tag": "5.4",
             "children": []
           }
         ]
@@ -1049,7 +1049,7 @@
         "link_label": "5.4 IDENTIFICATION ",
         "start_page": 129,
         "end_page": 130,
-        "end_link_label": "5.5 PACKING ",
+        "end_tag": "5.5",
         "children": []
       },
       {
@@ -1057,7 +1057,7 @@
         "link_label": "5.5 PACKING ",
         "start_page": 130,
         "end_page": 131,
-        "end_link_label": "5.6 MARKING AND LABELLING ",
+        "end_tag": "5.6",
         "children": []
       },
       {
@@ -1065,7 +1065,7 @@
         "link_label": "5.6 MARKING AND LABELLING ",
         "start_page": 131,
         "end_page": 132,
-        "end_link_label": "5.7 DOCUMENTATION ",
+        "end_tag": "5.7",
         "children": []
       },
       {
@@ -1073,7 +1073,7 @@
         "link_label": "5.7 DOCUMENTATION ",
         "start_page": 132,
         "end_page": 133,
-        "end_link_label": "5.8 HANDLING ",
+        "end_tag": "5.8",
         "children": []
       },
       {
@@ -1081,7 +1081,7 @@
         "link_label": "5.8 HANDLING ",
         "start_page": 133,
         "end_page": 134,
-        "end_link_label": "5.9 RADIOACTIVE MATERIALS INCIDENT REPORTING ",
+        "end_tag": "5.9",
         "children": []
       },
       {
@@ -1089,7 +1089,7 @@
         "link_label": "5.9 RADIOACTIVE MATERIALS INCIDENT REPORTING ",
         "start_page": 134,
         "end_page": 136,
-        "end_link_label": "6 EMERGENCY HANDLING OF DANGEROUS GOODS ",
+        "end_tag": "6",
         "children": []
       }
     ]
@@ -1099,29 +1099,29 @@
     "link_label": "6 EMERGENCY HANDLING OF DANGEROUS GOODS ",
     "start_page": 136,
     "end_page": 148,
-    "end_link_label": "7 DANGEROUS GOODS SECURITY ",
+    "end_tag": "7",
     "children": [
       {
         "link_idx": "6.1",
         "link_label": "6.1 GENERAL PROVISIONS ",
         "start_page": 136,
         "end_page": 137,
-        "end_link_label": "6.2 EMERGENCY RESPONSE REQUIREMENTS ",
+        "end_tag": "6.2",
         "children": []
       },
       {
         "link_idx": "6.2",
-        "link_label": "6.2 EMERGENCY RESPONSE REQUIREMENTS ",
+        "link_label": "6.2 EMERGENCY RESPONSE REQUIREMENTS ........................................................................................... 62 6.2.1EMERGENCY RESPONSE DRILLS .............................................................................................................. 63",
         "start_page": 137,
         "end_page": 142,
-        "end_link_label": "6.3 GENERAL EMERGENCY RESPONSE CONSIDERATIONS ",
+        "end_tag": "6.3",
         "children": [
           {
             "link_idx": "6.2.1",
             "link_label": "6.2.1 EMERGENCY RESPONSE DRILLS ",
             "start_page": 138,
             "end_page": 141,
-            "end_link_label": "6.2.2 EMERGENCY DRILL LETTERS ",
+            "end_tag": "6.2.2",
             "children": []
           },
           {
@@ -1129,25 +1129,25 @@
             "link_label": "6.2.2 EMERGENCY DRILL LETTERS ",
             "start_page": 141,
             "end_page": 142,
-            "end_link_label": "6.3 GENERAL EMERGENCY RESPONSE CONSIDERATIONS ",
+            "end_tag": "6.3",
             "children": []
           }
         ]
       },
       {
         "link_idx": "6.3",
-        "link_label": "6.3 GENERAL EMERGENCY RESPONSE CONSIDERATIONS ",
+        "link_label": "6.3 GENERAL EMERGENCY RESPONSE CONSIDERATIONS .................................................................. 67 6.4ACCIDENTS AND INCIDENTS REPORT OF DANGEROUS GOODS .............................................. 68",
         "start_page": 142,
         "end_page": 143,
-        "end_link_label": "6.4 ACCIDENTS AND INCIDENTS REPORT OF DANGEROUS GOODS ",
+        "end_tag": "6.4",
         "children": []
       },
       {
         "link_idx": "6.4",
-        "link_label": "6.4 ACCIDENTS AND INCIDENTS REPORT OF DANGEROUS GOODS ",
+        "link_label": "6.4 ACCIDENTS AND INCIDENTS REPORT OF DANGEROUS GOODS .............................................. 68 6.5EMERGENCY RESPONSE PROCEDURES IN AIR ............................................................................... 610",
         "start_page": 143,
         "end_page": 145,
-        "end_link_label": "6.5 EMERGENCY RESPONSE PROCEDURES IN AIR ",
+        "end_tag": "6.5",
         "children": []
       },
       {
@@ -1155,7 +1155,7 @@
         "link_label": "6.5 EMERGENCY RESPONSE PROCEDURES IN AIR ",
         "start_page": 145,
         "end_page": 146,
-        "end_link_label": "6.6 EMERGENCY RESPONSE PROCEDURES OF DANGEROUS GOODS ACCIDENT OR INCIDENT",
+        "end_tag": "6.6",
         "children": []
       },
       {
@@ -1163,7 +1163,7 @@
         "link_label": "6.6 EMERGENCY RESPONSE PROCEDURES OF DANGEROUS GOODS ACCIDENT OR INCIDENT",
         "start_page": 146,
         "end_page": 148,
-        "end_link_label": "7 DANGEROUS GOODS SECURITY ",
+        "end_tag": "7",
         "children": []
       }
     ]
@@ -1173,14 +1173,14 @@
     "link_label": "7 DANGEROUS GOODS SECURITY ",
     "start_page": 148,
     "end_page": 156,
-    "end_link_label": "8 TRAINING ",
+    "end_tag": "8",
     "children": [
       {
         "link_idx": "7.1",
-        "link_label": "7.1 SECURITY RESPONSIBILITIES ",
+        "link_label": "7.1 SECURITY RESPONSIBILITIES ..................................................................................................................... 71 7.2FACILITY SECURITY ........................................................................................................................................ 72",
         "start_page": 148,
         "end_page": 149,
-        "end_link_label": "7.2 FACILITY SECURITY ",
+        "end_tag": "7.2",
         "children": []
       },
       {
@@ -1188,7 +1188,7 @@
         "link_label": "7.2 FACILITY SECURITY ",
         "start_page": 149,
         "end_page": 150,
-        "end_link_label": "7.3 CARGO SECURITY PROCEDURES ",
+        "end_tag": "7.3",
         "children": []
       },
       {
@@ -1196,15 +1196,15 @@
         "link_label": "7.3 CARGO SECURITY PROCEDURES ",
         "start_page": 150,
         "end_page": 151,
-        "end_link_label": "7.4 PERSONNEL SECURITY AND TRAINING ",
+        "end_tag": "7.4",
         "children": []
       },
       {
         "link_idx": "7.4",
-        "link_label": "7.4 PERSONNEL SECURITY AND TRAINING ",
+        "link_label": "7.4 PERSONNEL SECURITY AND TRAINING ................................................................................................ 74 7.5PREBOARD INSPECTION OF PASSENGERS ........................................................................................ 75",
         "start_page": 151,
         "end_page": 152,
-        "end_link_label": "7.5 PREBOARD INSPECTION OF PASSENGERS ",
+        "end_tag": "7.5",
         "children": []
       },
       {
@@ -1212,7 +1212,7 @@
         "link_label": "7.5 PREBOARD INSPECTION OF PASSENGERS ",
         "start_page": 152,
         "end_page": 156,
-        "end_link_label": "8 TRAINING ",
+        "end_tag": "8",
         "children": []
       }
     ]
@@ -1222,14 +1222,14 @@
     "link_label": "8 TRAINING ",
     "start_page": 156,
     "end_page": 168,
-    "end_link_label": "9 APPENDIX ",
+    "end_tag": "9",
     "children": [
       {
         "link_idx": "8.1",
         "link_label": "8.1 PURPOSE AND SCOPE",
         "start_page": 156,
         "end_page": 157,
-        "end_link_label": "8.2 TRAINING METHODOLOGY ",
+        "end_tag": "8.2",
         "children": []
       },
       {
@@ -1237,14 +1237,14 @@
         "link_label": "8.2 TRAINING METHODOLOGY ",
         "start_page": 157,
         "end_page": 159,
-        "end_link_label": "8.3 TRAINING CURRICULUM ",
+        "end_tag": "8.3",
         "children": [
           {
             "link_idx": "8.2.1",
-            "link_label": "8.2.1 DELIVERY METHODS ",
+            "link_label": "8.2.1 DELIVERY METHODS .......................................................................................................... 82 8.2.2TRAINING ENVIRONMENT AND TOOLS ............................................................................................... 83",
             "start_page": 157,
             "end_page": 158,
-            "end_link_label": "8.2.2 TRAINING ENVIRONMENT AND TOOLS ",
+            "end_tag": "8.2.2",
             "children": []
           },
           {
@@ -1252,7 +1252,7 @@
             "link_label": "8.2.2 TRAINING ENVIRONMENT AND TOOLS ",
             "start_page": 158,
             "end_page": 159,
-            "end_link_label": "8.3 TRAINING CURRICULUM ",
+            "end_tag": "8.3",
             "children": []
           }
         ]
@@ -1262,22 +1262,22 @@
         "link_label": "8.3 TRAINING CURRICULUM ",
         "start_page": 159,
         "end_page": 163,
-        "end_link_label": "8.4 PROGRAM DEVELOPMENT ",
+        "end_tag": "8.4",
         "children": [
           {
             "link_idx": "8.3.1",
             "link_label": "8.3.1 FLIGHT CREW ",
             "start_page": 159,
             "end_page": 159,
-            "end_link_label": "8.3.2 GROUND HANDLING PERSONNEL ",
+            "end_tag": "8.3.2",
             "children": []
           },
           {
             "link_idx": "8.3.2",
-            "link_label": "8.3.2 GROUND HANDLING PERSONNEL ",
+            "link_label": "8.3.2 GROUND HANDLING PERSONNEL .................................................................................... 84 8.3.3FLIGHT OPERATIONS AND DISPATCH ................................................................................................... 86",
             "start_page": 159,
             "end_page": 161,
-            "end_link_label": "8.3.3 FLIGHT OPERATIONS AND DISPATCH ",
+            "end_tag": "8.3.3",
             "children": []
           },
           {
@@ -1285,7 +1285,7 @@
             "link_label": "8.3.3 FLIGHT OPERATIONS AND DISPATCH ",
             "start_page": 161,
             "end_page": 161,
-            "end_link_label": "8.3.4 CABIN CREW ",
+            "end_tag": "8.3.4",
             "children": []
           },
           {
@@ -1293,7 +1293,7 @@
             "link_label": "8.3.4 CABIN CREW ",
             "start_page": 161,
             "end_page": 163,
-            "end_link_label": "8.4 PROGRAM DEVELOPMENT ",
+            "end_tag": "8.4",
             "children": []
           }
         ]
@@ -1303,14 +1303,14 @@
         "link_label": "8.4 PROGRAM DEVELOPMENT ",
         "start_page": 163,
         "end_page": 164,
-        "end_link_label": "8.5 ASSESSMENT PROCEDURES ",
+        "end_tag": "8.5",
         "children": [
           {
             "link_idx": "8.4.1",
             "link_label": "8.4.1 TRAINING NEEDS ANALYSIS ",
             "start_page": 163,
             "end_page": 163,
-            "end_link_label": "8.4.2 PROGRAM DESIGN ",
+            "end_tag": "8.4.2",
             "children": []
           },
           {
@@ -1318,7 +1318,7 @@
             "link_label": "8.4.2 PROGRAM DESIGN ",
             "start_page": 163,
             "end_page": 164,
-            "end_link_label": "8.5 ASSESSMENT PROCEDURES ",
+            "end_tag": "8.5",
             "children": []
           }
         ]
@@ -1328,7 +1328,7 @@
         "link_label": "8.5 ASSESSMENT PROCEDURES ",
         "start_page": 164,
         "end_page": 165,
-        "end_link_label": "8.6 INSTRUCTOR QUALIFICATIONS ",
+        "end_tag": "8.6",
         "children": []
       },
       {
@@ -1336,7 +1336,7 @@
         "link_label": "8.6 INSTRUCTOR QUALIFICATIONS ",
         "start_page": 165,
         "end_page": 166,
-        "end_link_label": "8.7 RECORDKEEPING ",
+        "end_tag": "8.7",
         "children": []
       },
       {
@@ -1344,7 +1344,7 @@
         "link_label": "8.7 RECORDKEEPING ",
         "start_page": 166,
         "end_page": 167,
-        "end_link_label": "8.8 EVALUATING PROGRAM EFFECTIVENESS ",
+        "end_tag": "8.8",
         "children": []
       },
       {
@@ -1352,7 +1352,7 @@
         "link_label": "8.8 EVALUATING PROGRAM EFFECTIVENESS ",
         "start_page": 167,
         "end_page": 168,
-        "end_link_label": "9 APPENDIX ",
+        "end_tag": "9",
         "children": []
       }
     ]
@@ -1362,14 +1362,14 @@
     "link_label": "9 APPENDIX ",
     "start_page": 168,
     "end_page": -1,
-    "end_link_label": null,
+    "end_tag": null,
     "children": [
       {
         "link_idx": "9.1",
         "link_label": "9.1 SAUDI DANGEROUS GOODS REGULATIONS DGR VARIATION ",
         "start_page": 168,
         "end_page": 170,
-        "end_link_label": "9.2 RIYADH AIR DANGEROUS GOODS REGULATIONS VARIATION ",
+        "end_tag": "9.2",
         "children": []
       },
       {
@@ -1377,22 +1377,22 @@
         "link_label": "9.2 RIYADH AIR DANGEROUS GOODS REGULATIONS VARIATION ",
         "start_page": 170,
         "end_page": 171,
-        "end_link_label": "9.3 FORMS ",
+        "end_tag": "9.3",
         "children": [
           {
             "link_idx": "9.2.1",
             "link_label": "9.2.1 INTRODUCTION ",
             "start_page": 170,
             "end_page": 170,
-            "end_link_label": "9.2.2 DGR VARIATION ",
+            "end_tag": "9.2.2",
             "children": []
           },
           {
             "link_idx": "9.2.2",
-            "link_label": "9.2.2 DGR VARIATION ",
+            "link_label": "9.2.2 DGR VARIATION ............................................................................................................................................. 93 3FORMS ................................................................................................................................................................ 94",
             "start_page": 170,
             "end_page": 171,
-            "end_link_label": "9.3 FORMS ",
+            "end_tag": "9.3",
             "children": []
           }
         ]
@@ -1402,14 +1402,14 @@
         "link_label": "9.3 FORMS ",
         "start_page": 171,
         "end_page": 172,
-        "end_link_label": "9.4 HIDDEN SHIPMENT INDICATORS ",
+        "end_tag": "9.4",
         "children": [
           {
             "link_idx": "9.3.1",
             "link_label": "9.3.1 NOTOC ",
             "start_page": 171,
             "end_page": 172,
-            "end_link_label": "9.4 HIDDEN SHIPMENT INDICATORS ",
+            "end_tag": "9.4",
             "children": []
           }
         ]
@@ -1419,7 +1419,7 @@
         "link_label": "9.4 HIDDEN SHIPMENT INDICATORS ",
         "start_page": 172,
         "end_page": -1,
-        "end_link_label": null,
+        "end_tag": null,
         "children": []
       }
     ]

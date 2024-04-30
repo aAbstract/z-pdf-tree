@@ -4,22 +4,22 @@
     "link_label": "0 FRONT MATTER ",
     "start_page": 2,
     "end_page": 40,
-    "end_link_label": "1 EFB MANAGEMENT PHILOSOPHY ",
+    "end_tag": "1",
     "children": [
       {
         "link_idx": "0.1",
-        "link_label": "0.1 TABLE OF CONTENTS ",
+        "link_label": "0.1 TABLE OF CONTENTS ................................................................................................................................... 03 0.2REVISION HIGHLIGHTS ................................................................................................................................ 07",
         "start_page": 2,
         "end_page": 6,
-        "end_link_label": "0.2 REVISION HIGHLIGHTS ",
+        "end_tag": "0.2",
         "children": []
       },
       {
         "link_idx": "0.2",
-        "link_label": "0.2 REVISION HIGHLIGHTS ",
+        "link_label": "0.2 REVISION HIGHLIGHTS ................................................................................................................................ 07 0.3RECORD OF REVISIONS ............................................................................................................................... 09",
         "start_page": 6,
         "end_page": 8,
-        "end_link_label": "0.3 RECORD OF REVISIONS ",
+        "end_tag": "0.3",
         "children": []
       },
       {
@@ -27,7 +27,7 @@
         "link_label": "0.3 RECORD OF REVISIONS ",
         "start_page": 8,
         "end_page": 10,
-        "end_link_label": "0.4 RECORD OF OPERATIONS MANUAL NOTICE OMN ",
+        "end_tag": "0.4",
         "children": []
       },
       {
@@ -35,23 +35,23 @@
         "link_label": "0.4 RECORD OF OPERATIONS MANUAL NOTICE OMN ",
         "start_page": 10,
         "end_page": 12,
-        "end_link_label": "0.5 LIST OF EFFECTIVE PAGES ",
+        "end_tag": "0.5",
         "children": []
       },
       {
         "link_idx": "0.5",
-        "link_label": "0.5 LIST OF EFFECTIVE PAGES ",
+        "link_label": "0.5 LIST OF EFFECTIVE PAGES ........................................................................................................................ 013 0.6LIST OF TABLES ............................................................................................................................................ 017",
         "start_page": 12,
         "end_page": 16,
-        "end_link_label": "0.6 LIST OF TABLES ",
+        "end_tag": "0.6",
         "children": []
       },
       {
         "link_idx": "0.6",
-        "link_label": "0.6 LIST OF TABLES ",
+        "link_label": "0.6 LIST OF TABLES ............................................................................................................................................ 017 0.7LIST OF FIGURES .......................................................................................................................................... 019",
         "start_page": 16,
         "end_page": 18,
-        "end_link_label": "0.7 LIST OF FIGURES ",
+        "end_tag": "0.7",
         "children": []
       },
       {
@@ -59,7 +59,7 @@
         "link_label": "0.7 LIST OF FIGURES ",
         "start_page": 18,
         "end_page": 20,
-        "end_link_label": "0.8 LIST OF COMPLIANCE ENTRIES ",
+        "end_tag": "0.8",
         "children": []
       },
       {
@@ -67,23 +67,23 @@
         "link_label": "0.8 LIST OF COMPLIANCE ENTRIES ",
         "start_page": 20,
         "end_page": 26,
-        "end_link_label": "0.9 MANAGEMENT APPROVAL ",
+        "end_tag": "0.9",
         "children": []
       },
       {
         "link_idx": "0.9",
-        "link_label": "0.9 MANAGEMENT APPROVAL ",
+        "link_label": "0.9 MANAGEMENT APPROVAL ..................................................................................................................... 027 0.10GACA APPROVAL  ACCEPTANCE ........................................................................................................ 029",
         "start_page": 26,
         "end_page": 28,
-        "end_link_label": "0.10 GACA APPROVAL  ACCEPTANCE ",
+        "end_tag": "0.10",
         "children": []
       },
       {
         "link_idx": "0.10",
-        "link_label": "0.10 GACA APPROVAL  ACCEPTANCE ",
+        "link_label": "0.10 GACA APPROVAL  ACCEPTANCE ........................................................................................................ 029 0.11INTRODUCTION ........................................................................................................................................... 031",
         "start_page": 28,
         "end_page": 30,
-        "end_link_label": "0.11 INTRODUCTION ",
+        "end_tag": "0.11",
         "children": []
       },
       {
@@ -91,14 +91,14 @@
         "link_label": "0.11 INTRODUCTION ",
         "start_page": 30,
         "end_page": 32,
-        "end_link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
+        "end_tag": "0.12",
         "children": [
           {
             "link_idx": "0.11.1",
             "link_label": "0.11.1 POLICY ",
             "start_page": 30,
             "end_page": 30,
-            "end_link_label": "0.11.2 APPLICABILITY ",
+            "end_tag": "0.11.2",
             "children": []
           },
           {
@@ -106,7 +106,7 @@
             "link_label": "0.11.2 APPLICABILITY ",
             "start_page": 30,
             "end_page": 30,
-            "end_link_label": "0.11.3 COMMON LANGUAGE ",
+            "end_tag": "0.11.3",
             "children": []
           },
           {
@@ -114,7 +114,7 @@
             "link_label": "0.11.3 COMMON LANGUAGE ",
             "start_page": 30,
             "end_page": 31,
-            "end_link_label": "0.11.4 USAGE OF TERMS ",
+            "end_tag": "0.11.4",
             "children": []
           },
           {
@@ -122,7 +122,7 @@
             "link_label": "0.11.4 USAGE OF TERMS ",
             "start_page": 31,
             "end_page": 31,
-            "end_link_label": "0.11.5 HUMAN FACTOR PRINCIPLES ",
+            "end_tag": "0.11.5",
             "children": []
           },
           {
@@ -130,7 +130,7 @@
             "link_label": "0.11.5 HUMAN FACTOR PRINCIPLES ",
             "start_page": 31,
             "end_page": 31,
-            "end_link_label": "0.11.6 APPLICABLE REGULATIONS AND STANDARDS ",
+            "end_tag": "0.11.6",
             "children": []
           },
           {
@@ -138,7 +138,7 @@
             "link_label": "0.11.6 APPLICABLE REGULATIONS AND STANDARDS ",
             "start_page": 31,
             "end_page": 32,
-            "end_link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
+            "end_tag": "0.12",
             "children": []
           }
         ]
@@ -148,14 +148,14 @@
         "link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
         "start_page": 32,
         "end_page": 36,
-        "end_link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
+        "end_tag": "0.13",
         "children": [
           {
             "link_idx": "0.12.1",
             "link_label": "0.12.1 ABBREVIATIONS AND ACRONYMS ",
             "start_page": 32,
             "end_page": 33,
-            "end_link_label": "0.12.2 DEFINITIONS ",
+            "end_tag": "0.12.2",
             "children": []
           },
           {
@@ -163,7 +163,7 @@
             "link_label": "0.12.2 DEFINITIONS ",
             "start_page": 33,
             "end_page": 36,
-            "end_link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
+            "end_tag": "0.13",
             "children": []
           }
         ]
@@ -173,14 +173,14 @@
         "link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
         "start_page": 36,
         "end_page": 40,
-        "end_link_label": "1 EFB MANAGEMENT PHILOSOPHY ",
+        "end_tag": "1",
         "children": [
           {
             "link_idx": "0.13.1",
             "link_label": "0.13.1 MANUAL OWNERSHIP ",
             "start_page": 36,
             "end_page": 36,
-            "end_link_label": "0.13.2 MANUAL OWNER RESPONSIBILITY ",
+            "end_tag": "0.13.2",
             "children": []
           },
           {
@@ -188,7 +188,7 @@
             "link_label": "0.13.2 MANUAL OWNER RESPONSIBILITY ",
             "start_page": 36,
             "end_page": 36,
-            "end_link_label": "0.13.3 DISTRIBUTION LIST AND AVAILABILITY ",
+            "end_tag": "0.13.3",
             "children": []
           },
           {
@@ -196,15 +196,15 @@
             "link_label": "0.13.3 DISTRIBUTION LIST AND AVAILABILITY ",
             "start_page": 36,
             "end_page": 36,
-            "end_link_label": "0.13.4 PUBLICATION HIERARCHY ",
+            "end_tag": "0.13.4",
             "children": []
           },
           {
             "link_idx": "0.13.4",
-            "link_label": "0.13.4 PUBLICATION HIERARCHY ",
+            "link_label": "0.13.4 PUBLICATION HIERARCHY ...................................................................................................................... 037 0.13.5MANUAL STRUCTURE ............................................................................................................................... 039",
             "start_page": 36,
             "end_page": 38,
-            "end_link_label": "0.13.5 MANUAL STRUCTURE ",
+            "end_tag": "0.13.5",
             "children": []
           },
           {
@@ -212,7 +212,7 @@
             "link_label": "0.13.5 MANUAL STRUCTURE ",
             "start_page": 38,
             "end_page": 38,
-            "end_link_label": "0.13.6 SOURCE OF AMENDMENTS ",
+            "end_tag": "0.13.6",
             "children": []
           },
           {
@@ -220,7 +220,7 @@
             "link_label": "0.13.6 SOURCE OF AMENDMENTS ",
             "start_page": 38,
             "end_page": 38,
-            "end_link_label": "0.13.7 REFERENCED AND LINKED DOCUMENTS ",
+            "end_tag": "0.13.7",
             "children": []
           },
           {
@@ -228,7 +228,7 @@
             "link_label": "0.13.7 REFERENCED AND LINKED DOCUMENTS ",
             "start_page": 38,
             "end_page": 39,
-            "end_link_label": "0.13.8 FORMAT AND DOCUMENTATION CONTROL REQUIREMENTS ",
+            "end_tag": "0.13.8",
             "children": []
           },
           {
@@ -236,7 +236,7 @@
             "link_label": "0.13.8 FORMAT AND DOCUMENTATION CONTROL REQUIREMENTS ",
             "start_page": 39,
             "end_page": 39,
-            "end_link_label": "0.13.9 ERROR REPORTING AND CORRECTIONS AND SUGGESTIONS FOR IMPROVEMENT ",
+            "end_tag": "0.13.9",
             "children": []
           },
           {
@@ -244,7 +244,7 @@
             "link_label": "0.13.9 ERROR REPORTING AND CORRECTIONS AND SUGGESTIONS FOR IMPROVEMENT ",
             "start_page": 39,
             "end_page": 40,
-            "end_link_label": "1 EFB MANAGEMENT PHILOSOPHY ",
+            "end_tag": "1",
             "children": []
           }
         ]
@@ -256,14 +256,14 @@
     "link_label": "1 EFB MANAGEMENT PHILOSOPHY ",
     "start_page": 40,
     "end_page": 48,
-    "end_link_label": "2 HARDWARE DESCRIPTION ",
+    "end_tag": "2",
     "children": [
       {
         "link_idx": "1.1",
-        "link_label": "1.1 INTRODUCTION ",
+        "link_label": "1.1 INTRODUCTION .............................................................................................................................................. 11 1.2ORGANIZATION AND RESPONSIBILITIES ............................................................................................. 12",
         "start_page": 40,
         "end_page": 41,
-        "end_link_label": "1.2 ORGANIZATION AND RESPONSIBILITIES ",
+        "end_tag": "1.2",
         "children": []
       },
       {
@@ -271,30 +271,30 @@
         "link_label": "1.2 ORGANIZATION AND RESPONSIBILITIES ",
         "start_page": 41,
         "end_page": 45,
-        "end_link_label": "1.3 LIMITATIONS OF THE EFB SYSTEM ",
+        "end_tag": "1.3",
         "children": [
           {
             "link_idx": "1.2.1",
             "link_label": "1.2.1 ORGANIZATION CHART ",
             "start_page": 41,
             "end_page": 41,
-            "end_link_label": "1.2.2 VICE PRESIDENT FLIGHT OPERATIONS ",
+            "end_tag": "1.2.2",
             "children": []
           },
           {
             "link_idx": "1.2.2",
-            "link_label": "1.2.2 VICE PRESIDENT FLIGHT OPERATIONS ",
+            "link_label": "1.2.2 VICE PRESIDENT FLIGHT OPERATIONS ................................................................................................. 12 1.2.3DIRECTOR FLIGHT OPERATIONS SUPPORT ......................................................................................... 13",
             "start_page": 41,
             "end_page": 42,
-            "end_link_label": "1.2.3 DIRECTOR FLIGHT OPERATIONS SUPPORT ",
+            "end_tag": "1.2.3",
             "children": []
           },
           {
             "link_idx": "1.2.3",
-            "link_label": "1.2.3 DIRECTOR FLIGHT OPERATIONS SUPPORT ",
+            "link_label": "1.2.3 DIRECTOR FLIGHT OPERATIONS SUPPORT ......................................................................................... 13 1.2.4EFB MANAGER................................................................................................................................................. 14",
             "start_page": 42,
             "end_page": 43,
-            "end_link_label": "1.2.4 EFB MANAGER",
+            "end_tag": "1.2.4",
             "children": []
           },
           {
@@ -302,7 +302,7 @@
             "link_label": "1.2.4 EFB MANAGER",
             "start_page": 43,
             "end_page": 43,
-            "end_link_label": "1.2.5 EFB ADMIN ",
+            "end_tag": "1.2.5",
             "children": []
           },
           {
@@ -310,23 +310,23 @@
             "link_label": "1.2.5 EFB ADMIN ",
             "start_page": 43,
             "end_page": 44,
-            "end_link_label": "1.2.6 MANAGER NAVIGATION SERVICES ",
+            "end_tag": "1.2.6",
             "children": []
           },
           {
             "link_idx": "1.2.6",
-            "link_label": "1.2.6 MANAGER NAVIGATION SERVICES ",
+            "link_label": "1.2.6 MANAGER NAVIGATION SERVICES ........................................................................................................ 15 1.2.7MANAGER AIRCRAFT PERFORMANCE .................................................................................................. 15",
             "start_page": 44,
             "end_page": 44,
-            "end_link_label": "1.2.7 MANAGER AIRCRAFT PERFORMANCE ",
+            "end_tag": "1.2.7",
             "children": []
           },
           {
             "link_idx": "1.2.7",
-            "link_label": "1.2.7 MANAGER AIRCRAFT PERFORMANCE ",
+            "link_label": "1.2.7 MANAGER AIRCRAFT PERFORMANCE .................................................................................................. 15 1.2.8MANAGER TECHNICAL PUBLICATION ................................................................................................... 15",
             "start_page": 44,
             "end_page": 44,
-            "end_link_label": "1.2.8 MANAGER TECHNICAL PUBLICATION ",
+            "end_tag": "1.2.8",
             "children": []
           },
           {
@@ -334,7 +334,7 @@
             "link_label": "1.2.8 MANAGER TECHNICAL PUBLICATION ",
             "start_page": 44,
             "end_page": 45,
-            "end_link_label": "1.3 LIMITATIONS OF THE EFB SYSTEM ",
+            "end_tag": "1.3",
             "children": []
           }
         ]
@@ -344,7 +344,7 @@
         "link_label": "1.3 LIMITATIONS OF THE EFB SYSTEM ",
         "start_page": 45,
         "end_page": 46,
-        "end_link_label": "1.4 COMPANY MANUALS AND OTHER RELEVANT DOCUMENT ON THE EFB DEVICE ",
+        "end_tag": "1.4",
         "children": []
       },
       {
@@ -352,24 +352,24 @@
         "link_label": "1.4 COMPANY MANUALS AND OTHER RELEVANT DOCUMENT ON THE EFB DEVICE ",
         "start_page": 46,
         "end_page": 48,
-        "end_link_label": "2 HARDWARE DESCRIPTION ",
+        "end_tag": "2",
         "children": []
       }
     ]
   },
   {
     "link_idx": "2",
-    "link_label": "2 HARDWARE DESCRIPTION ",
+    "link_label": "2 HARDWARE DESCRIPTION ............................................................................................. 21 2.1INSTALLED EFB ................................................................................................................................................ 21",
     "start_page": 48,
     "end_page": 56,
-    "end_link_label": "3 SOFTWARE AND CONFIGURATION DESCRIPTION ",
+    "end_tag": "3",
     "children": [
       {
         "link_idx": "2.1",
         "link_label": "2.1 INSTALLED EFB ",
         "start_page": 48,
         "end_page": 50,
-        "end_link_label": "2.2 PORTABLE EFB ",
+        "end_tag": "2.2",
         "children": []
       },
       {
@@ -377,14 +377,14 @@
         "link_label": "2.2 PORTABLE EFB ",
         "start_page": 50,
         "end_page": 56,
-        "end_link_label": "3 SOFTWARE AND CONFIGURATION DESCRIPTION ",
+        "end_tag": "3",
         "children": [
           {
             "link_idx": "2.2.1",
             "link_label": "2.2.1 CPEDS ",
             "start_page": 50,
             "end_page": 52,
-            "end_link_label": "2.2.2 SYSTEM ARCHITECTURE ",
+            "end_tag": "2.2.2",
             "children": []
           },
           {
@@ -392,7 +392,7 @@
             "link_label": "2.2.2 SYSTEM ARCHITECTURE ",
             "start_page": 52,
             "end_page": 52,
-            "end_link_label": "2.2.3 PIVOT ATLAS ",
+            "end_tag": "2.2.3",
             "children": []
           },
           {
@@ -400,7 +400,7 @@
             "link_label": "2.2.3 PIVOT ATLAS ",
             "start_page": 52,
             "end_page": 53,
-            "end_link_label": "2.2.4 LTRM LONG TERM REMOVABLE MOUNT ",
+            "end_tag": "2.2.4",
             "children": []
           },
           {
@@ -408,7 +408,7 @@
             "link_label": "2.2.4 LTRM LONG TERM REMOVABLE MOUNT ",
             "start_page": 53,
             "end_page": 53,
-            "end_link_label": "2.2.5 CONFIGURATOR ",
+            "end_tag": "2.2.5",
             "children": []
           },
           {
@@ -416,7 +416,7 @@
             "link_label": "2.2.5 CONFIGURATOR ",
             "start_page": 53,
             "end_page": 54,
-            "end_link_label": "2.2.6 CHARGING STATION ",
+            "end_tag": "2.2.6",
             "children": []
           },
           {
@@ -424,7 +424,7 @@
             "link_label": "2.2.6 CHARGING STATION ",
             "start_page": 54,
             "end_page": 54,
-            "end_link_label": "2.2.7 HARDWARE CONFIGURATION AND PART NUMBER CONTROL ",
+            "end_tag": "2.2.7",
             "children": []
           },
           {
@@ -432,7 +432,7 @@
             "link_label": "2.2.7 HARDWARE CONFIGURATION AND PART NUMBER CONTROL ",
             "start_page": 54,
             "end_page": 54,
-            "end_link_label": "2.2.8 OPERATING SYSTEM CONFIGURATION AND CONTROL ",
+            "end_tag": "2.2.8",
             "children": []
           },
           {
@@ -440,7 +440,7 @@
             "link_label": "2.2.8 OPERATING SYSTEM CONFIGURATION AND CONTROL ",
             "start_page": 54,
             "end_page": 55,
-            "end_link_label": "2.2.9 HARDWARE MAINTENANCE ",
+            "end_tag": "2.2.9",
             "children": []
           },
           {
@@ -448,7 +448,7 @@
             "link_label": "2.2.9 HARDWARE MAINTENANCE ",
             "start_page": 55,
             "end_page": 55,
-            "end_link_label": "2.2.10 UPDATING OF THE OPERATING SYSTEM ",
+            "end_tag": "2.2.10",
             "children": []
           },
           {
@@ -456,7 +456,7 @@
             "link_label": "2.2.10 UPDATING OF THE OPERATING SYSTEM ",
             "start_page": 55,
             "end_page": 56,
-            "end_link_label": "3 SOFTWARE AND CONFIGURATION DESCRIPTION ",
+            "end_tag": "3",
             "children": []
           }
         ]
@@ -468,29 +468,29 @@
     "link_label": "3 SOFTWARE AND CONFIGURATION DESCRIPTION ",
     "start_page": 56,
     "end_page": 70,
-    "end_link_label": "4 FLIGHT CREW ",
+    "end_tag": "4",
     "children": [
       {
         "link_idx": "3.1",
         "link_label": "3.1 PURPOSE AND SCOPE",
         "start_page": 56,
         "end_page": 57,
-        "end_link_label": "3.2 INSTALLED EFB ",
+        "end_tag": "3.2",
         "children": []
       },
       {
         "link_idx": "3.2",
-        "link_label": "3.2 INSTALLED EFB ",
+        "link_label": "3.2 INSTALLED EFB ................................................................................................................................................ 32 3.2.1AIRPORT MOVING MAP AMM ............................................................................................................... 32",
         "start_page": 57,
         "end_page": 60,
-        "end_link_label": "3.3 CPED APPLICATIONS ",
+        "end_tag": "3.3",
         "children": [
           {
             "link_idx": "3.2.1",
             "link_label": "3.2.1 AIRPORT MOVING MAP AMM ",
             "start_page": 57,
             "end_page": 58,
-            "end_link_label": "3.2.2 FLIGHT DECK ENTRY VIDEO SURVEILLANCE SYSTEM FDEVSS ",
+            "end_tag": "3.2.2",
             "children": []
           },
           {
@@ -498,7 +498,7 @@
             "link_label": "3.2.2 FLIGHT DECK ENTRY VIDEO SURVEILLANCE SYSTEM FDEVSS ",
             "start_page": 58,
             "end_page": 60,
-            "end_link_label": "3.3 CPED APPLICATIONS ",
+            "end_tag": "3.3",
             "children": []
           }
         ]
@@ -508,14 +508,14 @@
         "link_label": "3.3 CPED APPLICATIONS ",
         "start_page": 60,
         "end_page": 65,
-        "end_link_label": "3.4 SOFTWARE CONTROL PROCESSES ",
+        "end_tag": "3.4",
         "children": [
           {
             "link_idx": "3.3.1",
             "link_label": "3.3.1 ONBOARD PERFORMANCE TOOL OPT ",
             "start_page": 60,
             "end_page": 61,
-            "end_link_label": "3.3.2 FLITEDECK PRO ",
+            "end_tag": "3.3.2",
             "children": []
           },
           {
@@ -523,7 +523,7 @@
             "link_label": "3.3.2 FLITEDECK PRO ",
             "start_page": 61,
             "end_page": 62,
-            "end_link_label": "3.3.3 AVIATOR ",
+            "end_tag": "3.3.3",
             "children": []
           },
           {
@@ -531,7 +531,7 @@
             "link_label": "3.3.3 AVIATOR ",
             "start_page": 62,
             "end_page": 63,
-            "end_link_label": "3.3.4 ORLANDO SUITE ",
+            "end_tag": "3.3.4",
             "children": []
           },
           {
@@ -539,15 +539,15 @@
             "link_label": "3.3.4 ORLANDO SUITE ",
             "start_page": 63,
             "end_page": 63,
-            "end_link_label": "3.3.5 FLIGHTPULSE ",
+            "end_tag": "3.3.5",
             "children": []
           },
           {
             "link_idx": "3.3.5",
-            "link_label": "3.3.5 FLIGHTPULSE ",
+            "link_label": "3.3.5 FLIGHTPULSE .................................................................................................................................................... 38 3.3.6AMOSETL ........................................................................................................................................................... 39",
             "start_page": 63,
             "end_page": 64,
-            "end_link_label": "3.3.6 AMOSETL ",
+            "end_tag": "3.3.6",
             "children": []
           },
           {
@@ -555,7 +555,7 @@
             "link_label": "3.3.6 AMOSETL ",
             "start_page": 64,
             "end_page": 65,
-            "end_link_label": "3.4 SOFTWARE CONTROL PROCESSES ",
+            "end_tag": "3.4",
             "children": []
           }
         ]
@@ -565,22 +565,22 @@
         "link_label": "3.4 SOFTWARE CONTROL PROCESSES ",
         "start_page": 65,
         "end_page": 66,
-        "end_link_label": "3.5 RESPONSIBILITIES AND ACCOUNTABILITIES ",
+        "end_tag": "3.5",
         "children": [
           {
             "link_idx": "3.4.1",
-            "link_label": "3.4.1 PART NUMBER CONTROL ",
+            "link_label": "3.4.1 PART NUMBER CONTROL ....................................................................................................................... 310 3.4.2SOFTWARE CONFIGURATION MANAGEMENT ............................................................................... 310",
             "start_page": 65,
             "end_page": 65,
-            "end_link_label": "3.4.2 SOFTWARE CONFIGURATION MANAGEMENT ",
+            "end_tag": "3.4.2",
             "children": []
           },
           {
             "link_idx": "3.4.2",
-            "link_label": "3.4.2 SOFTWARE CONFIGURATION MANAGEMENT ",
+            "link_label": "3.4.2 SOFTWARE CONFIGURATION MANAGEMENT ............................................................................... 310 3.4.3APPLICATION UPDATING PROCESS .................................................................................................... 310",
             "start_page": 65,
             "end_page": 65,
-            "end_link_label": "3.4.3 APPLICATION UPDATING PROCESS ",
+            "end_tag": "3.4.3",
             "children": []
           },
           {
@@ -588,7 +588,7 @@
             "link_label": "3.4.3 APPLICATION UPDATING PROCESS ",
             "start_page": 65,
             "end_page": 66,
-            "end_link_label": "3.5 RESPONSIBILITIES AND ACCOUNTABILITIES ",
+            "end_tag": "3.5",
             "children": []
           }
         ]
@@ -598,30 +598,30 @@
         "link_label": "3.5 RESPONSIBILITIES AND ACCOUNTABILITIES ",
         "start_page": 66,
         "end_page": 67,
-        "end_link_label": "3.6 RECORDS AND FILING ",
+        "end_tag": "3.6",
         "children": []
       },
       {
         "link_idx": "3.6",
-        "link_label": "3.6 RECORDS AND FILING ",
+        "link_label": "3.6 RECORDS AND FILING .............................................................................................................................. 312 3.7DATA MANAGEMENT................................................................................................................................ 313",
         "start_page": 67,
         "end_page": 68,
-        "end_link_label": "3.7 DATA MANAGEMENT",
+        "end_tag": "3.7",
         "children": []
       },
       {
         "link_idx": "3.7",
-        "link_label": "3.7 DATA MANAGEMENT",
+        "link_label": "3.7 DATA MANAGEMENT................................................................................................................................ 313 3.7.1DATA ADMINISTRATION ......................................................................................................................... 313",
         "start_page": 68,
         "end_page": 70,
-        "end_link_label": "4 FLIGHT CREW ",
+        "end_tag": "4",
         "children": [
           {
             "link_idx": "3.7.1",
             "link_label": "3.7.1 DATA ADMINISTRATION ",
             "start_page": 68,
             "end_page": 68,
-            "end_link_label": "3.7.2 ORGANIZATION  WORKFLOWS ",
+            "end_tag": "3.7.2",
             "children": []
           },
           {
@@ -629,23 +629,23 @@
             "link_label": "3.7.2 ORGANIZATION  WORKFLOWS ",
             "start_page": 68,
             "end_page": 68,
-            "end_link_label": "3.7.3 DATA LOADING ",
+            "end_tag": "3.7.3",
             "children": []
           },
           {
             "link_idx": "3.7.3",
-            "link_label": "3.7.3 DATA LOADING ",
+            "link_label": "3.7.3 DATA LOADING ........................................................................................................................................... 313 3.7.4DATA REVISION MECHANISMS ............................................................................................................ 314",
             "start_page": 68,
             "end_page": 69,
-            "end_link_label": "3.7.4 DATA REVISION MECHANISMS ",
+            "end_tag": "3.7.4",
             "children": []
           },
           {
             "link_idx": "3.7.4",
-            "link_label": "3.7.4 DATA REVISION MECHANISMS ",
+            "link_label": "3.7.4 DATA REVISION MECHANISMS ............................................................................................................ 314 3.7.5AIRLINE SPECIFIC DOCUMENTS ............................................................................................................ 314",
             "start_page": 69,
             "end_page": 69,
-            "end_link_label": "3.7.5 AIRLINE SPECIFIC DOCUMENTS ",
+            "end_tag": "3.7.5",
             "children": []
           },
           {
@@ -653,7 +653,7 @@
             "link_label": "3.7.5 AIRLINE SPECIFIC DOCUMENTS ",
             "start_page": 69,
             "end_page": 69,
-            "end_link_label": "3.7.6 AIRPORT DATA MANAGEMENT ",
+            "end_tag": "3.7.6",
             "children": []
           },
           {
@@ -661,7 +661,7 @@
             "link_label": "3.7.6 AIRPORT DATA MANAGEMENT ",
             "start_page": 69,
             "end_page": 69,
-            "end_link_label": "3.7.7 AIRCRAFT FLEET DEFINITION ",
+            "end_tag": "3.7.7",
             "children": []
           },
           {
@@ -669,7 +669,7 @@
             "link_label": "3.7.7 AIRCRAFT FLEET DEFINITION ",
             "start_page": 69,
             "end_page": 70,
-            "end_link_label": "4 FLIGHT CREW ",
+            "end_tag": "4",
             "children": []
           }
         ]
@@ -681,14 +681,14 @@
     "link_label": "4 FLIGHT CREW ",
     "start_page": 70,
     "end_page": 78,
-    "end_link_label": "5 MAINTENANCE CONSIDERATIONS",
+    "end_tag": "5",
     "children": [
       {
         "link_idx": "4.1",
         "link_label": "4.1 CREW RESPONSIBILITIES ",
         "start_page": 70,
         "end_page": 71,
-        "end_link_label": "4.2 OPERATIONAL LIMITATIONS ",
+        "end_tag": "4.2",
         "children": []
       },
       {
@@ -696,7 +696,7 @@
         "link_label": "4.2 OPERATIONAL LIMITATIONS ",
         "start_page": 71,
         "end_page": 72,
-        "end_link_label": "4.3 TRAINING ",
+        "end_tag": "4.3",
         "children": []
       },
       {
@@ -704,7 +704,7 @@
         "link_label": "4.3 TRAINING ",
         "start_page": 72,
         "end_page": 73,
-        "end_link_label": "4.4 OPERATING PROCEDURES ",
+        "end_tag": "4.4",
         "children": []
       },
       {
@@ -712,14 +712,14 @@
         "link_label": "4.4 OPERATING PROCEDURES ",
         "start_page": 73,
         "end_page": 76,
-        "end_link_label": "4.5 DISCREPANCY REPORTING ",
+        "end_tag": "4.5",
         "children": [
           {
             "link_idx": "4.4.1",
             "link_label": "4.4.1 NORMAL ",
             "start_page": 73,
             "end_page": 73,
-            "end_link_label": "4.4.2 ABNORMAL ",
+            "end_tag": "4.4.2",
             "children": []
           },
           {
@@ -727,7 +727,7 @@
             "link_label": "4.4.2 ABNORMAL ",
             "start_page": 73,
             "end_page": 73,
-            "end_link_label": "4.4.3 EMERGENCY ",
+            "end_tag": "4.4.3",
             "children": []
           },
           {
@@ -735,7 +735,7 @@
             "link_label": "4.4.3 EMERGENCY ",
             "start_page": 73,
             "end_page": 73,
-            "end_link_label": "4.4.4 EFB DEVICE FAILURE ",
+            "end_tag": "4.4.4",
             "children": []
           },
           {
@@ -743,7 +743,7 @@
             "link_label": "4.4.4 EFB DEVICE FAILURE ",
             "start_page": 73,
             "end_page": 74,
-            "end_link_label": "4.4.5 HARDWARE FAILURE ",
+            "end_tag": "4.4.5",
             "children": []
           },
           {
@@ -751,7 +751,7 @@
             "link_label": "4.4.5 HARDWARE FAILURE ",
             "start_page": 74,
             "end_page": 75,
-            "end_link_label": "4.4.6 SOFTWARE FAILURE ",
+            "end_tag": "4.4.6",
             "children": []
           },
           {
@@ -759,7 +759,7 @@
             "link_label": "4.4.6 SOFTWARE FAILURE ",
             "start_page": 75,
             "end_page": 76,
-            "end_link_label": "4.5 DISCREPANCY REPORTING ",
+            "end_tag": "4.5",
             "children": []
           }
         ]
@@ -769,7 +769,7 @@
         "link_label": "4.5 DISCREPANCY REPORTING ",
         "start_page": 76,
         "end_page": 78,
-        "end_link_label": "5 MAINTENANCE CONSIDERATIONS",
+        "end_tag": "5",
         "children": []
       }
     ]
@@ -779,14 +779,14 @@
     "link_label": "5 MAINTENANCE CONSIDERATIONS",
     "start_page": 78,
     "end_page": 88,
-    "end_link_label": "6 CHANGE MANAGEMENT ",
+    "end_tag": "6",
     "children": [
       {
         "link_idx": "5.1",
         "link_label": "5.1 LTRM ",
         "start_page": 78,
         "end_page": 80,
-        "end_link_label": "5.2 PORTABLE EFB ",
+        "end_tag": "5.2",
         "children": []
       },
       {
@@ -794,14 +794,14 @@
         "link_label": "5.2 PORTABLE EFB ",
         "start_page": 80,
         "end_page": 84,
-        "end_link_label": "5.3 INSTALLED EFB ",
+        "end_tag": "5.3",
         "children": [
           {
             "link_idx": "5.2.1",
             "link_label": "5.2.1 DESCRIPTION ",
             "start_page": 80,
             "end_page": 80,
-            "end_link_label": "5.2.2 POLICY STATEMENT ON ACCEPTABLE USE AND GUIDELINES FOR IPAD USAGE ",
+            "end_tag": "5.2.2",
             "children": []
           },
           {
@@ -809,7 +809,7 @@
             "link_label": "5.2.2 POLICY STATEMENT ON ACCEPTABLE USE AND GUIDELINES FOR IPAD USAGE ",
             "start_page": 80,
             "end_page": 84,
-            "end_link_label": "5.3 INSTALLED EFB ",
+            "end_tag": "5.3",
             "children": []
           }
         ]
@@ -819,14 +819,14 @@
         "link_label": "5.3 INSTALLED EFB ",
         "start_page": 84,
         "end_page": 88,
-        "end_link_label": "6 CHANGE MANAGEMENT ",
+        "end_tag": "6",
         "children": [
           {
             "link_idx": "5.3.1",
             "link_label": "5.3.1 SOFTWARE ",
             "start_page": 84,
             "end_page": 84,
-            "end_link_label": "5.3.2 UNIVERSAL MAINTENANCE DEVICE UMD ",
+            "end_tag": "5.3.2",
             "children": []
           },
           {
@@ -834,7 +834,7 @@
             "link_label": "5.3.2 UNIVERSAL MAINTENANCE DEVICE UMD ",
             "start_page": 84,
             "end_page": 88,
-            "end_link_label": "6 CHANGE MANAGEMENT ",
+            "end_tag": "6",
             "children": []
           }
         ]
@@ -846,29 +846,29 @@
     "link_label": "6 CHANGE MANAGEMENT ",
     "start_page": 88,
     "end_page": 98,
-    "end_link_label": "7 EFB SECURITY POLICY ",
+    "end_tag": "7",
     "children": [
       {
         "link_idx": "6.1",
         "link_label": "6.1 CONFIGURATION MANAGEMENT ",
         "start_page": 88,
         "end_page": 94,
-        "end_link_label": "6.2 IMPLEMENTING NEW EFB APPLICATIONS ",
+        "end_tag": "6.2",
         "children": [
           {
             "link_idx": "6.1.1",
-            "link_label": "6.1.1 HARDWARE CONFIGURATION BASELINE ",
+            "link_label": "6.1.1 HARDWARE CONFIGURATION BASELINE ............................................................................................ 61 6.1.2HARDWARE CONFIGURATION MANAGEMENT ................................................................................ 61",
             "start_page": 88,
             "end_page": 88,
-            "end_link_label": "6.1.2 HARDWARE CONFIGURATION MANAGEMENT ",
+            "end_tag": "6.1.2",
             "children": []
           },
           {
             "link_idx": "6.1.2",
-            "link_label": "6.1.2 HARDWARE CONFIGURATION MANAGEMENT ",
+            "link_label": "6.1.2 HARDWARE CONFIGURATION MANAGEMENT ................................................................................ 61 6.1.3OPERATING SYSTEM UPDATING ............................................................................................................. 62",
             "start_page": 88,
             "end_page": 89,
-            "end_link_label": "6.1.3 OPERATING SYSTEM UPDATING ",
+            "end_tag": "6.1.3",
             "children": []
           },
           {
@@ -876,7 +876,7 @@
             "link_label": "6.1.3 OPERATING SYSTEM UPDATING ",
             "start_page": 89,
             "end_page": 90,
-            "end_link_label": "6.1.4 SOFTWARE CONFIGURATION MANAGEMENT FOR EFB UPDATES ",
+            "end_tag": "6.1.4",
             "children": []
           },
           {
@@ -884,24 +884,24 @@
             "link_label": "6.1.4 SOFTWARE CONFIGURATION MANAGEMENT FOR EFB UPDATES ",
             "start_page": 90,
             "end_page": 94,
-            "end_link_label": "6.2 IMPLEMENTING NEW EFB APPLICATIONS ",
+            "end_tag": "6.2",
             "children": []
           }
         ]
       },
       {
         "link_idx": "6.2",
-        "link_label": "6.2 IMPLEMENTING NEW EFB APPLICATIONS ",
+        "link_label": "6.2 IMPLEMENTING NEW EFB APPLICATIONS .......................................................................................... 67 6.2.1NEW APPLICATION FEASIBILITY EVALUATION .................................................................................. 67",
         "start_page": 94,
         "end_page": 97,
-        "end_link_label": "6.3 SPECIFIC EFB APPLICATIONS REQUIREMENTS",
+        "end_tag": "6.3",
         "children": [
           {
             "link_idx": "6.2.1",
-            "link_label": "6.2.1 NEW APPLICATION FEASIBILITY EVALUATION ",
+            "link_label": "6.2.1 NEW APPLICATION FEASIBILITY EVALUATION .................................................................................. 67 6.2.2IMPLEMENTATION ........................................................................................................................................ 68",
             "start_page": 94,
             "end_page": 95,
-            "end_link_label": "6.2.2 IMPLEMENTATION ",
+            "end_tag": "6.2.2",
             "children": []
           },
           {
@@ -909,7 +909,7 @@
             "link_label": "6.2.2 IMPLEMENTATION ",
             "start_page": 95,
             "end_page": 96,
-            "end_link_label": "6.2.3 COMPLIANCE PACKAGE ",
+            "end_tag": "6.2.3",
             "children": []
           },
           {
@@ -917,7 +917,7 @@
             "link_label": "6.2.3 COMPLIANCE PACKAGE ",
             "start_page": 96,
             "end_page": 97,
-            "end_link_label": "6.3 SPECIFIC EFB APPLICATIONS REQUIREMENTS",
+            "end_tag": "6.3",
             "children": []
           }
         ]
@@ -927,24 +927,24 @@
         "link_label": "6.3 SPECIFIC EFB APPLICATIONS REQUIREMENTS",
         "start_page": 97,
         "end_page": 98,
-        "end_link_label": "7 EFB SECURITY POLICY ",
+        "end_tag": "7",
         "children": []
       }
     ]
   },
   {
     "link_idx": "7",
-    "link_label": "7 EFB SECURITY POLICY ",
+    "link_label": "7 EFB SECURITY POLICY ...................................................................................................... 71 7.1SECURITY SOLUTIONS  PROCEDURES ............................................................................................... 71",
     "start_page": 98,
     "end_page": 100,
-    "end_link_label": "8 APPENDIX ",
+    "end_tag": "8",
     "children": [
       {
         "link_idx": "7.1",
         "link_label": "7.1 SECURITY SOLUTIONS  PROCEDURES ",
         "start_page": 98,
         "end_page": 100,
-        "end_link_label": "8 APPENDIX ",
+        "end_tag": "8",
         "children": []
       }
     ]
@@ -954,14 +954,14 @@
     "link_label": "8 APPENDIX ",
     "start_page": 100,
     "end_page": -1,
-    "end_link_label": null,
+    "end_tag": null,
     "children": [
       {
         "link_idx": "8.1",
         "link_label": "8.1 APPENDIX A  EFB DISCREPANCY FORM ",
         "start_page": 100,
         "end_page": 101,
-        "end_link_label": "8.2 APPENDIX B  IPAD ASSESSMENT FORM ",
+        "end_tag": "8.2",
         "children": []
       },
       {
@@ -969,7 +969,7 @@
         "link_label": "8.2 APPENDIX B  IPAD ASSESSMENT FORM ",
         "start_page": 101,
         "end_page": -1,
-        "end_link_label": null,
+        "end_tag": null,
         "children": []
       }
     ]

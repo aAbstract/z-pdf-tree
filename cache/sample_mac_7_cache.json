@@ -4,14 +4,14 @@
     "link_label": "0 DOCUMENT ADMINISTRATION AND CONTROL ",
     "start_page": 6,
     "end_page": 28,
-    "end_link_label": "1. ACCIDENT NOTIFICATION ",
+    "end_tag": "1",
     "children": [
       {
         "link_idx": "0.3",
         "link_label": "0.3 TABLE OF CONTENTS ",
         "start_page": 6,
         "end_page": 10,
-        "end_link_label": "0.4 REVISION HIGHLIGHTS ",
+        "end_tag": "0.4",
         "children": []
       },
       {
@@ -19,7 +19,7 @@
         "link_label": "0.4 REVISION HIGHLIGHTS ",
         "start_page": 10,
         "end_page": 12,
-        "end_link_label": "0.5 RECORD OF NORMAL REVISIONS ",
+        "end_tag": "0.5",
         "children": []
       },
       {
@@ -27,7 +27,7 @@
         "link_label": "0.5 RECORD OF NORMAL REVISIONS ",
         "start_page": 12,
         "end_page": 14,
-        "end_link_label": "0.6 RECORD OF TEMPORARY REVISIONS ",
+        "end_tag": "0.6",
         "children": []
       },
       {
@@ -35,7 +35,7 @@
         "link_label": "0.6 RECORD OF TEMPORARY REVISIONS ",
         "start_page": 14,
         "end_page": 16,
-        "end_link_label": "0.7 LIST OF EFFECTIVE PAGES ",
+        "end_tag": "0.7",
         "children": []
       },
       {
@@ -43,7 +43,7 @@
         "link_label": "0.7 LIST OF EFFECTIVE PAGES ",
         "start_page": 16,
         "end_page": 18,
-        "end_link_label": "0.8 DISTRIBUTION LIST ",
+        "end_tag": "0.8",
         "children": []
       },
       {
@@ -51,7 +51,7 @@
         "link_label": "0.8 DISTRIBUTION LIST ",
         "start_page": 18,
         "end_page": 20,
-        "end_link_label": "0.9 DOCUMENT STRUCTURE AND HIERARCHY ",
+        "end_tag": "0.9",
         "children": []
       },
       {
@@ -59,14 +59,14 @@
         "link_label": "0.9 DOCUMENT STRUCTURE AND HIERARCHY ",
         "start_page": 20,
         "end_page": 22,
-        "end_link_label": "0.10 REVISION CONTROL ",
+        "end_tag": "0.10",
         "children": [
           {
             "link_idx": "0.9.1",
             "link_label": "0.9.1 PREFACE ",
             "start_page": 20,
             "end_page": 21,
-            "end_link_label": "0.9.2 PUBLICATIONS HIERARCHY ",
+            "end_tag": "0.9.2",
             "children": []
           },
           {
@@ -74,7 +74,7 @@
             "link_label": "0.9.2 PUBLICATIONS HIERARCHY ",
             "start_page": 21,
             "end_page": 21,
-            "end_link_label": "0.9.3 MANUAL OWNER ",
+            "end_tag": "0.9.3",
             "children": []
           },
           {
@@ -82,7 +82,7 @@
             "link_label": "0.9.3 MANUAL OWNER ",
             "start_page": 21,
             "end_page": 21,
-            "end_link_label": "0.9.4 DOCUMENT FORMAT AND STYLE GUIDE ",
+            "end_tag": "0.9.4",
             "children": []
           },
           {
@@ -90,7 +90,7 @@
             "link_label": "0.9.4 DOCUMENT FORMAT AND STYLE GUIDE ",
             "start_page": 21,
             "end_page": 22,
-            "end_link_label": "0.10 REVISION CONTROL ",
+            "end_tag": "0.10",
             "children": []
           }
         ]
@@ -100,14 +100,14 @@
         "link_label": "0.10 REVISION CONTROL ",
         "start_page": 22,
         "end_page": 24,
-        "end_link_label": "0.11 ABBREVIATIONS ACRONYMS  DEFINITIONS ",
+        "end_tag": "0.11",
         "children": [
           {
             "link_idx": "0.10.1",
             "link_label": "0.10.1 SYSTEM OF AMENDMENT ",
             "start_page": 22,
             "end_page": 24,
-            "end_link_label": "0.11 ABBREVIATIONS ACRONYMS  DEFINITIONS ",
+            "end_tag": "0.11",
             "children": []
           }
         ]
@@ -117,14 +117,14 @@
         "link_label": "0.11 ABBREVIATIONS ACRONYMS  DEFINITIONS ",
         "start_page": 24,
         "end_page": 26,
-        "end_link_label": "0.12 USE OF PROCEDURAL WORDS ",
+        "end_tag": "0.12",
         "children": [
           {
             "link_idx": "0.11.1",
             "link_label": "0.11.1 ABBREVIATIONS AND ACRONYMS",
             "start_page": 24,
             "end_page": 24,
-            "end_link_label": "0.11.2 DEFINITIONS ",
+            "end_tag": "0.11.2",
             "children": []
           },
           {
@@ -132,7 +132,7 @@
             "link_label": "0.11.2 DEFINITIONS ",
             "start_page": 24,
             "end_page": 26,
-            "end_link_label": "0.12 USE OF PROCEDURAL WORDS ",
+            "end_tag": "0.12",
             "children": []
           }
         ]
@@ -142,7 +142,7 @@
         "link_label": "0.12 USE OF PROCEDURAL WORDS ",
         "start_page": 26,
         "end_page": 28,
-        "end_link_label": "1. ACCIDENT NOTIFICATION ",
+        "end_tag": "1",
         "children": []
       }
     ]
@@ -152,21 +152,21 @@
     "link_label": "1. ACCIDENT NOTIFICATION ",
     "start_page": 28,
     "end_page": 46,
-    "end_link_label": "2. ACCIDENTINCIDENT INVESTIGATION PROCEDURE ",
+    "end_tag": "2",
     "children": [
       {
         "link_idx": "1.1",
         "link_label": "1.1 SERIOUS INCIDENTACCIDENT REPORTING TO AUTHORITIES",
         "start_page": 39,
         "end_page": 41,
-        "end_link_label": "1.2 REPORTING OF AIRCRAFT COMPONENT MAJOR DEFECTS ",
+        "end_tag": "1.2",
         "children": [
           {
             "link_idx": "1.1.1",
             "link_label": "1.1.1 REPORTING TO AUTHORITY ",
             "start_page": 39,
             "end_page": 41,
-            "end_link_label": "1.2 REPORTING OF AIRCRAFT COMPONENT MAJOR DEFECTS ",
+            "end_tag": "1.2",
             "children": []
           }
         ]
@@ -176,14 +176,14 @@
         "link_label": "1.2 REPORTING OF AIRCRAFT COMPONENT MAJOR DEFECTS ",
         "start_page": 41,
         "end_page": 42,
-        "end_link_label": "1.3 REPORTING OF MECHANICAL INTERRUPTIONS",
+        "end_tag": "1.3",
         "children": [
           {
             "link_idx": "1.2.1",
             "link_label": "1.2.1 DEFECT REPORTING BY OUTSOURCE AMO ",
             "start_page": 41,
             "end_page": 42,
-            "end_link_label": "1.3 REPORTING OF MECHANICAL INTERRUPTIONS",
+            "end_tag": "1.3",
             "children": []
           }
         ]
@@ -193,14 +193,14 @@
         "link_label": "1.3 REPORTING OF MECHANICAL INTERRUPTIONS",
         "start_page": 42,
         "end_page": 43,
-        "end_link_label": "1.4 REVIEW OF MECHANICAL INTERRUPTION REPORTS",
+        "end_tag": "1.4",
         "children": [
           {
             "link_idx": "1.3.1",
             "link_label": "1.3.1 INDIVIDUAL MECHANICAL INTERRUPTION REPORTS ",
             "start_page": 42,
             "end_page": 42,
-            "end_link_label": "1.3.2 CONSOLIDATED MECHANICAL INTERRUPTION REPORTS ",
+            "end_tag": "1.3.2",
             "children": []
           },
           {
@@ -208,7 +208,7 @@
             "link_label": "1.3.2 CONSOLIDATED MECHANICAL INTERRUPTION REPORTS ",
             "start_page": 42,
             "end_page": 42,
-            "end_link_label": "1.3.3 REVIEW AND RECORDKEEPING",
+            "end_tag": "1.3.3",
             "children": []
           },
           {
@@ -216,7 +216,7 @@
             "link_label": "1.3.3 REVIEW AND RECORDKEEPING",
             "start_page": 42,
             "end_page": 43,
-            "end_link_label": "1.4 REVIEW OF MECHANICAL INTERRUPTION REPORTS",
+            "end_tag": "1.4",
             "children": []
           }
         ]
@@ -226,14 +226,14 @@
         "link_label": "1.4 REVIEW OF MECHANICAL INTERRUPTION REPORTS",
         "start_page": 43,
         "end_page": 44,
-        "end_link_label": "1.5 SERVICE DIFFICULTY REPORTING",
+        "end_tag": "1.5",
         "children": [
           {
             "link_idx": "1.4.1",
             "link_label": "1.4.1 UNSCHEDULED COMMERCIAL OPERATORS ",
             "start_page": 43,
             "end_page": 43,
-            "end_link_label": "1.4.2 DOCUMENTATION AND RECORDKEEPING ",
+            "end_tag": "1.4.2",
             "children": []
           },
           {
@@ -241,7 +241,7 @@
             "link_label": "1.4.2 DOCUMENTATION AND RECORDKEEPING ",
             "start_page": 43,
             "end_page": 44,
-            "end_link_label": "1.5 SERVICE DIFFICULTY REPORTING",
+            "end_tag": "1.5",
             "children": []
           }
         ]
@@ -251,14 +251,14 @@
         "link_label": "1.5 SERVICE DIFFICULTY REPORTING",
         "start_page": 44,
         "end_page": 46,
-        "end_link_label": "2. ACCIDENTINCIDENT INVESTIGATION PROCEDURE ",
+        "end_tag": "2",
         "children": [
           {
             "link_idx": "1.5.1",
             "link_label": "1.5.1 REPORTING FREQUENCY AND TIMING ",
             "start_page": 44,
             "end_page": 44,
-            "end_link_label": "1.5.2 REPORT CONTENT ",
+            "end_tag": "1.5.2",
             "children": []
           },
           {
@@ -266,7 +266,7 @@
             "link_label": "1.5.2 REPORT CONTENT ",
             "start_page": 44,
             "end_page": 46,
-            "end_link_label": "2. ACCIDENTINCIDENT INVESTIGATION PROCEDURE ",
+            "end_tag": "2",
             "children": []
           }
         ]
@@ -278,14 +278,14 @@
     "link_label": "2. ACCIDENTINCIDENT INVESTIGATION PROCEDURE ",
     "start_page": 46,
     "end_page": 66,
-    "end_link_label": "3. SAFETY OCCURRENCES",
+    "end_tag": "3",
     "children": [
       {
         "link_idx": "2.1",
         "link_label": "2.1 INVESTIGATION OF INCIDENTS ",
         "start_page": 47,
         "end_page": 48,
-        "end_link_label": "2.2 INVESTIGATION OF MAJOR DEFECTS ",
+        "end_tag": "2.2",
         "children": []
       },
       {
@@ -293,7 +293,7 @@
         "link_label": "2.2 INVESTIGATION OF MAJOR DEFECTS ",
         "start_page": 48,
         "end_page": 49,
-        "end_link_label": "2.3 INTERNAL SAFETY ACCIDENTINCIDENT INVESTIGATION",
+        "end_tag": "2.3",
         "children": []
       },
       {
@@ -301,7 +301,7 @@
         "link_label": "2.3 INTERNAL SAFETY ACCIDENTINCIDENT INVESTIGATION",
         "start_page": 49,
         "end_page": 50,
-        "end_link_label": "2.4 INVESTIGATION PROCEDURE",
+        "end_tag": "2.4",
         "children": []
       },
       {
@@ -309,14 +309,14 @@
         "link_label": "2.4 INVESTIGATION PROCEDURE",
         "start_page": 50,
         "end_page": 52,
-        "end_link_label": "2.5 LEAD INVESTIGATOR ROLE AND DUTIES ",
+        "end_tag": "2.5",
         "children": [
           {
             "link_idx": "2.4.1",
             "link_label": "2.4.1 DECISION TO INVESTIGATE ",
             "start_page": 50,
             "end_page": 50,
-            "end_link_label": "2.4.2 EVENT RISK CLASSIFICATION ",
+            "end_tag": "2.4.2",
             "children": []
           },
           {
@@ -324,7 +324,7 @@
             "link_label": "2.4.2 EVENT RISK CLASSIFICATION ",
             "start_page": 50,
             "end_page": 52,
-            "end_link_label": "2.5 LEAD INVESTIGATOR ROLE AND DUTIES ",
+            "end_tag": "2.5",
             "children": []
           }
         ]
@@ -334,14 +334,14 @@
         "link_label": "2.5 LEAD INVESTIGATOR ROLE AND DUTIES ",
         "start_page": 52,
         "end_page": 55,
-        "end_link_label": "2.6 INVESTIGATION REQUIREMENTS",
+        "end_tag": "2.6",
         "children": [
           {
             "link_idx": "2.5.1",
             "link_label": "2.5.1 EVIDENCE COLLECTION IN SAFETY INVESTIGATIONS ",
             "start_page": 52,
             "end_page": 53,
-            "end_link_label": "2.5.2 ESTABLISHING FACTUAL INFORMATION ",
+            "end_tag": "2.5.2",
             "children": []
           },
           {
@@ -349,7 +349,7 @@
             "link_label": "2.5.2 ESTABLISHING FACTUAL INFORMATION ",
             "start_page": 53,
             "end_page": 53,
-            "end_link_label": "2.5.3 ANALYSIS AND CONCLUSION BASED ON FACTUAL INFORMATION ",
+            "end_tag": "2.5.3",
             "children": []
           },
           {
@@ -357,7 +357,7 @@
             "link_label": "2.5.3 ANALYSIS AND CONCLUSION BASED ON FACTUAL INFORMATION ",
             "start_page": 53,
             "end_page": 54,
-            "end_link_label": "2.5.4 REVIEW OF FINDINGS AND RECOMMENDATIONS ",
+            "end_tag": "2.5.4",
             "children": []
           },
           {
@@ -365,7 +365,7 @@
             "link_label": "2.5.4 REVIEW OF FINDINGS AND RECOMMENDATIONS ",
             "start_page": 54,
             "end_page": 55,
-            "end_link_label": "2.6 INVESTIGATION REQUIREMENTS",
+            "end_tag": "2.6",
             "children": []
           }
         ]
@@ -375,14 +375,14 @@
         "link_label": "2.6 INVESTIGATION REQUIREMENTS",
         "start_page": 55,
         "end_page": 58,
-        "end_link_label": "2.7 REPORT INVESTIGATION ",
+        "end_tag": "2.7",
         "children": [
           {
             "link_idx": "2.6.1",
             "link_label": "2.6.1 DIRECTOR OF SAFETY  QUALITY REVIEW ",
             "start_page": 55,
             "end_page": 55,
-            "end_link_label": "2.6.2 DRAFT REPORT REVIEW AND FEEDBACK ",
+            "end_tag": "2.6.2",
             "children": []
           },
           {
@@ -390,7 +390,7 @@
             "link_label": "2.6.2 DRAFT REPORT REVIEW AND FEEDBACK ",
             "start_page": 55,
             "end_page": 55,
-            "end_link_label": "2.6.3 PUBLICATION OF FINAL INVESTIGATION REPORT ",
+            "end_tag": "2.6.3",
             "children": []
           },
           {
@@ -398,7 +398,7 @@
             "link_label": "2.6.3 PUBLICATION OF FINAL INVESTIGATION REPORT ",
             "start_page": 55,
             "end_page": 55,
-            "end_link_label": "2.6.4 FINAL INVESTIGATION REPORT APPROVAL ",
+            "end_tag": "2.6.4",
             "children": []
           },
           {
@@ -406,7 +406,7 @@
             "link_label": "2.6.4 FINAL INVESTIGATION REPORT APPROVAL ",
             "start_page": 55,
             "end_page": 56,
-            "end_link_label": "2.6.5 FINAL INVESTIGATION REPORT DISTRIBUTION ",
+            "end_tag": "2.6.5",
             "children": []
           },
           {
@@ -414,7 +414,7 @@
             "link_label": "2.6.5 FINAL INVESTIGATION REPORT DISTRIBUTION ",
             "start_page": 56,
             "end_page": 56,
-            "end_link_label": "2.6.6 TERMINATION OF SAFETY INVESTIGATION ",
+            "end_tag": "2.6.6",
             "children": []
           },
           {
@@ -422,7 +422,7 @@
             "link_label": "2.6.6 TERMINATION OF SAFETY INVESTIGATION ",
             "start_page": 56,
             "end_page": 56,
-            "end_link_label": "2.6.7 SAFETY RECOMMENDATION FOLLOWUP ",
+            "end_tag": "2.6.7",
             "children": []
           },
           {
@@ -430,7 +430,7 @@
             "link_label": "2.6.7 SAFETY RECOMMENDATION FOLLOWUP ",
             "start_page": 56,
             "end_page": 56,
-            "end_link_label": "2.6.8 SAFETY RECOMMENDATION CLOSURE ",
+            "end_tag": "2.6.8",
             "children": []
           },
           {
@@ -438,7 +438,7 @@
             "link_label": "2.6.8 SAFETY RECOMMENDATION CLOSURE ",
             "start_page": 56,
             "end_page": 57,
-            "end_link_label": "2.6.9 INVESTIGATION TEAM COMPOSITION ",
+            "end_tag": "2.6.9",
             "children": []
           },
           {
@@ -446,7 +446,7 @@
             "link_label": "2.6.9 INVESTIGATION TEAM COMPOSITION ",
             "start_page": 57,
             "end_page": 58,
-            "end_link_label": "2.7 REPORT INVESTIGATION ",
+            "end_tag": "2.7",
             "children": []
           }
         ]
@@ -456,14 +456,14 @@
         "link_label": "2.7 REPORT INVESTIGATION ",
         "start_page": 58,
         "end_page": 61,
-        "end_link_label": "2.8 STATE INVESTIGATION ",
+        "end_tag": "2.8",
         "children": [
           {
             "link_idx": "2.7.1",
             "link_label": "2.7.1 REPORT INVESTIGATION FORMAT ",
             "start_page": 58,
             "end_page": 61,
-            "end_link_label": "2.8 STATE INVESTIGATION ",
+            "end_tag": "2.8",
             "children": []
           }
         ]
@@ -473,14 +473,14 @@
         "link_label": "2.8 STATE INVESTIGATION ",
         "start_page": 61,
         "end_page": 62,
-        "end_link_label": "2.9 FLIGHT RECORDER HANDLING DURING INVESTIGATIONS ",
+        "end_tag": "2.9",
         "children": [
           {
             "link_idx": "2.8.1",
             "link_label": "2.8.1 PARTICIPATION IN AIB INVESTIGATIONS",
             "start_page": 61,
             "end_page": 61,
-            "end_link_label": "2.8.2 FOREIGN STATE INVESTIGATIONS ",
+            "end_tag": "2.8.2",
             "children": []
           },
           {
@@ -488,7 +488,7 @@
             "link_label": "2.8.2 FOREIGN STATE INVESTIGATIONS ",
             "start_page": 61,
             "end_page": 61,
-            "end_link_label": "2.8.3 KINGDOM OF SAUDI ARABIA INVESTIGATIONS ",
+            "end_tag": "2.8.3",
             "children": []
           },
           {
@@ -496,7 +496,7 @@
             "link_label": "2.8.3 KINGDOM OF SAUDI ARABIA INVESTIGATIONS ",
             "start_page": 61,
             "end_page": 62,
-            "end_link_label": "2.9 FLIGHT RECORDER HANDLING DURING INVESTIGATIONS ",
+            "end_tag": "2.9",
             "children": []
           }
         ]
@@ -506,14 +506,14 @@
         "link_label": "2.9 FLIGHT RECORDER HANDLING DURING INVESTIGATIONS ",
         "start_page": 62,
         "end_page": 64,
-        "end_link_label": "2.10 MONITORING AND CONTROLLING CORRECTIVE ACTIONS ",
+        "end_tag": "2.10",
         "children": [
           {
             "link_idx": "2.9.1",
             "link_label": "2.9.1 FLIGHT RECORDER DATA ",
             "start_page": 62,
             "end_page": 62,
-            "end_link_label": "2.9.2 FLIGHT RECORDER DATA USAGE AFTER MANDATORY REPORTING INCIDENTS",
+            "end_tag": "2.9.2",
             "children": []
           },
           {
@@ -521,7 +521,7 @@
             "link_label": "2.9.2 FLIGHT RECORDER DATA USAGE AFTER MANDATORY REPORTING INCIDENTS",
             "start_page": 62,
             "end_page": 63,
-            "end_link_label": "2.9.3 COCKPIT VOICE RECORDER CVR DATA ",
+            "end_tag": "2.9.3",
             "children": []
           },
           {
@@ -529,7 +529,7 @@
             "link_label": "2.9.3 COCKPIT VOICE RECORDER CVR DATA ",
             "start_page": 63,
             "end_page": 64,
-            "end_link_label": "2.10 MONITORING AND CONTROLLING CORRECTIVE ACTIONS ",
+            "end_tag": "2.10",
             "children": []
           }
         ]
@@ -539,14 +539,14 @@
         "link_label": "2.10 MONITORING AND CONTROLLING CORRECTIVE ACTIONS ",
         "start_page": 64,
         "end_page": 66,
-        "end_link_label": "3. SAFETY OCCURRENCES",
+        "end_tag": "3",
         "children": [
           {
             "link_idx": "2.10.1",
             "link_label": "2.10.1 OVERSIGHT AND RESPONSIBILITY ",
             "start_page": 64,
             "end_page": 64,
-            "end_link_label": "2.10.2 CENTRALIZED TRACKING ",
+            "end_tag": "2.10.2",
             "children": []
           },
           {
@@ -554,7 +554,7 @@
             "link_label": "2.10.2 CENTRALIZED TRACKING ",
             "start_page": 64,
             "end_page": 64,
-            "end_link_label": "2.10.3 TIMELY IMPLEMENTATION ",
+            "end_tag": "2.10.3",
             "children": []
           },
           {
@@ -562,7 +562,7 @@
             "link_label": "2.10.3 TIMELY IMPLEMENTATION ",
             "start_page": 64,
             "end_page": 66,
-            "end_link_label": "3. SAFETY OCCURRENCES",
+            "end_tag": "3",
             "children": []
           }
         ]
@@ -574,14 +574,14 @@
     "link_label": "3. SAFETY OCCURRENCES",
     "start_page": 66,
     "end_page": 82,
-    "end_link_label": "4. SAFETY DATA AND SAFETY INFORMATION MANAGEMENT ",
+    "end_tag": "4",
     "children": [
       {
         "link_idx": "3.1",
         "link_label": "3.1 REPORTABLE OCCURRENCES ",
         "start_page": 67,
         "end_page": 68,
-        "end_link_label": "3.2 AIRCRAFT MAINTENANCE OCCURRENCES ",
+        "end_tag": "3.2",
         "children": []
       },
       {
@@ -589,14 +589,14 @@
         "link_label": "3.2 AIRCRAFT MAINTENANCE OCCURRENCES ",
         "start_page": 68,
         "end_page": 70,
-        "end_link_label": "3.3 MANDATORY OCCURRENCE REPORTING MOR ",
+        "end_tag": "3.3",
         "children": [
           {
             "link_idx": "3.2.1",
             "link_label": "3.2.1 MANUFACTURING ",
             "start_page": 68,
             "end_page": 68,
-            "end_link_label": "3.2.2 DESIGN ",
+            "end_tag": "3.2.2",
             "children": []
           },
           {
@@ -604,7 +604,7 @@
             "link_label": "3.2.2 DESIGN ",
             "start_page": 68,
             "end_page": 68,
-            "end_link_label": "3.2.3 MAINTENANCE AND CONTINUING AIRWORTHINESS MANAGEMENT",
+            "end_tag": "3.2.3",
             "children": []
           },
           {
@@ -612,7 +612,7 @@
             "link_label": "3.2.3 MAINTENANCE AND CONTINUING AIRWORTHINESS MANAGEMENT",
             "start_page": 68,
             "end_page": 70,
-            "end_link_label": "3.3 MANDATORY OCCURRENCE REPORTING MOR ",
+            "end_tag": "3.3",
             "children": []
           }
         ]
@@ -622,14 +622,14 @@
         "link_label": "3.3 MANDATORY OCCURRENCE REPORTING MOR ",
         "start_page": 70,
         "end_page": 76,
-        "end_link_label": "3.4 ANONYMOUS REPORTING ",
+        "end_tag": "3.4",
         "children": [
           {
             "link_idx": "3.3.1",
             "link_label": "3.3.1 SERIOUS INCIDENTS  ACCIDENTS ",
             "start_page": 70,
             "end_page": 71,
-            "end_link_label": "3.3.2 MAJORITY OF MANDATORY REPORTABLE OCCURRENCES ",
+            "end_tag": "3.3.2",
             "children": []
           },
           {
@@ -637,7 +637,7 @@
             "link_label": "3.3.2 MAJORITY OF MANDATORY REPORTABLE OCCURRENCES ",
             "start_page": 71,
             "end_page": 76,
-            "end_link_label": "3.4 ANONYMOUS REPORTING ",
+            "end_tag": "3.4",
             "children": []
           }
         ]
@@ -647,7 +647,7 @@
         "link_label": "3.4 ANONYMOUS REPORTING ",
         "start_page": 76,
         "end_page": 77,
-        "end_link_label": "3.5 CONFIDENTIAL REPORTING ",
+        "end_tag": "3.5",
         "children": []
       },
       {
@@ -655,7 +655,7 @@
         "link_label": "3.5 CONFIDENTIAL REPORTING ",
         "start_page": 77,
         "end_page": 78,
-        "end_link_label": "3.6 SAFETY REPORTING  INFORMATION SHARING ",
+        "end_tag": "3.6",
         "children": []
       },
       {
@@ -663,14 +663,14 @@
         "link_label": "3.6 SAFETY REPORTING  INFORMATION SHARING ",
         "start_page": 78,
         "end_page": 82,
-        "end_link_label": "4. SAFETY DATA AND SAFETY INFORMATION MANAGEMENT ",
+        "end_tag": "4",
         "children": [
           {
             "link_idx": "3.6.1",
             "link_label": "3.6.1 INTERNAL DATA SHARING ",
             "start_page": 78,
             "end_page": 78,
-            "end_link_label": "3.6.2 FLEET OPERATIONAL PERFORMANCE REPORTENGINEERING STATISTICS REPORT ",
+            "end_tag": "3.6.2",
             "children": []
           },
           {
@@ -678,7 +678,7 @@
             "link_label": "3.6.2 FLEET OPERATIONAL PERFORMANCE REPORTENGINEERING STATISTICS REPORT ",
             "start_page": 78,
             "end_page": 82,
-            "end_link_label": "4. SAFETY DATA AND SAFETY INFORMATION MANAGEMENT ",
+            "end_tag": "4",
             "children": []
           }
         ]
@@ -690,14 +690,14 @@
     "link_label": "4. SAFETY DATA AND SAFETY INFORMATION MANAGEMENT ",
     "start_page": 82,
     "end_page": 84,
-    "end_link_label": "5. SMS RECORDS MANAGEMENT ",
+    "end_tag": "5",
     "children": [
       {
         "link_idx": "4.1",
         "link_label": "4.1 SAFETY DATA AND SAFETY INFORMATION MANAGEMENT",
         "start_page": 82,
         "end_page": 83,
-        "end_link_label": "4.2 PROTECTION OF SAFETY DATA ",
+        "end_tag": "4.2",
         "children": []
       },
       {
@@ -705,14 +705,14 @@
         "link_label": "4.2 PROTECTION OF SAFETY DATA ",
         "start_page": 83,
         "end_page": 84,
-        "end_link_label": "5. SMS RECORDS MANAGEMENT ",
+        "end_tag": "5",
         "children": [
           {
             "link_idx": "4.2.1",
             "link_label": "4.2.1 PURPOSE OF DATA COLLECTION ",
             "start_page": 83,
             "end_page": 83,
-            "end_link_label": "4.2.2 PROTECTION FROM DISCLOSURE ",
+            "end_tag": "4.2.2",
             "children": []
           },
           {
@@ -720,7 +720,7 @@
             "link_label": "4.2.2 PROTECTION FROM DISCLOSURE ",
             "start_page": 83,
             "end_page": 84,
-            "end_link_label": "5. SMS RECORDS MANAGEMENT ",
+            "end_tag": "5",
             "children": []
           }
         ]
@@ -732,21 +732,21 @@
     "link_label": "5. SMS RECORDS MANAGEMENT ",
     "start_page": 84,
     "end_page": 88,
-    "end_link_label": "6. FATIGUE RISK MANAGEMENT SYSTEM FRMS ",
+    "end_tag": "6",
     "children": [
       {
         "link_idx": "5.1",
         "link_label": "5.1 SMS DOCUMENTATION AND RECORDS ",
         "start_page": 84,
         "end_page": 88,
-        "end_link_label": "6. FATIGUE RISK MANAGEMENT SYSTEM FRMS ",
+        "end_tag": "6",
         "children": [
           {
             "link_idx": "5.1.1",
             "link_label": "5.1.1 SMS DOCUMENTATION ",
             "start_page": 84,
             "end_page": 84,
-            "end_link_label": "5.1.2 RELATED DOCUMENTS ",
+            "end_tag": "5.1.2",
             "children": []
           },
           {
@@ -754,7 +754,7 @@
             "link_label": "5.1.2 RELATED DOCUMENTS ",
             "start_page": 84,
             "end_page": 85,
-            "end_link_label": "5.1.3 RECORDS ",
+            "end_tag": "5.1.3",
             "children": []
           },
           {
@@ -762,7 +762,7 @@
             "link_label": "5.1.3 RECORDS ",
             "start_page": 85,
             "end_page": 88,
-            "end_link_label": "6. FATIGUE RISK MANAGEMENT SYSTEM FRMS ",
+            "end_tag": "6",
             "children": []
           }
         ]
@@ -774,14 +774,14 @@
     "link_label": "6. FATIGUE RISK MANAGEMENT SYSTEM FRMS ",
     "start_page": 88,
     "end_page": 90,
-    "end_link_label": "7. FLIGHT SAFETY DOCUMENTS SYSTEM FSDS ",
+    "end_tag": "7",
     "children": [
       {
         "link_idx": "6.1",
         "link_label": "6.1 FRMS POLICY ",
         "start_page": 88,
         "end_page": 90,
-        "end_link_label": "7. FLIGHT SAFETY DOCUMENTS SYSTEM FSDS ",
+        "end_tag": "7",
         "children": []
       }
     ]
@@ -791,31 +791,31 @@
     "link_label": "7. FLIGHT SAFETY DOCUMENTS SYSTEM FSDS ",
     "start_page": 90,
     "end_page": 28,
-    "end_link_label": "8. SAFETY POLICE NEED TO BE REPLACED IN SMM",
+    "end_tag": "8",
     "children": [
       {
         "link_idx": "7.1",
         "link_label": "7.1 FLIGHT SAFETY DOCUMENTS SYSTEM FSDS POLICY ",
         "start_page": 90,
         "end_page": 28,
-        "end_link_label": "8. SAFETY POLICE NEED TO BE REPLACED IN SMM",
+        "end_tag": "8",
         "children": []
       }
     ]
   },
   {
     "link_idx": "8",
-    "link_label": "8. SAFETY POLICE NEED TO BE REPLACED IN SMM",
+    "link_label": "8. SAFETY POLICE NEED TO BE REPLACED IN SMM ",
     "start_page": 28,
     "end_page": 30,
-    "end_link_label": "9. ADDED IN MAC SMS .........................................ERROR! BOOKMARK NOT DEFINED. ",
+    "end_tag": "9",
     "children": [
       {
         "link_idx": "8.1",
         "link_label": "8.1 SAFETY POLICY ",
         "start_page": 28,
         "end_page": 30,
-        "end_link_label": "9. ADDED IN MAC SMS .........................................ERROR! BOOKMARK NOT DEFINED. ",
+        "end_tag": "9",
         "children": []
       }
     ]
@@ -825,46 +825,46 @@
     "link_label": "9. ADDED IN MAC SMS .........................................ERROR! BOOKMARK NOT DEFINED. ",
     "start_page": 30,
     "end_page": -1,
-    "end_link_label": null,
+    "end_tag": null,
     "children": [
       {
         "link_idx": "9.1",
-        "link_label": "9.1 SMS ACCOUNTABILITIES AND RESPONSIBILITIES IN",
+        "link_label": "9.1 SMS ACCOUNTABILITIES AND RESPONSIBILITIES IN ",
         "start_page": 30,
         "end_page": 31,
-        "end_link_label": "9.2 ACCOUNTABLE EXECUTIVE IN",
+        "end_tag": "9.2",
         "children": []
       },
       {
         "link_idx": "9.2",
-        "link_label": "9.2 ACCOUNTABLE EXECUTIVE IN",
+        "link_label": "9.2 ACCOUNTABLE EXECUTIVE IN ",
         "start_page": 31,
         "end_page": 33,
-        "end_link_label": "9.3 DIRECTOR OF SAFETY  QUALITY ADD IN",
+        "end_tag": "9.3",
         "children": []
       },
       {
         "link_idx": "9.3",
-        "link_label": "9.3 DIRECTOR OF SAFETY  QUALITY ADD IN",
+        "link_label": "9.3 DIRECTOR OF SAFETY  QUALITY ADD IN ",
         "start_page": 33,
         "end_page": 35,
-        "end_link_label": "9.4 PERFORMANCE MEASUREMENT AND MONITORING REPLACED",
+        "end_tag": "9.4",
         "children": []
       },
       {
         "link_idx": "9.4",
-        "link_label": "9.4 PERFORMANCE MEASUREMENT AND MONITORING REPLACED",
+        "link_label": "9.4 PERFORMANCE MEASUREMENT AND MONITORING REPLACED ",
         "start_page": 35,
         "end_page": 36,
-        "end_link_label": "9.5 MANAGEMENT OF CHANGE MOC REPLACED ITEM",
+        "end_tag": "9.5",
         "children": []
       },
       {
         "link_idx": "9.5",
-        "link_label": "9.5 MANAGEMENT OF CHANGE MOC REPLACED ITEM",
+        "link_label": "9.5 MANAGEMENT OF CHANGE MOC REPLACED ITEM ",
         "start_page": 36,
         "end_page": -1,
-        "end_link_label": null,
+        "end_tag": null,
         "children": []
       }
     ]

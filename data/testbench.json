@@ -1,138 +1,138 @@
 [
     {
         "file_path": "data/sample_rxi_1.pdf",
-        "toc_header": "2 CASS ORGANIZATION ",
+        "toc_key": "2",
         "start_page": 34,
         "end_page": 42,
-        "end_link_label": "3 CASS FUNCTIONAL DIAGRAM ",
+        "end_tag": "3",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_1.pdf",
-        "toc_header": "2.3 CRB MEETINGS ",
+        "toc_key": "2.3",
         "start_page": 37,
         "end_page": 39,
-        "end_link_label": "2.4 DUTIES AND RESPONSIBILITIES ",
+        "end_tag": "2.4",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_1.pdf",
-        "toc_header": "2.4.5 ROLE OF OUTSIDE AUDITORS",
+        "toc_key": "2.4.5",
         "start_page": 40,
         "end_page": 42,
-        "end_link_label": "3 CASS FUNCTIONAL DIAGRAM ",
+        "end_tag": "3",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_5.pdf",
-        "toc_header": "1 DANGEROUS GOODS  GENERAL ",
+        "toc_key": "1",
         "start_page": 46,
         "end_page": 58,
-        "end_link_label": "2 CLASSIFICATION AND PACKAGING OF DANGEROUS GOODS ",
+        "end_tag": "2",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_5.pdf",
-        "toc_header": "3.2 DANGEROUS GOODS PROHIBITED IN AIR TRANSPORT ",
+        "toc_key": "3.2",
         "start_page": 87,
         "end_page": 90,
-        "end_link_label": "3.3 DANGEROUS GOODS CARRIED BY PASSENGERS AND CREW ",
+        "end_tag": "3.3",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_5.pdf",
-        "toc_header": "3.2.3 APPROVAL OF EXEMPTIONS ",
+        "toc_key": "3.2.3",
         "start_page": 88,
         "end_page": 88,
-        "end_link_label": "3.2.4 RESTRICTIONS ON SPECIFIC DANGEROUS GOODS ",
+        "end_tag": "3.2.4",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_10.pdf",
-        "toc_header": "3 PROCEDURES FOR TRAINING AND CHECKING ",
+        "toc_key": "3",
         "start_page": 235,
         "end_page": 277,
-        "end_link_label": "4 RECORD KEEPING ",
+        "end_tag": "4",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_10.pdf",
-        "toc_header": "4.2 STORAGE OF TRAINING RECORDS ",
+        "toc_key": "4.2",
         "start_page": 279,
         "end_page": 281,
-        "end_link_label": "5 APPENDICES ",
+        "end_tag": "5",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_10.pdf",
-        "toc_header": "1.1.4 MANAGER CABIN CREW TRAINING  STANDARDS ",
+        "toc_key": "1.1.4",
         "start_page": 58,
         "end_page": 60,
-        "end_link_label": "1.1.5 HUMAN FACTORS MANAGER ",
+        "end_tag": "1.1.5",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
-        "toc_header": "8 STANDARD OPERATING PROCEDURES ",
+        "toc_key": "8",
         "start_page": 234,
         "end_page": 372,
-        "end_link_label": "9 DANGEROUS GOODS AND WEAPONS ",
+        "end_tag": "9",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
-        "toc_header": "11.3 REPORTING ACCIDENTS ANDOR SERIOUS INCIDENTS ",
+        "toc_key": "11.3",
         "start_page": 447,
         "end_page": 449,
-        "end_link_label": "11.4 ACCIDENT SERIOUS INCIDENT AND INCIDENT NOTIFICATION AND REPORTING ",
+        "end_tag": "11.4",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
-        "toc_header": "9.9.4 PROVISIONS FOR CARRIAGE ",
+        "toc_key": "9.9.4",
         "start_page": 384,
         "end_page": 392,
-        "end_link_label": "9.10 ACCEPTANCE AND HANDLING OF DANGEROUS GOODS CARGO ",
+        "end_tag": "9.10",
         "text_file_path": null
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
-        "toc_header": "4.4.1 PROTOCOL FOR RELIEVING THE PIC ",
+        "toc_key": "4.4.1",
         "start_page": 182,
         "end_page": 182,
-        "end_link_label": "4.4.2 PROTOCOL FOR RELIEVING THE FIRST OFFICER ",
+        "end_tag": "4.4.2",
         "text_file_path": "data/sample_rxi_12_4.4.1.txt"
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
-        "toc_header": "8.3.6 TRAFFIC COLLISION AVOIDANCE SYSTEM TCASAIRBORNE COLLISION AVOIDANCE SYSTEM ACAS ",
+        "toc_key": "8.3.6",
         "start_page": 304,
         "end_page": 305,
-        "end_link_label": "8.3.7 POLICY AND PROCEDURES FOR INFLIGHT FUEL MANAGEMENT ",
+        "end_tag": "8.3.7",
         "text_file_path": "data/sample_rxi_12_8.3.6.txt"
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
-        "toc_header": "8 STANDARD OPERATING PROCEDURES ",
+        "toc_key": "8",
         "start_page": 234,
         "end_page": 372,
-        "end_link_label": "9 DANGEROUS GOODS AND WEAPONS ",
+        "end_tag": "9",
         "text_file_path": "data/sample_rxi_12_8.txt"
     },
     {
         "file_path": "data/sample_rxi_12.pdf",
-        "toc_header": "14 APPENDICES ",
+        "toc_key": "14",
         "start_page": 476,
         "end_page": -1,
-        "end_link_label": null,
+        "end_tag": null,
         "text_file_path": "data/sample_rxi_12_14.txt"
     },
     {
         "file_path": "data/sample_mac_6.pdf",
-        "toc_header": "8.10.7 COMMUNICATION SYSTEM ",
+        "toc_key": "8.10.7",
         "start_page": 327,
         "end_page": 327,
-        "end_link_label": "8.10.8 INTERPHONEPUBLIC ADDRESS ",
+        "end_tag": "8.10.8",
         "text_file_path": "data/sample_mac_6_8.10.7.txt"
     }
 ]

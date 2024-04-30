@@ -1,25 +1,25 @@
 [
   {
     "link_idx": "0",
-    "link_label": "0 FRONT MATTER ",
+    "link_label": "0 FRONT MATTER ................................................................................................................ 04 0.1TABLE OF CONTENTS ................................................................................................................................... 04",
     "start_page": 3,
     "end_page": 52,
-    "end_link_label": "1 DESCRIPTION OF SCOPE ",
+    "end_tag": "1",
     "children": [
       {
         "link_idx": "0.1",
-        "link_label": "0.1 TABLE OF CONTENTS ",
+        "link_label": "0.1 TABLE OF CONTENTS ................................................................................................................................... 04 0.2REVISION HIGHLIGHTS ............................................................................................................................. 013",
         "start_page": 3,
         "end_page": 12,
-        "end_link_label": "0.2 REVISION HIGHLIGHTS ",
+        "end_tag": "0.2",
         "children": []
       },
       {
         "link_idx": "0.2",
-        "link_label": "0.2 REVISION HIGHLIGHTS ",
+        "link_label": "0.2 REVISION HIGHLIGHTS ............................................................................................................................. 013 0.3RECORD OF REVISIONS ............................................................................................................................ 015",
         "start_page": 12,
         "end_page": 14,
-        "end_link_label": "0.3 RECORD OF REVISIONS ",
+        "end_tag": "0.3",
         "children": []
       },
       {
@@ -27,31 +27,31 @@
         "link_label": "0.3 RECORD OF REVISIONS ",
         "start_page": 14,
         "end_page": 16,
-        "end_link_label": "0.4 RECORD OF OPERATIONAL MANUAL NOTICE OMN  ",
+        "end_tag": "0.4",
         "children": []
       },
       {
         "link_idx": "0.4",
-        "link_label": "0.4 RECORD OF OPERATIONAL MANUAL NOTICE OMN  ",
+        "link_label": "0.4 RECORD OF OPERATIONAL MANUAL NOTICE OMN  .............................................................. 017 0.5LIST OF EFFECTIVE PAGES ........................................................................................................................ 018",
         "start_page": 16,
         "end_page": 17,
-        "end_link_label": "0.5 LIST OF EFFECTIVE PAGES ",
+        "end_tag": "0.5",
         "children": []
       },
       {
         "link_idx": "0.5",
-        "link_label": "0.5 LIST OF EFFECTIVE PAGES ",
+        "link_label": "0.5 LIST OF EFFECTIVE PAGES ........................................................................................................................ 018 0.6LIST OF TABLES ............................................................................................................................................ 027",
         "start_page": 17,
         "end_page": 26,
-        "end_link_label": "0.6 LIST OF TABLES ",
+        "end_tag": "0.6",
         "children": []
       },
       {
         "link_idx": "0.6",
-        "link_label": "0.6 LIST OF TABLES ",
+        "link_label": "0.6 LIST OF TABLES ............................................................................................................................................ 027 0.7LIST OF FIGURES .......................................................................................................................................... 029",
         "start_page": 26,
         "end_page": 28,
-        "end_link_label": "0.7 LIST OF FIGURES ",
+        "end_tag": "0.7",
         "children": []
       },
       {
@@ -59,31 +59,31 @@
         "link_label": "0.7 LIST OF FIGURES ",
         "start_page": 28,
         "end_page": 29,
-        "end_link_label": "0.8 LIST OF COMPLIANCE ENTRIES ",
+        "end_tag": "0.8",
         "children": []
       },
       {
         "link_idx": "0.8",
-        "link_label": "0.8 LIST OF COMPLIANCE ENTRIES ",
+        "link_label": "0.8 LIST OF COMPLIANCE ENTRIES ............................................................................................................. 030 0.9MANAGEMENT APPROVAL ..................................................................................................................... 036",
         "start_page": 29,
         "end_page": 35,
-        "end_link_label": "0.9 MANAGEMENT APPROVAL ",
+        "end_tag": "0.9",
         "children": []
       },
       {
         "link_idx": "0.9",
-        "link_label": "0.9 MANAGEMENT APPROVAL ",
+        "link_label": "0.9 MANAGEMENT APPROVAL ..................................................................................................................... 036 0.10GACA APPROVAL ........................................................................................................................................ 038",
         "start_page": 35,
         "end_page": 37,
-        "end_link_label": "0.10 GACA APPROVAL ",
+        "end_tag": "0.10",
         "children": []
       },
       {
         "link_idx": "0.10",
-        "link_label": "0.10 GACA APPROVAL ",
+        "link_label": "0.10 GACA APPROVAL ........................................................................................................................................ 038 0.11INTRODUCTION ........................................................................................................................................... 040",
         "start_page": 37,
         "end_page": 39,
-        "end_link_label": "0.11 INTRODUCTION ",
+        "end_tag": "0.11",
         "children": []
       },
       {
@@ -91,22 +91,22 @@
         "link_label": "0.11 INTRODUCTION ",
         "start_page": 39,
         "end_page": 40,
-        "end_link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
+        "end_tag": "0.12",
         "children": [
           {
             "link_idx": "0.11.1",
-            "link_label": "0.11.1 POLICY ",
+            "link_label": "0.11.1 POLICY ............................................................................................................................................................. 040 0.11.2APPLICABILITY .............................................................................................................................................. 040",
             "start_page": 39,
             "end_page": 39,
-            "end_link_label": "0.11.2 APPLICABILITY ",
+            "end_tag": "0.11.2",
             "children": []
           },
           {
             "link_idx": "0.11.2",
-            "link_label": "0.11.2 APPLICABILITY ",
+            "link_label": "0.11.2 APPLICABILITY .............................................................................................................................................. 040 0.11.3COMMON LANGUAGE .............................................................................................................................. 040",
             "start_page": 39,
             "end_page": 39,
-            "end_link_label": "0.11.3 COMMON LANGUAGE ",
+            "end_tag": "0.11.3",
             "children": []
           },
           {
@@ -114,31 +114,31 @@
             "link_label": "0.11.3 COMMON LANGUAGE ",
             "start_page": 39,
             "end_page": 39,
-            "end_link_label": "0.11.4 USAGE OF TERMS ",
+            "end_tag": "0.11.4",
             "children": []
           },
           {
             "link_idx": "0.11.4",
-            "link_label": "0.11.4 USAGE OF TERMS ",
+            "link_label": "0.11.4 USAGE OF TERMS ....................................................................................................................................... 040 0.11.5HUMAN FACTOR PRINCIPLES ................................................................................................................ 040",
             "start_page": 39,
             "end_page": 39,
-            "end_link_label": "0.11.5 HUMAN FACTOR PRINCIPLES ",
+            "end_tag": "0.11.5",
             "children": []
           },
           {
             "link_idx": "0.11.5",
-            "link_label": "0.11.5 HUMAN FACTOR PRINCIPLES ",
+            "link_label": "0.11.5 HUMAN FACTOR PRINCIPLES ................................................................................................................ 040 0.11.6APPLICABLE REGULATIONS AND STANDARDS .............................................................................. 041",
             "start_page": 39,
             "end_page": 40,
-            "end_link_label": "0.11.6 APPLICABLE REGULATIONS AND STANDARDS ",
+            "end_tag": "0.11.6",
             "children": []
           },
           {
             "link_idx": "0.11.6",
-            "link_label": "0.11.6 APPLICABLE REGULATIONS AND STANDARDS ",
+            "link_label": "0.11.6 APPLICABLE REGULATIONS AND STANDARDS .............................................................................. 041 12ABBREVIATIONS ACRONYMS AND DEFINITIONS ........................................................................ 041",
             "start_page": 40,
             "end_page": 40,
-            "end_link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
+            "end_tag": "0.12",
             "children": []
           }
         ]
@@ -148,22 +148,22 @@
         "link_label": "0.12 ABBREVIATIONS ACRONYMS AND DEFINITIONS ",
         "start_page": 40,
         "end_page": 51,
-        "end_link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
+        "end_tag": "0.13",
         "children": [
           {
             "link_idx": "0.12.1",
-            "link_label": "0.12.1 ABBREVIATIONS AND ACRONYMS ",
+            "link_label": "0.12.1 ABBREVIATIONS AND ACRONYMS ..................................................................................................... 041 0.12.2DEFINITIONS ................................................................................................................................................. 046",
             "start_page": 40,
             "end_page": 45,
-            "end_link_label": "0.12.2 DEFINITIONS ",
+            "end_tag": "0.12.2",
             "children": []
           },
           {
             "link_idx": "0.12.2",
-            "link_label": "0.12.2 DEFINITIONS ",
+            "link_label": "0.12.2 DEFINITIONS ................................................................................................................................................. 046 13SYSTEM OF AMENDMENT AND REVISION ....................................................................................... 052",
             "start_page": 45,
             "end_page": 51,
-            "end_link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
+            "end_tag": "0.13",
             "children": []
           }
         ]
@@ -173,7 +173,7 @@
         "link_label": "0.13 SYSTEM OF AMENDMENT AND REVISION ",
         "start_page": 51,
         "end_page": 52,
-        "end_link_label": "1 DESCRIPTION OF SCOPE ",
+        "end_tag": "1",
         "children": []
       }
     ]
@@ -183,45 +183,45 @@
     "link_label": "1 DESCRIPTION OF SCOPE ",
     "start_page": 52,
     "end_page": 91,
-    "end_link_label": "2 TRAINING PROGRAM ",
+    "end_tag": "2",
     "children": [
       {
         "link_idx": "1.0",
-        "link_label": "1.0 GENERAL ",
+        "link_label": "1.0 GENERAL ............................................................................................................................................................ 11 1.0.1ORGANIZATIONAL STRUCTURE ............................................................................................................... 11",
         "start_page": 52,
         "end_page": 53,
-        "end_link_label": "1.1 DUTIES AND RESPONSIBILITIES ",
+        "end_tag": "1.1",
         "children": [
           {
             "link_idx": "1.0.1",
-            "link_label": "1.0.1 ORGANIZATIONAL STRUCTURE ",
+            "link_label": "1.0.1 ORGANIZATIONAL STRUCTURE ............................................................................................................... 11 1DUTIES AND RESPONSIBILITIES ............................................................................................................... 12",
             "start_page": 52,
             "end_page": 53,
-            "end_link_label": "1.1 DUTIES AND RESPONSIBILITIES ",
+            "end_tag": "1.1",
             "children": []
           }
         ]
       },
       {
         "link_idx": "1.1",
-        "link_label": "1.1 DUTIES AND RESPONSIBILITIES ",
+        "link_label": "1.1 DUTIES AND RESPONSIBILITIES ............................................................................................................... 12 1.1.1DIRECTOR OF FLIGHT CREW TRAINING  STANDARDS ............................................................... 12",
         "start_page": 53,
         "end_page": 61,
-        "end_link_label": "1.2 TRAINING MANAGEMENT MEETING SCHEDULES ",
+        "end_tag": "1.2",
         "children": [
           {
             "link_idx": "1.1.1",
             "link_label": "1.1.1 DIRECTOR OF FLIGHT CREW TRAINING  STANDARDS ",
             "start_page": 53,
             "end_page": 56,
-            "end_link_label": "1.1.2 SENIOR MANAGER FLIGHT CREW TRAINING  STANDARDS STM ",
+            "end_tag": "1.1.2",
             "children": [
               {
                 "link_idx": "1.1.1.1",
-                "link_label": "1.1.1.1 Duties and Responsibilities ",
+                "link_label": "1.1.1.1 Duties and Responsibilities ................................................................................................... 12 2SENIOR MANAGER FLIGHT CREW TRAINING  STANDARDS STM ....................................... 15",
                 "start_page": 53,
                 "end_page": 56,
-                "end_link_label": "1.1.2 SENIOR MANAGER FLIGHT CREW TRAINING  STANDARDS STM ",
+                "end_tag": "1.1.2",
                 "children": []
               }
             ]
@@ -231,15 +231,15 @@
             "link_label": "1.1.2 SENIOR MANAGER FLIGHT CREW TRAINING  STANDARDS STM ",
             "start_page": 56,
             "end_page": 57,
-            "end_link_label": "1.1.3 MANAGER SIMULATOR TRAINING WIDEBODY ",
+            "end_tag": "1.1.3",
             "children": []
           },
           {
             "link_idx": "1.1.3",
-            "link_label": "1.1.3 MANAGER SIMULATOR TRAINING WIDEBODY ",
+            "link_label": "1.1.3 MANAGER SIMULATOR TRAINING WIDEBODY ................................................................................. 16 1.1.4MANAGER CABIN CREW TRAINING  STANDARDS ....................................................................... 17",
             "start_page": 57,
             "end_page": 58,
-            "end_link_label": "1.1.4 MANAGER CABIN CREW TRAINING  STANDARDS ",
+            "end_tag": "1.1.4",
             "children": []
           },
           {
@@ -247,23 +247,23 @@
             "link_label": "1.1.4 MANAGER CABIN CREW TRAINING  STANDARDS ",
             "start_page": 58,
             "end_page": 60,
-            "end_link_label": "1.1.5 HUMAN FACTORS MANAGER ",
+            "end_tag": "1.1.5",
             "children": []
           },
           {
             "link_idx": "1.1.5",
-            "link_label": "1.1.5 HUMAN FACTORS MANAGER ",
+            "link_label": "1.1.5 HUMAN FACTORS MANAGER .................................................................................................................. 19 1.1.6GROUNDDISPATCH TRAINING MANAGER  ...................................................................................... 19",
             "start_page": 60,
             "end_page": 60,
-            "end_link_label": "1.1.6 GROUNDDISPATCH TRAINING MANAGER  ",
+            "end_tag": "1.1.6",
             "children": []
           },
           {
             "link_idx": "1.1.6",
-            "link_label": "1.1.6 GROUNDDISPATCH TRAINING MANAGER  ",
+            "link_label": "1.1.6 GROUNDDISPATCH TRAINING MANAGER  ...................................................................................... 19 1.1.7SEP TRAINING MANAGER .......................................................................................................................... 19",
             "start_page": 60,
             "end_page": 60,
-            "end_link_label": "1.1.7 SEP TRAINING MANAGER ",
+            "end_tag": "1.1.7",
             "children": []
           },
           {
@@ -271,32 +271,32 @@
             "link_label": "1.1.7 SEP TRAINING MANAGER ",
             "start_page": 60,
             "end_page": 60,
-            "end_link_label": "1.1.8 AVIATION HEALTH TRAINING MANAGER ",
+            "end_tag": "1.1.8",
             "children": []
           },
           {
             "link_idx": "1.1.8",
-            "link_label": "1.1.8 AVIATION HEALTH TRAINING MANAGER ",
+            "link_label": "1.1.8 AVIATION HEALTH TRAINING MANAGER ........................................................................................... 19 2TRAINING MANAGEMENT MEETING SCHEDULES ........................................................................ 110",
             "start_page": 60,
             "end_page": 61,
-            "end_link_label": "1.2 TRAINING MANAGEMENT MEETING SCHEDULES ",
+            "end_tag": "1.2",
             "children": []
           }
         ]
       },
       {
         "link_idx": "1.2",
-        "link_label": "1.2 TRAINING MANAGEMENT MEETING SCHEDULES ",
+        "link_label": "1.2 TRAINING MANAGEMENT MEETING SCHEDULES ........................................................................ 110 1.2.1TRAINING REVIEW COMMITTEE TRC ............................................................................................... 111",
         "start_page": 61,
         "end_page": 64,
-        "end_link_label": "1.3 RESERVED ",
+        "end_tag": "1.3",
         "children": [
           {
             "link_idx": "1.2.1",
-            "link_label": "1.2.1 TRAINING REVIEW COMMITTEE TRC ",
+            "link_label": "1.2.1 TRAINING REVIEW COMMITTEE TRC ............................................................................................... 111 1.2.2TRAINING PROGRAM REVIEW MEETING .......................................................................................... 112",
             "start_page": 62,
             "end_page": 63,
-            "end_link_label": "1.2.2 TRAINING PROGRAM REVIEW MEETING ",
+            "end_tag": "1.2.2",
             "children": []
           },
           {
@@ -304,33 +304,33 @@
             "link_label": "1.2.2 TRAINING PROGRAM REVIEW MEETING ",
             "start_page": 63,
             "end_page": 64,
-            "end_link_label": "1.2.3 FLIGHT OPERATION REVIEW BOARD FORB",
+            "end_tag": "1.2.3",
             "children": []
           },
           {
             "link_idx": "1.2.3",
-            "link_label": "1.2.3 FLIGHT OPERATION REVIEW BOARD FORB",
+            "link_label": "1.2.3 FLIGHT OPERATION REVIEW BOARD FORB................................................................................... 113 3RESERVED ....................................................................................................................................................... 113",
             "start_page": 64,
             "end_page": 64,
-            "end_link_label": "1.3 RESERVED ",
+            "end_tag": "1.3",
             "children": []
           }
         ]
       },
       {
         "link_idx": "1.3",
-        "link_label": "1.3 RESERVED ",
+        "link_label": "1.3 RESERVED ....................................................................................................................................................... 113 1.4RESERVED ....................................................................................................................................................... 113",
         "start_page": 64,
         "end_page": 64,
-        "end_link_label": "1.4 RESERVED ",
+        "end_tag": "1.4",
         "children": []
       },
       {
         "link_idx": "1.4",
-        "link_label": "1.4 RESERVED ",
+        "link_label": "1.4 RESERVED ....................................................................................................................................................... 113 1.5CORE VALUES ............................................................................................................................................... 113",
         "start_page": 64,
         "end_page": 64,
-        "end_link_label": "1.5 CORE VALUES ",
+        "end_tag": "1.5",
         "children": []
       },
       {
@@ -338,30 +338,30 @@
         "link_label": "1.5 CORE VALUES ",
         "start_page": 64,
         "end_page": 66,
-        "end_link_label": "1.6 GENERAL POLICIES ",
+        "end_tag": "1.6",
         "children": [
           {
             "link_idx": "1.5.1",
-            "link_label": "1.5.1 GENERAL PHILOSOPHY ",
+            "link_label": "1.5.1 GENERAL PHILOSOPHY ............................................................................................................................ 113 1.5.2MISSION STATEMENT ............................................................................................................................... 113",
             "start_page": 64,
             "end_page": 64,
-            "end_link_label": "1.5.2 MISSION STATEMENT ",
+            "end_tag": "1.5.2",
             "children": []
           },
           {
             "link_idx": "1.5.2",
-            "link_label": "1.5.2 MISSION STATEMENT ",
+            "link_label": "1.5.2 MISSION STATEMENT ............................................................................................................................... 113 1.5.3SERVICE EXCELLENCE ................................................................................................................................ 113",
             "start_page": 64,
             "end_page": 64,
-            "end_link_label": "1.5.3 SERVICE EXCELLENCE ",
+            "end_tag": "1.5.3",
             "children": []
           },
           {
             "link_idx": "1.5.3",
-            "link_label": "1.5.3 SERVICE EXCELLENCE ",
+            "link_label": "1.5.3 SERVICE EXCELLENCE ................................................................................................................................ 113 1.5.4VALUES ............................................................................................................................................................ 113",
             "start_page": 64,
             "end_page": 64,
-            "end_link_label": "1.5.4 VALUES ",
+            "end_tag": "1.5.4",
             "children": []
           },
           {
@@ -369,23 +369,23 @@
             "link_label": "1.5.4 VALUES ",
             "start_page": 64,
             "end_page": 65,
-            "end_link_label": "1.5.5 PEOPLE ",
+            "end_tag": "1.5.5",
             "children": []
           },
           {
             "link_idx": "1.5.5",
-            "link_label": "1.5.5 PEOPLE ",
+            "link_label": "1.5.5 PEOPLE ............................................................................................................................................................ 114 1.5.6SAFETY ............................................................................................................................................................. 114",
             "start_page": 65,
             "end_page": 65,
-            "end_link_label": "1.5.6 SAFETY ",
+            "end_tag": "1.5.6",
             "children": []
           },
           {
             "link_idx": "1.5.6",
-            "link_label": "1.5.6 SAFETY ",
+            "link_label": "1.5.6 SAFETY ............................................................................................................................................................. 114 6GENERAL POLICIES ..................................................................................................................................... 115",
             "start_page": 65,
             "end_page": 66,
-            "end_link_label": "1.6 GENERAL POLICIES ",
+            "end_tag": "1.6",
             "children": []
           }
         ]
@@ -395,30 +395,30 @@
         "link_label": "1.6 GENERAL POLICIES ",
         "start_page": 66,
         "end_page": 70,
-        "end_link_label": "1.7 DISTANCE LEARNING PROGRAM ",
+        "end_tag": "1.7",
         "children": [
           {
             "link_idx": "1.6.1",
-            "link_label": "1.6.1 MANAGEMENT INTERFERENCE ",
+            "link_label": "1.6.1 MANAGEMENT INTERFERENCE ............................................................................................................. 115 1.6.2SEGREGATION OF TRAINING AND CHECKING ............................................................................... 115",
             "start_page": 66,
             "end_page": 66,
-            "end_link_label": "1.6.2 SEGREGATION OF TRAINING AND CHECKING ",
+            "end_tag": "1.6.2",
             "children": []
           },
           {
             "link_idx": "1.6.2",
-            "link_label": "1.6.2 SEGREGATION OF TRAINING AND CHECKING ",
+            "link_label": "1.6.2 SEGREGATION OF TRAINING AND CHECKING ............................................................................... 115 1.6.3INAPPROPRIATE INTERFERENCE ........................................................................................................... 115",
             "start_page": 66,
             "end_page": 66,
-            "end_link_label": "1.6.3 INAPPROPRIATE INTERFERENCE ",
+            "end_tag": "1.6.3",
             "children": []
           },
           {
             "link_idx": "1.6.3",
-            "link_label": "1.6.3 INAPPROPRIATE INTERFERENCE ",
+            "link_label": "1.6.3 INAPPROPRIATE INTERFERENCE ........................................................................................................... 115 1.6.4HIGHLIGHTING TRAINING ISSUES TO MANAGEMENT ............................................................... 115",
             "start_page": 66,
             "end_page": 66,
-            "end_link_label": "1.6.4 HIGHLIGHTING TRAINING ISSUES TO MANAGEMENT ",
+            "end_tag": "1.6.4",
             "children": []
           },
           {
@@ -426,31 +426,31 @@
             "link_label": "1.6.4 HIGHLIGHTING TRAINING ISSUES TO MANAGEMENT ",
             "start_page": 66,
             "end_page": 66,
-            "end_link_label": "1.6.5 DRESS CODE ",
+            "end_tag": "1.6.5",
             "children": []
           },
           {
             "link_idx": "1.6.5",
-            "link_label": "1.6.5 DRESS CODE ",
+            "link_label": "1.6.5 DRESS CODE ................................................................................................................................................. 115 1.6.6WORKING HOURS ...................................................................................................................................... 116",
             "start_page": 66,
             "end_page": 67,
-            "end_link_label": "1.6.6 WORKING HOURS ",
+            "end_tag": "1.6.6",
             "children": []
           },
           {
             "link_idx": "1.6.6",
-            "link_label": "1.6.6 WORKING HOURS ",
+            "link_label": "1.6.6 WORKING HOURS ...................................................................................................................................... 116 1.6.7TESTING OF STAFF FOR THE PSYCHOACTIVE SUBSTANCE USE  ............................................. 116",
             "start_page": 67,
             "end_page": 67,
-            "end_link_label": "1.6.7 TESTING OF STAFF FOR THE PSYCHOACTIVE SUBSTANCE USE  ",
+            "end_tag": "1.6.7",
             "children": []
           },
           {
             "link_idx": "1.6.7",
-            "link_label": "1.6.7 TESTING OF STAFF FOR THE PSYCHOACTIVE SUBSTANCE USE  ",
+            "link_label": "1.6.7 TESTING OF STAFF FOR THE PSYCHOACTIVE SUBSTANCE USE  ............................................. 116 1.6.8CARRIAGE OF DOCUMENTS ................................................................................................................... 116",
             "start_page": 67,
             "end_page": 67,
-            "end_link_label": "1.6.8 CARRIAGE OF DOCUMENTS ",
+            "end_tag": "1.6.8",
             "children": []
           },
           {
@@ -458,14 +458,14 @@
             "link_label": "1.6.8 CARRIAGE OF DOCUMENTS ",
             "start_page": 67,
             "end_page": 68,
-            "end_link_label": "1.6.9 CONTACT WITH THE AUTHORITY ",
+            "end_tag": "1.6.9",
             "children": [
               {
                 "link_idx": "1.6.8.1",
                 "link_label": "1.6.8.1 Flying Duties ",
                 "start_page": 67,
                 "end_page": 67,
-                "end_link_label": "1.6.8.2 Simulator Duties ",
+                "end_tag": "1.6.8.2",
                 "children": []
               },
               {
@@ -473,25 +473,25 @@
                 "link_label": "1.6.8.2 Simulator Duties ",
                 "start_page": 67,
                 "end_page": 68,
-                "end_link_label": "1.6.9 CONTACT WITH THE AUTHORITY ",
+                "end_tag": "1.6.9",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "1.6.9",
-            "link_label": "1.6.9 CONTACT WITH THE AUTHORITY ",
+            "link_label": "1.6.9 CONTACT WITH THE AUTHORITY ........................................................................................................ 117 1.6.10COMMUNICATION PROTOCOL ............................................................................................................ 117",
             "start_page": 68,
             "end_page": 68,
-            "end_link_label": "1.6.10 COMMUNICATION PROTOCOL ",
+            "end_tag": "1.6.10",
             "children": []
           },
           {
             "link_idx": "1.6.10",
-            "link_label": "1.6.10 COMMUNICATION PROTOCOL ",
+            "link_label": "1.6.10 COMMUNICATION PROTOCOL ............................................................................................................ 117 1.6.11DEPLOYMENT OF TRAINERS WITH A MEDICAL RESTRICTION ................................................. 117",
             "start_page": 68,
             "end_page": 68,
-            "end_link_label": "1.6.11 DEPLOYMENT OF TRAINERS WITH A MEDICAL RESTRICTION ",
+            "end_tag": "1.6.11",
             "children": []
           },
           {
@@ -499,31 +499,31 @@
             "link_label": "1.6.11 DEPLOYMENT OF TRAINERS WITH A MEDICAL RESTRICTION ",
             "start_page": 68,
             "end_page": 68,
-            "end_link_label": "1.6.12 ENGLISH LANGUAGE PROFICIENCY ",
+            "end_tag": "1.6.12",
             "children": []
           },
           {
             "link_idx": "1.6.12",
-            "link_label": "1.6.12 ENGLISH LANGUAGE PROFICIENCY ",
+            "link_label": "1.6.12 ENGLISH LANGUAGE PROFICIENCY .................................................................................................... 117 1.6.13USE OF AUTHORIZED DOCUMENTS ................................................................................................... 118",
             "start_page": 68,
             "end_page": 69,
-            "end_link_label": "1.6.13 USE OF AUTHORIZED DOCUMENTS ",
+            "end_tag": "1.6.13",
             "children": []
           },
           {
             "link_idx": "1.6.13",
-            "link_label": "1.6.13 USE OF AUTHORIZED DOCUMENTS ",
+            "link_label": "1.6.13 USE OF AUTHORIZED DOCUMENTS ................................................................................................... 118 1.6.14DATA PROTECTION AND ROSTER PRIVACY .................................................................................... 118",
             "start_page": 69,
             "end_page": 69,
-            "end_link_label": "1.6.14 DATA PROTECTION AND ROSTER PRIVACY ",
+            "end_tag": "1.6.14",
             "children": []
           },
           {
             "link_idx": "1.6.14",
-            "link_label": "1.6.14 DATA PROTECTION AND ROSTER PRIVACY ",
+            "link_label": "1.6.14 DATA PROTECTION AND ROSTER PRIVACY .................................................................................... 118 7DISTANCE LEARNING PROGRAM ......................................................................................................... 119",
             "start_page": 69,
             "end_page": 70,
-            "end_link_label": "1.7 DISTANCE LEARNING PROGRAM ",
+            "end_tag": "1.7",
             "children": []
           }
         ]
@@ -533,22 +533,22 @@
         "link_label": "1.7 DISTANCE LEARNING PROGRAM ",
         "start_page": 70,
         "end_page": 73,
-        "end_link_label": "1.8 OUTSOURCE TRAINING ",
+        "end_tag": "1.8",
         "children": [
           {
             "link_idx": "1.7.1",
-            "link_label": "1.7.1 MODES OF DISTANCE LEARNING DELIVERY ",
+            "link_label": "1.7.1 MODES OF DISTANCE LEARNING DELIVERY ................................................................................... 119 1.7.2LIMITS ON CREDITABILITY OF DISTANCE LEARNING. ................................................................. 119",
             "start_page": 70,
             "end_page": 70,
-            "end_link_label": "1.7.2 LIMITS ON CREDITABILITY OF DISTANCE LEARNING",
+            "end_tag": "1.7.2",
             "children": []
           },
           {
             "link_idx": "1.7.2",
-            "link_label": "1.7.2 LIMITS ON CREDITABILITY OF DISTANCE LEARNING",
+            "link_label": "1.7.2 LIMITS ON CREDITABILITY OF DISTANCE LEARNING. ................................................................. 119 8OUTSOURCE TRAINING ............................................................................................................................ 122",
             "start_page": 70,
             "end_page": 73,
-            "end_link_label": "1.8 OUTSOURCE TRAINING ",
+            "end_tag": "1.8",
             "children": []
           }
         ]
@@ -558,37 +558,37 @@
         "link_label": "1.8 OUTSOURCE TRAINING ",
         "start_page": 73,
         "end_page": 75,
-        "end_link_label": "1.9 ADVANCED SIMULATION TRAINING PROGRAM ",
+        "end_tag": "1.9",
         "children": []
       },
       {
         "link_idx": "1.9",
-        "link_label": "1.9 ADVANCED SIMULATION TRAINING PROGRAM ",
+        "link_label": "1.9 ADVANCED SIMULATION TRAINING PROGRAM ........................................................................... 124 1.10TRAINING AND CHECKING PERSONNEL ........................................................................................... 125",
         "start_page": 75,
         "end_page": 76,
-        "end_link_label": "1.10 TRAINING AND CHECKING PERSONNEL ",
+        "end_tag": "1.10",
         "children": []
       },
       {
         "link_idx": "1.10",
-        "link_label": "1.10 TRAINING AND CHECKING PERSONNEL ",
+        "link_label": "1.10 TRAINING AND CHECKING PERSONNEL ........................................................................................... 125 1.10.1APPOINTMENT OF CREW AND DISPATCHER TRAINING STAFF .............................................. 125",
         "start_page": 76,
         "end_page": 86,
-        "end_link_label": "1.11 INSTRUCTOR RECENCY ",
+        "end_tag": "1.11",
         "children": [
           {
             "link_idx": "1.10.1",
             "link_label": "1.10.1 APPOINTMENT OF CREW AND DISPATCHER TRAINING STAFF ",
             "start_page": 76,
             "end_page": 77,
-            "end_link_label": "1.10.2 DUTIES AND RESPONSIBILITIES ",
+            "end_tag": "1.10.2",
             "children": [
               {
                 "link_idx": "1.10.1.1",
                 "link_label": "1.10.1.1 General ",
                 "start_page": 76,
                 "end_page": 76,
-                "end_link_label": "1.10.1.2 Use of Outsourced Training Staff  ",
+                "end_tag": "1.10.1.2",
                 "children": []
               },
               {
@@ -596,25 +596,25 @@
                 "link_label": "1.10.1.2 Use of Outsourced Training Staff  ",
                 "start_page": 76,
                 "end_page": 77,
-                "end_link_label": "1.10.1.3 Conduct of ThirdParty Training by Riyadh Air ",
+                "end_tag": "1.10.1.3",
                 "children": []
               },
               {
                 "link_idx": "1.10.1.3",
-                "link_label": "1.10.1.3 Conduct of ThirdParty Training by Riyadh Air ",
+                "link_label": "1.10.1.3 Conduct of ThirdParty Training by Riyadh Air .................................................................... 126 0.2DUTIES AND RESPONSIBILITIES ............................................................................................................ 126",
                 "start_page": 77,
                 "end_page": 77,
-                "end_link_label": "1.10.2 DUTIES AND RESPONSIBILITIES ",
+                "end_tag": "1.10.2",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "1.10.2",
-            "link_label": "1.10.2 DUTIES AND RESPONSIBILITIES ",
+            "link_label": "1.10.2 DUTIES AND RESPONSIBILITIES ............................................................................................................ 126 1.10.3TRAINING PERSONNEL USED BY RIYADH AIR ................................................................................ 127",
             "start_page": 77,
             "end_page": 78,
-            "end_link_label": "1.10.3 TRAINING PERSONNEL USED BY RIYADH AIR ",
+            "end_tag": "1.10.3",
             "children": []
           },
           {
@@ -622,14 +622,14 @@
             "link_label": "1.10.3 TRAINING PERSONNEL USED BY RIYADH AIR ",
             "start_page": 78,
             "end_page": 85,
-            "end_link_label": "1.10.4 AIRCREW DESIGNATED EXAMINERS ADE PROGRAM ",
+            "end_tag": "1.10.4",
             "children": [
               {
                 "link_idx": "1.10.3.1",
                 "link_label": "1.10.3.1 Cabin Crew training and checking personnel ",
                 "start_page": 78,
                 "end_page": 78,
-                "end_link_label": "1.10.3.2 Dispatch Training and Checking Personnel ",
+                "end_tag": "1.10.3.2",
                 "children": []
               },
               {
@@ -637,7 +637,7 @@
                 "link_label": "1.10.3.2 Dispatch Training and Checking Personnel ",
                 "start_page": 78,
                 "end_page": 78,
-                "end_link_label": "1.10.3.3 Flight Crew training and checking personnel ",
+                "end_tag": "1.10.3.3",
                 "children": []
               },
               {
@@ -645,7 +645,7 @@
                 "link_label": "1.10.3.3 Flight Crew training and checking personnel ",
                 "start_page": 78,
                 "end_page": 84,
-                "end_link_label": "1.10.3.4 CRM Trainer CRMT ",
+                "end_tag": "1.10.3.4",
                 "children": []
               },
               {
@@ -653,58 +653,58 @@
                 "link_label": "1.10.3.4 CRM Trainer CRMT ",
                 "start_page": 84,
                 "end_page": 85,
-                "end_link_label": "1.10.4 AIRCREW DESIGNATED EXAMINERS ADE PROGRAM ",
+                "end_tag": "1.10.4",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "1.10.4",
-            "link_label": "1.10.4 AIRCREW DESIGNATED EXAMINERS ADE PROGRAM ",
+            "link_label": "1.10.4 AIRCREW DESIGNATED EXAMINERS ADE PROGRAM .............................................................. 134 11INSTRUCTOR RECENCY ............................................................................................................................ 135",
             "start_page": 85,
             "end_page": 86,
-            "end_link_label": "1.11 INSTRUCTOR RECENCY ",
+            "end_tag": "1.11",
             "children": []
           }
         ]
       },
       {
         "link_idx": "1.11",
-        "link_label": "1.11 INSTRUCTOR RECENCY ",
+        "link_label": "1.11 INSTRUCTOR RECENCY ............................................................................................................................ 135 1.11.1CHECK PILOT AND FLIGHT INSTRUCTOR RECENCY ..................................................................... 135",
         "start_page": 86,
         "end_page": 87,
-        "end_link_label": "1.12 TRAINING FACILITIES ",
+        "end_tag": "1.12",
         "children": [
           {
             "link_idx": "1.11.1",
             "link_label": "1.11.1 CHECK PILOT AND FLIGHT INSTRUCTOR RECENCY ",
             "start_page": 86,
             "end_page": 87,
-            "end_link_label": "1.12 TRAINING FACILITIES ",
+            "end_tag": "1.12",
             "children": []
           }
         ]
       },
       {
         "link_idx": "1.12",
-        "link_label": "1.12 TRAINING FACILITIES ",
+        "link_label": "1.12 TRAINING FACILITIES ................................................................................................................................. 136 1.12.1APPROVAL OF FSTDS  ............................................................................................................................... 136",
         "start_page": 87,
         "end_page": 91,
-        "end_link_label": "2 TRAINING PROGRAM ",
+        "end_tag": "2",
         "children": [
           {
             "link_idx": "1.12.1",
             "link_label": "1.12.1 APPROVAL OF FSTDS  ",
             "start_page": 87,
             "end_page": 89,
-            "end_link_label": "1.12.2 APPROVAL OF TRAINING EQUIPMENT OTHER THAN FSTDS ",
+            "end_tag": "1.12.2",
             "children": [
               {
                 "link_idx": "1.12.1.1",
                 "link_label": "1.12.1.1 FSTD Minimum Serviceability Level ",
                 "start_page": 88,
                 "end_page": 89,
-                "end_link_label": "1.12.2 APPROVAL OF TRAINING EQUIPMENT OTHER THAN FSTDS ",
+                "end_tag": "1.12.2",
                 "children": []
               }
             ]
@@ -714,7 +714,7 @@
             "link_label": "1.12.2 APPROVAL OF TRAINING EQUIPMENT OTHER THAN FSTDS ",
             "start_page": 89,
             "end_page": 91,
-            "end_link_label": "2 TRAINING PROGRAM ",
+            "end_tag": "2",
             "children": []
           }
         ]
@@ -723,31 +723,31 @@
   },
   {
     "link_idx": "2",
-    "link_label": "2 TRAINING PROGRAM ",
+    "link_label": "2 TRAINING PROGRAM ...................................................................................................... 21 2.0GENERAL TRAINING PROGRAM POLICY .............................................................................................. 21",
     "start_page": 91,
     "end_page": 235,
-    "end_link_label": "3 PROCEDURES FOR TRAINING AND CHECKING ",
+    "end_tag": "3",
     "children": [
       {
         "link_idx": "2.0",
-        "link_label": "2.0 GENERAL TRAINING PROGRAM POLICY ",
+        "link_label": "2.0 GENERAL TRAINING PROGRAM POLICY .............................................................................................. 21 2.0.1GENERAL ............................................................................................................................................................ 21",
         "start_page": 91,
         "end_page": 104,
-        "end_link_label": "2.1 FLIGHT CREW TRAINING PROGRAMS ",
+        "end_tag": "2.1",
         "children": [
           {
             "link_idx": "2.0.1",
             "link_label": "2.0.1 GENERAL ",
             "start_page": 91,
             "end_page": 93,
-            "end_link_label": "2.0.2 GENERAL POLICY  FLIGHT CREW TRAINING ",
+            "end_tag": "2.0.2",
             "children": [
               {
                 "link_idx": "2.0.1.1",
                 "link_label": "2.0.1.1 Appointment of Flight Crew Cabin Crew and Dispatcher Training Staff ",
                 "start_page": 91,
                 "end_page": 91,
-                "end_link_label": "2.0.1.2 Selfassessment ",
+                "end_tag": "2.0.1.2",
                 "children": []
               },
               {
@@ -755,7 +755,7 @@
                 "link_label": "2.0.1.2 Selfassessment ",
                 "start_page": 91,
                 "end_page": 91,
-                "end_link_label": "2.0.1.3 Procedure for Training Course Approval and Acceptance ",
+                "end_tag": "2.0.1.3",
                 "children": []
               },
               {
@@ -763,15 +763,15 @@
                 "link_label": "2.0.1.3 Procedure for Training Course Approval and Acceptance ",
                 "start_page": 91,
                 "end_page": 92,
-                "end_link_label": "2.0.1.4 Record Keeping  Check Reports ",
+                "end_tag": "2.0.1.4",
                 "children": []
               },
               {
                 "link_idx": "2.0.1.4",
-                "link_label": "2.0.1.4 Record Keeping  Check Reports ",
+                "link_label": "2.0.1.4 Record Keeping  Check Reports .......................................................................................... 22 2GENERAL POLICY  FLIGHT CREW TRAINING .................................................................................... 23",
                 "start_page": 92,
                 "end_page": 93,
-                "end_link_label": "2.0.2 GENERAL POLICY  FLIGHT CREW TRAINING ",
+                "end_tag": "2.0.2",
                 "children": []
               }
             ]
@@ -781,14 +781,14 @@
             "link_label": "2.0.2 GENERAL POLICY  FLIGHT CREW TRAINING ",
             "start_page": 93,
             "end_page": 101,
-            "end_link_label": "2.0.3 GENERAL POLICY  CABIN CREW TRAINING ",
+            "end_tag": "2.0.3",
             "children": [
               {
                 "link_idx": "2.0.2.1",
                 "link_label": "2.0.2.1 Mandatory Requirements ",
                 "start_page": 93,
                 "end_page": 97,
-                "end_link_label": "2.0.2.2 Records ",
+                "end_tag": "2.0.2.2",
                 "children": []
               },
               {
@@ -796,7 +796,7 @@
                 "link_label": "2.0.2.2 Records ",
                 "start_page": 97,
                 "end_page": 98,
-                "end_link_label": "2.0.2.3 Period of Validity ",
+                "end_tag": "2.0.2.3",
                 "children": []
               },
               {
@@ -804,7 +804,7 @@
                 "link_label": "2.0.2.3 Period of Validity ",
                 "start_page": 98,
                 "end_page": 101,
-                "end_link_label": "2.0.3 GENERAL POLICY  CABIN CREW TRAINING ",
+                "end_tag": "2.0.3",
                 "children": []
               }
             ]
@@ -814,22 +814,22 @@
             "link_label": "2.0.3 GENERAL POLICY  CABIN CREW TRAINING ",
             "start_page": 101,
             "end_page": 103,
-            "end_link_label": "2.0.4 GENERAL POLICY  DISPATCHER TRAINING ",
+            "end_tag": "2.0.4",
             "children": [
               {
                 "link_idx": "2.0.3.1",
                 "link_label": "2.0.3.1 Period of Validity ",
                 "start_page": 102,
                 "end_page": 102,
-                "end_link_label": "2.0.3.2 Missed Training ",
+                "end_tag": "2.0.3.2",
                 "children": []
               },
               {
                 "link_idx": "2.0.3.2",
-                "link_label": "2.0.3.2 Missed Training ",
+                "link_label": "2.0.3.2 Missed Training ................................................................................................................... 212 4GENERAL POLICY  DISPATCHER TRAINING ................................................................................... 213",
                 "start_page": 102,
                 "end_page": 103,
-                "end_link_label": "2.0.4 GENERAL POLICY  DISPATCHER TRAINING ",
+                "end_tag": "2.0.4",
                 "children": []
               }
             ]
@@ -839,14 +839,14 @@
             "link_label": "2.0.4 GENERAL POLICY  DISPATCHER TRAINING ",
             "start_page": 103,
             "end_page": 104,
-            "end_link_label": "2.1 FLIGHT CREW TRAINING PROGRAMS ",
+            "end_tag": "2.1",
             "children": [
               {
                 "link_idx": "2.0.4.1",
                 "link_label": "2.0.4.1 Period of Validity ",
                 "start_page": 103,
                 "end_page": 104,
-                "end_link_label": "2.1 FLIGHT CREW TRAINING PROGRAMS ",
+                "end_tag": "2.1",
                 "children": []
               }
             ]
@@ -855,24 +855,24 @@
       },
       {
         "link_idx": "2.1",
-        "link_label": "2.1 FLIGHT CREW TRAINING PROGRAMS ",
+        "link_label": "2.1 FLIGHT CREW TRAINING PROGRAMS ................................................................................................ 214 2.1.1INITIAL FLIGHT CREW TRAINING .......................................................................................................... 214",
         "start_page": 104,
         "end_page": 202,
-        "end_link_label": "2.2 CABIN CREW TRAINING PROGRAM ",
+        "end_tag": "2.2",
         "children": [
           {
             "link_idx": "2.1.1",
             "link_label": "2.1.1 INITIAL FLIGHT CREW TRAINING ",
             "start_page": 104,
             "end_page": 153,
-            "end_link_label": "2.1.2 DIFFERENCES TRAINING ",
+            "end_tag": "2.1.2",
             "children": [
               {
                 "link_idx": "2.1.1.1",
                 "link_label": "2.1.1.1 Initial Ground Training Modules ",
                 "start_page": 107,
                 "end_page": 128,
-                "end_link_label": "2.1.1.2 Initial Flight Training Modules ",
+                "end_tag": "2.1.1.2",
                 "children": []
               },
               {
@@ -880,7 +880,7 @@
                 "link_label": "2.1.1.2 Initial Flight Training Modules ",
                 "start_page": 128,
                 "end_page": 136,
-                "end_link_label": "2.1.1.3 Operating ExperienceLine Training OE ",
+                "end_tag": "2.1.1.3",
                 "children": []
               },
               {
@@ -888,7 +888,7 @@
                 "link_label": "2.1.1.3 Operating ExperienceLine Training OE ",
                 "start_page": 136,
                 "end_page": 139,
-                "end_link_label": "2.1.1.4 Special Operations Training ",
+                "end_tag": "2.1.1.4",
                 "children": []
               },
               {
@@ -896,25 +896,25 @@
                 "link_label": "2.1.1.4 Special Operations Training ",
                 "start_page": 139,
                 "end_page": 153,
-                "end_link_label": "2.1.2 DIFFERENCES TRAINING ",
+                "end_tag": "2.1.2",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "2.1.2",
-            "link_label": "2.1.2 DIFFERENCES TRAINING ",
+            "link_label": "2.1.2 DIFFERENCES TRAINING .......................................................................................................................... 263 2.1.3TRANSITION TRAINING ............................................................................................................................ 263",
             "start_page": 153,
             "end_page": 153,
-            "end_link_label": "2.1.3 TRANSITION TRAINING ",
+            "end_tag": "2.1.3",
             "children": []
           },
           {
             "link_idx": "2.1.3",
-            "link_label": "2.1.3 TRANSITION TRAINING ",
+            "link_label": "2.1.3 TRANSITION TRAINING ............................................................................................................................ 263 2.1.4RECURRENT TRAINING ............................................................................................................................. 263",
             "start_page": 153,
             "end_page": 153,
-            "end_link_label": "2.1.4 RECURRENT TRAINING ",
+            "end_tag": "2.1.4",
             "children": []
           },
           {
@@ -922,14 +922,14 @@
             "link_label": "2.1.4 RECURRENT TRAINING ",
             "start_page": 153,
             "end_page": 175,
-            "end_link_label": "2.1.5 COMMAND UPGRADE TRAINING ",
+            "end_tag": "2.1.5",
             "children": [
               {
                 "link_idx": "2.1.4.1",
                 "link_label": "2.1.4.1 Recurrent Training Objectives ",
                 "start_page": 154,
                 "end_page": 154,
-                "end_link_label": "2.1.4.2 Recurrent Ground Training Modules ",
+                "end_tag": "2.1.4.2",
                 "children": []
               },
               {
@@ -937,25 +937,25 @@
                 "link_label": "2.1.4.2 Recurrent Ground Training Modules ",
                 "start_page": 154,
                 "end_page": 160,
-                "end_link_label": "2.1.4.3 Recurrent Flight Training Modules ",
+                "end_tag": "2.1.4.3",
                 "children": []
               },
               {
                 "link_idx": "2.1.4.3",
-                "link_label": "2.1.4.3 Recurrent Flight Training Modules ",
+                "link_label": "2.1.4.3 Recurrent Flight Training Modules ...................................................................................... 270 5COMMAND UPGRADE TRAINING ........................................................................................................ 285",
                 "start_page": 160,
                 "end_page": 175,
-                "end_link_label": "2.1.5 COMMAND UPGRADE TRAINING ",
+                "end_tag": "2.1.5",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "2.1.5",
-            "link_label": "2.1.5 COMMAND UPGRADE TRAINING ",
+            "link_label": "2.1.5 COMMAND UPGRADE TRAINING ........................................................................................................ 285 2.1.6RIGHT HAND SEAT TRAINING ............................................................................................................... 285",
             "start_page": 175,
             "end_page": 175,
-            "end_link_label": "2.1.6 RIGHT HAND SEAT TRAINING ",
+            "end_tag": "2.1.6",
             "children": []
           },
           {
@@ -963,14 +963,14 @@
             "link_label": "2.1.6 RIGHT HAND SEAT TRAINING ",
             "start_page": 175,
             "end_page": 176,
-            "end_link_label": "2.1.7 FLIGHT INSTRUCTOR AND CHECK PILOT TRAINING ",
+            "end_tag": "2.1.7",
             "children": [
               {
                 "link_idx": "2.1.6.1",
-                "link_label": "2.1.6.1 Recurrent Right Hand Seat Training ",
+                "link_label": "2.1.6.1 Recurrent Right Hand Seat Training .................................................................................... 285 7FLIGHT INSTRUCTOR AND CHECK PILOT TRAINING .................................................................... 286",
                 "start_page": 175,
                 "end_page": 176,
-                "end_link_label": "2.1.7 FLIGHT INSTRUCTOR AND CHECK PILOT TRAINING ",
+                "end_tag": "2.1.7",
                 "children": []
               }
             ]
@@ -980,14 +980,14 @@
             "link_label": "2.1.7 FLIGHT INSTRUCTOR AND CHECK PILOT TRAINING ",
             "start_page": 176,
             "end_page": 192,
-            "end_link_label": "2.1.8 UPSET PREVENTION AND RECOVERY TRAINING UPRT  EXTENDED ENVELOPE TRAINING",
+            "end_tag": "2.1.8",
             "children": [
               {
                 "link_idx": "2.1.7.1",
                 "link_label": "2.1.7.1 Initial Training and Checking ",
                 "start_page": 176,
                 "end_page": 177,
-                "end_link_label": "2.1.7.2 EET and UPRT Instructor Training ",
+                "end_tag": "2.1.7.2",
                 "children": []
               },
               {
@@ -995,7 +995,7 @@
                 "link_label": "2.1.7.2 EET and UPRT Instructor Training ",
                 "start_page": 177,
                 "end_page": 177,
-                "end_link_label": "2.1.7.3 Flight Instructor  Simulator FIS ",
+                "end_tag": "2.1.7.3",
                 "children": []
               },
               {
@@ -1003,7 +1003,7 @@
                 "link_label": "2.1.7.3 Flight Instructor  Simulator FIS ",
                 "start_page": 177,
                 "end_page": 180,
-                "end_link_label": "2.1.7.4 Check Pilot  Simulator CPS ",
+                "end_tag": "2.1.7.4",
                 "children": []
               },
               {
@@ -1011,7 +1011,7 @@
                 "link_label": "2.1.7.4 Check Pilot  Simulator CPS ",
                 "start_page": 180,
                 "end_page": 183,
-                "end_link_label": "2.1.7.5 Check Pilot  Aircraft CPA ",
+                "end_tag": "2.1.7.5",
                 "children": []
               },
               {
@@ -1019,7 +1019,7 @@
                 "link_label": "2.1.7.5 Check Pilot  Aircraft CPA ",
                 "start_page": 183,
                 "end_page": 186,
-                "end_link_label": "2.1.7.6 Standards Training Captain STC ",
+                "end_tag": "2.1.7.6",
                 "children": []
               },
               {
@@ -1027,7 +1027,7 @@
                 "link_label": "2.1.7.6 Standards Training Captain STC ",
                 "start_page": 186,
                 "end_page": 187,
-                "end_link_label": "2.1.7.7 Crew Resource Management Trainer  CRMT ",
+                "end_tag": "2.1.7.7",
                 "children": []
               },
               {
@@ -1035,7 +1035,7 @@
                 "link_label": "2.1.7.7 Crew Resource Management Trainer  CRMT ",
                 "start_page": 187,
                 "end_page": 189,
-                "end_link_label": "2.1.7.8 Instructor  Check pilot Recurrent Training and Checking ",
+                "end_tag": "2.1.7.8",
                 "children": []
               },
               {
@@ -1043,7 +1043,7 @@
                 "link_label": "2.1.7.8 Instructor  Check pilot Recurrent Training and Checking ",
                 "start_page": 189,
                 "end_page": 190,
-                "end_link_label": "2.1.7.9 InstructorCheck Pilot Requalification Training and Checking ",
+                "end_tag": "2.1.7.9",
                 "children": []
               },
               {
@@ -1051,7 +1051,7 @@
                 "link_label": "2.1.7.9 InstructorCheck Pilot Requalification Training and Checking ",
                 "start_page": 190,
                 "end_page": 192,
-                "end_link_label": "2.1.7.10 Flight Crew Ground Instructor ",
+                "end_tag": "2.1.7.10",
                 "children": []
               },
               {
@@ -1059,7 +1059,7 @@
                 "link_label": "2.1.7.10 Flight Crew Ground Instructor ",
                 "start_page": 192,
                 "end_page": 192,
-                "end_link_label": "2.1.8 UPSET PREVENTION AND RECOVERY TRAINING UPRT  EXTENDED ENVELOPE TRAINING",
+                "end_tag": "2.1.8",
                 "children": []
               }
             ]
@@ -1069,14 +1069,14 @@
             "link_label": "2.1.8 UPSET PREVENTION AND RECOVERY TRAINING UPRT  EXTENDED ENVELOPE TRAINING",
             "start_page": 192,
             "end_page": 199,
-            "end_link_label": "2.1.9 REQUALIFICATION ",
+            "end_tag": "2.1.9",
             "children": [
               {
                 "link_idx": "2.1.8.1",
                 "link_label": "2.1.8.1 Upset Prevention Training ",
                 "start_page": 193,
                 "end_page": 193,
-                "end_link_label": "2.1.8.2 Upset Recovery Training ",
+                "end_tag": "2.1.8.2",
                 "children": []
               },
               {
@@ -1084,7 +1084,7 @@
                 "link_label": "2.1.8.2 Upset Recovery Training ",
                 "start_page": 193,
                 "end_page": 193,
-                "end_link_label": "2.1.8.3 Use of FSTD for UPRT ",
+                "end_tag": "2.1.8.3",
                 "children": []
               },
               {
@@ -1092,7 +1092,7 @@
                 "link_label": "2.1.8.3 Use of FSTD for UPRT ",
                 "start_page": 193,
                 "end_page": 193,
-                "end_link_label": "2.1.8.4 Upset Prevention and Recovery Training UPRT  Training Envelope ",
+                "end_tag": "2.1.8.4",
                 "children": []
               },
               {
@@ -1100,7 +1100,7 @@
                 "link_label": "2.1.8.4 Upset Prevention and Recovery Training UPRT  Training Envelope ",
                 "start_page": 193,
                 "end_page": 194,
-                "end_link_label": "2.1.8.5 Personnel providing UPRT and EET Training ",
+                "end_tag": "2.1.8.5",
                 "children": []
               },
               {
@@ -1108,7 +1108,7 @@
                 "link_label": "2.1.8.5 Personnel providing UPRT and EET Training ",
                 "start_page": 194,
                 "end_page": 199,
-                "end_link_label": "2.1.9 REQUALIFICATION ",
+                "end_tag": "2.1.9",
                 "children": []
               }
             ]
@@ -1118,14 +1118,14 @@
             "link_label": "2.1.9 REQUALIFICATION ",
             "start_page": 199,
             "end_page": 202,
-            "end_link_label": "2.1.10 ROUTEAREA AND AERODROME COMPETENCE ",
+            "end_tag": "2.1.10",
             "children": [
               {
                 "link_idx": "2.1.9.1",
                 "link_label": "2.1.9.1 Recent Experience ",
                 "start_page": 200,
                 "end_page": 200,
-                "end_link_label": "2.1.9.2 Route And Aerodrome Competence ",
+                "end_tag": "2.1.9.2",
                 "children": []
               },
               {
@@ -1133,7 +1133,7 @@
                 "link_label": "2.1.9.2 Route And Aerodrome Competence ",
                 "start_page": 200,
                 "end_page": 200,
-                "end_link_label": "2.1.9.3 Failure To Complete Recurrent Training During the Eligibility Period ",
+                "end_tag": "2.1.9.3",
                 "children": []
               },
               {
@@ -1141,15 +1141,15 @@
                 "link_label": "2.1.9.3 Failure To Complete Recurrent Training During the Eligibility Period ",
                 "start_page": 200,
                 "end_page": 201,
-                "end_link_label": "2.1.9.4 Requalification Following Failure of a Check or Objectives not achieved during training",
+                "end_tag": "2.1.9.4",
                 "children": []
               },
               {
                 "link_idx": "2.1.9.4",
-                "link_label": "2.1.9.4 Requalification Following Failure of a Check or Objectives not achieved during training",
+                "link_label": "2.1.9.4 Requalification Following Failure of a Check or Objectives not achieved during training 2111 10ROUTEAREA AND AERODROME COMPETENCE ......................................................................... 2112",
                 "start_page": 201,
                 "end_page": 202,
-                "end_link_label": "2.1.10 ROUTEAREA AND AERODROME COMPETENCE ",
+                "end_tag": "2.1.10",
                 "children": []
               }
             ]
@@ -1159,14 +1159,14 @@
             "link_label": "2.1.10 ROUTEAREA AND AERODROME COMPETENCE ",
             "start_page": 202,
             "end_page": 202,
-            "end_link_label": "2.2 CABIN CREW TRAINING PROGRAM ",
+            "end_tag": "2.2",
             "children": [
               {
                 "link_idx": "2.1.10.1",
                 "link_label": "2.1.10.1 Special Areas and Aerodromes ",
                 "start_page": 202,
                 "end_page": 202,
-                "end_link_label": "2.2 CABIN CREW TRAINING PROGRAM ",
+                "end_tag": "2.2",
                 "children": []
               }
             ]
@@ -1175,24 +1175,24 @@
       },
       {
         "link_idx": "2.2",
-        "link_label": "2.2 CABIN CREW TRAINING PROGRAM ",
+        "link_label": "2.2 CABIN CREW TRAINING PROGRAM .................................................................................................. 2113 2.2.1GENERAL POLICY CABIN CREW TRAINING .................................................................................... 2113",
         "start_page": 202,
         "end_page": 227,
-        "end_link_label": "2.3 AIRCRAFT DISPATCHER TRAINING PROGRAM ",
+        "end_tag": "2.3",
         "children": [
           {
             "link_idx": "2.2.1",
             "link_label": "2.2.1 GENERAL POLICY CABIN CREW TRAINING ",
             "start_page": 203,
             "end_page": 203,
-            "end_link_label": "2.2.2 INITIAL TRAINING ",
+            "end_tag": "2.2.2",
             "children": [
               {
                 "link_idx": "2.2.1.1",
                 "link_label": "2.2.1.1 Prerequisite  Cabin Crew ",
                 "start_page": 203,
                 "end_page": 203,
-                "end_link_label": "2.2.1.2 Types of Training ",
+                "end_tag": "2.2.1.2",
                 "children": []
               },
               {
@@ -1200,7 +1200,7 @@
                 "link_label": "2.2.1.2 Types of Training ",
                 "start_page": 203,
                 "end_page": 203,
-                "end_link_label": "2.2.2 INITIAL TRAINING ",
+                "end_tag": "2.2.2",
                 "children": []
               }
             ]
@@ -1210,14 +1210,14 @@
             "link_label": "2.2.2 INITIAL TRAINING ",
             "start_page": 203,
             "end_page": 215,
-            "end_link_label": "2.2.3 COMPETENCE CHECKS ",
+            "end_tag": "2.2.3",
             "children": [
               {
                 "link_idx": "2.2.2.1",
                 "link_label": "2.2.2.1 Initial Ground Training ",
                 "start_page": 204,
                 "end_page": 205,
-                "end_link_label": "2.2.2.2 Basic Indoctrination ",
+                "end_tag": "2.2.2.2",
                 "children": []
               },
               {
@@ -1225,7 +1225,7 @@
                 "link_label": "2.2.2.2 Basic Indoctrination ",
                 "start_page": 205,
                 "end_page": 207,
-                "end_link_label": "2.2.2.3 Emergency Training ",
+                "end_tag": "2.2.2.3",
                 "children": []
               },
               {
@@ -1233,7 +1233,7 @@
                 "link_label": "2.2.2.3 Emergency Training ",
                 "start_page": 207,
                 "end_page": 210,
-                "end_link_label": "2.2.2.4 First Aid ",
+                "end_tag": "2.2.2.4",
                 "children": []
               },
               {
@@ -1241,7 +1241,7 @@
                 "link_label": "2.2.2.4 First Aid ",
                 "start_page": 210,
                 "end_page": 211,
-                "end_link_label": "2.2.2.5 Aviation Security Training ",
+                "end_tag": "2.2.2.5",
                 "children": []
               },
               {
@@ -1249,7 +1249,7 @@
                 "link_label": "2.2.2.5 Aviation Security Training ",
                 "start_page": 211,
                 "end_page": 212,
-                "end_link_label": "2.2.2.6 Operations And Type Specific ",
+                "end_tag": "2.2.2.6",
                 "children": []
               },
               {
@@ -1257,25 +1257,25 @@
                 "link_label": "2.2.2.6 Operations And Type Specific ",
                 "start_page": 212,
                 "end_page": 214,
-                "end_link_label": "2.2.2.7 Initial Operating Experience ",
+                "end_tag": "2.2.2.7",
                 "children": []
               },
               {
                 "link_idx": "2.2.2.7",
-                "link_label": "2.2.2.7 Initial Operating Experience ",
+                "link_label": "2.2.2.7 Initial Operating Experience .............................................................................................. 2124 3COMPETENCE CHECKS ........................................................................................................................... 2125",
                 "start_page": 214,
                 "end_page": 215,
-                "end_link_label": "2.2.3 COMPETENCE CHECKS ",
+                "end_tag": "2.2.3",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "2.2.3",
-            "link_label": "2.2.3 COMPETENCE CHECKS ",
+            "link_label": "2.2.3 COMPETENCE CHECKS ........................................................................................................................... 2125 2.2.4RECURRENT TRAINING AND CHECKING ......................................................................................... 2126",
             "start_page": 215,
             "end_page": 216,
-            "end_link_label": "2.2.4 RECURRENT TRAINING AND CHECKING ",
+            "end_tag": "2.2.4",
             "children": []
           },
           {
@@ -1283,24 +1283,24 @@
             "link_label": "2.2.4 RECURRENT TRAINING AND CHECKING ",
             "start_page": 216,
             "end_page": 221,
-            "end_link_label": "2.2.5 DIFFERENCES TRAINING ",
+            "end_tag": "2.2.5",
             "children": [
               {
                 "link_idx": "2.2.4.1",
-                "link_label": "2.2.4.1 Recurrent Ground Training ",
+                "link_label": "2.2.4.1 Recurrent Ground Training ............................................................................................... 2126 5DIFFERENCES TRAINING ........................................................................................................................ 2131",
                 "start_page": 216,
                 "end_page": 221,
-                "end_link_label": "2.2.5 DIFFERENCES TRAINING ",
+                "end_tag": "2.2.5",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "2.2.5",
-            "link_label": "2.2.5 DIFFERENCES TRAINING ",
+            "link_label": "2.2.5 DIFFERENCES TRAINING ........................................................................................................................ 2131 2.2.6TRANSITION TRAINING .......................................................................................................................... 2132",
             "start_page": 221,
             "end_page": 221,
-            "end_link_label": "2.2.6 TRANSITION TRAINING ",
+            "end_tag": "2.2.6",
             "children": []
           },
           {
@@ -1308,22 +1308,22 @@
             "link_label": "2.2.6 TRANSITION TRAINING ",
             "start_page": 221,
             "end_page": 223,
-            "end_link_label": "2.2.7 SENIOR CABIN CREW MEMBER UPGRADE TRAINING ",
+            "end_tag": "2.2.7",
             "children": [
               {
                 "link_idx": "2.2.6.1",
                 "link_label": "2.2.6.1 Crew Resource Management CRM ",
                 "start_page": 222,
                 "end_page": 223,
-                "end_link_label": "2.2.6.2 Operating Experience ",
+                "end_tag": "2.2.6.2",
                 "children": []
               },
               {
                 "link_idx": "2.2.6.2",
-                "link_label": "2.2.6.2 Operating Experience ",
+                "link_label": "2.2.6.2 Operating Experience ........................................................................................................ 2133 7SENIOR CABIN CREW MEMBER UPGRADE TRAINING ............................................................... 2133",
                 "start_page": 223,
                 "end_page": 223,
-                "end_link_label": "2.2.7 SENIOR CABIN CREW MEMBER UPGRADE TRAINING ",
+                "end_tag": "2.2.7",
                 "children": []
               }
             ]
@@ -1333,14 +1333,14 @@
             "link_label": "2.2.7 SENIOR CABIN CREW MEMBER UPGRADE TRAINING ",
             "start_page": 223,
             "end_page": 224,
-            "end_link_label": "2.2.8 REQUALIFICATION ",
+            "end_tag": "2.2.8",
             "children": [
               {
                 "link_idx": "2.2.7.1",
-                "link_label": "2.2.7.1 Curriculum ",
+                "link_label": "2.2.7.1 Curriculum ......................................................................................................................... 2133 8REQUALIFICATION .................................................................................................................................... 2134",
                 "start_page": 223,
                 "end_page": 224,
-                "end_link_label": "2.2.8 REQUALIFICATION ",
+                "end_tag": "2.2.8",
                 "children": []
               }
             ]
@@ -1350,22 +1350,22 @@
             "link_label": "2.2.8 REQUALIFICATION ",
             "start_page": 224,
             "end_page": 225,
-            "end_link_label": "2.2.9 CABIN CREW INSTRUCTOR AND EXAMINER TRAINING ",
+            "end_tag": "2.2.9",
             "children": [
               {
                 "link_idx": "2.2.8.1",
-                "link_label": "2.2.8.1 Absent from Active Flying",
+                "link_label": "2.2.8.1 Absent from Active Flying ",
                 "start_page": 225,
                 "end_page": 225,
-                "end_link_label": "2.2.8.2 Absent from Active Flying more than",
+                "end_tag": "2.2.8.2",
                 "children": []
               },
               {
                 "link_idx": "2.2.8.2",
-                "link_label": "2.2.8.2 Absent from Active Flying more than",
+                "link_label": "2.2.8.2 Absent from Active Flying more than 12 Months ........................................................... 2135 9CABIN CREW INSTRUCTOR AND EXAMINER TRAINING ........................................................... 2135",
                 "start_page": 225,
                 "end_page": 225,
-                "end_link_label": "2.2.9 CABIN CREW INSTRUCTOR AND EXAMINER TRAINING ",
+                "end_tag": "2.2.9",
                 "children": []
               }
             ]
@@ -1375,14 +1375,14 @@
             "link_label": "2.2.9 CABIN CREW INSTRUCTOR AND EXAMINER TRAINING ",
             "start_page": 225,
             "end_page": 227,
-            "end_link_label": "2.3 AIRCRAFT DISPATCHER TRAINING PROGRAM ",
+            "end_tag": "2.3",
             "children": [
               {
                 "link_idx": "2.2.9.1",
                 "link_label": "2.2.9.1 SEP Instructor ",
                 "start_page": 225,
                 "end_page": 226,
-                "end_link_label": "2.2.9.2 CRM Instructor ",
+                "end_tag": "2.2.9.2",
                 "children": []
               },
               {
@@ -1390,7 +1390,7 @@
                 "link_label": "2.2.9.2 CRM Instructor ",
                 "start_page": 226,
                 "end_page": 227,
-                "end_link_label": "2.3 AIRCRAFT DISPATCHER TRAINING PROGRAM ",
+                "end_tag": "2.3",
                 "children": []
               }
             ]
@@ -1399,24 +1399,24 @@
       },
       {
         "link_idx": "2.3",
-        "link_label": "2.3 AIRCRAFT DISPATCHER TRAINING PROGRAM ",
+        "link_label": "2.3 AIRCRAFT DISPATCHER TRAINING PROGRAM ............................................................................. 2137 2.3.1GENERAL POLICY DISPATCH TRAINING .......................................................................................... 2137",
         "start_page": 227,
         "end_page": 235,
-        "end_link_label": "3 PROCEDURES FOR TRAINING AND CHECKING ",
+        "end_tag": "3",
         "children": [
           {
             "link_idx": "2.3.1",
             "link_label": "2.3.1 GENERAL POLICY DISPATCH TRAINING ",
             "start_page": 227,
             "end_page": 229,
-            "end_link_label": "2.3.2 INITIAL TRAINING ",
+            "end_tag": "2.3.2",
             "children": [
               {
                 "link_idx": "2.3.1.1",
                 "link_label": "2.3.1.1 Trainee Evaluation Criteria ",
                 "start_page": 227,
                 "end_page": 228,
-                "end_link_label": "2.3.1.2 Failure Policy ",
+                "end_tag": "2.3.1.2",
                 "children": []
               },
               {
@@ -1424,7 +1424,7 @@
                 "link_label": "2.3.1.2 Failure Policy ",
                 "start_page": 228,
                 "end_page": 228,
-                "end_link_label": "2.3.1.3 Examination Procedures ",
+                "end_tag": "2.3.1.3",
                 "children": []
               },
               {
@@ -1432,7 +1432,7 @@
                 "link_label": "2.3.1.3 Examination Procedures ",
                 "start_page": 228,
                 "end_page": 228,
-                "end_link_label": "2.3.1.4 Subsequent Courses ",
+                "end_tag": "2.3.1.4",
                 "children": []
               },
               {
@@ -1440,7 +1440,7 @@
                 "link_label": "2.3.1.4 Subsequent Courses ",
                 "start_page": 228,
                 "end_page": 228,
-                "end_link_label": "2.3.1.5 CRMDRM Training ",
+                "end_tag": "2.3.1.5",
                 "children": []
               },
               {
@@ -1448,25 +1448,25 @@
                 "link_label": "2.3.1.5 CRMDRM Training ",
                 "start_page": 228,
                 "end_page": 229,
-                "end_link_label": "2.3.1.6 Training Facilities",
+                "end_tag": "2.3.1.6",
                 "children": []
               },
               {
                 "link_idx": "2.3.1.6",
-                "link_label": "2.3.1.6 Training Facilities",
+                "link_label": "2.3.1.6 Training Facilities............................................................................................................... 2139 2INITIAL TRAINING ..................................................................................................................................... 2139",
                 "start_page": 229,
                 "end_page": 229,
-                "end_link_label": "2.3.2 INITIAL TRAINING ",
+                "end_tag": "2.3.2",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "2.3.2",
-            "link_label": "2.3.2 INITIAL TRAINING ",
+            "link_label": "2.3.2 INITIAL TRAINING ..................................................................................................................................... 2139 2.3.3ONTHEJOB TRAINING OJT .............................................................................................................. 2139",
             "start_page": 229,
             "end_page": 229,
-            "end_link_label": "2.3.3 ONTHEJOB TRAINING OJT ",
+            "end_tag": "2.3.3",
             "children": []
           },
           {
@@ -1474,23 +1474,23 @@
             "link_label": "2.3.3 ONTHEJOB TRAINING OJT ",
             "start_page": 229,
             "end_page": 230,
-            "end_link_label": "2.3.4 ROUTE FAMILIARIZATION FLIGHTS ",
+            "end_tag": "2.3.4",
             "children": []
           },
           {
             "link_idx": "2.3.4",
-            "link_label": "2.3.4 ROUTE FAMILIARIZATION FLIGHTS ",
+            "link_label": "2.3.4 ROUTE FAMILIARIZATION FLIGHTS ................................................................................................... 2140 2.3.5COMPETENCE CHECKS ........................................................................................................................... 2140",
             "start_page": 230,
             "end_page": 230,
-            "end_link_label": "2.3.5 COMPETENCE CHECKS ",
+            "end_tag": "2.3.5",
             "children": []
           },
           {
             "link_idx": "2.3.5",
-            "link_label": "2.3.5 COMPETENCE CHECKS ",
+            "link_label": "2.3.5 COMPETENCE CHECKS ........................................................................................................................... 2140 2.3.6RECURRENT TRAINING ........................................................................................................................... 2141",
             "start_page": 230,
             "end_page": 231,
-            "end_link_label": "2.3.6 RECURRENT TRAINING ",
+            "end_tag": "2.3.6",
             "children": []
           },
           {
@@ -1498,14 +1498,14 @@
             "link_label": "2.3.6 RECURRENT TRAINING ",
             "start_page": 231,
             "end_page": 232,
-            "end_link_label": "2.3.7 RECURRENT ROUTE FAMILIARIZATION ",
+            "end_tag": "2.3.7",
             "children": [
               {
                 "link_idx": "2.3.6.1",
                 "link_label": "2.3.6.1 Mandatory Cyclical Topics ",
                 "start_page": 231,
                 "end_page": 232,
-                "end_link_label": "2.3.6.2 Recurrent Examination ",
+                "end_tag": "2.3.6.2",
                 "children": []
               },
               {
@@ -1513,7 +1513,7 @@
                 "link_label": "2.3.6.2 Recurrent Examination ",
                 "start_page": 232,
                 "end_page": 232,
-                "end_link_label": "2.3.7 RECURRENT ROUTE FAMILIARIZATION ",
+                "end_tag": "2.3.7",
                 "children": []
               }
             ]
@@ -1523,7 +1523,7 @@
             "link_label": "2.3.7 RECURRENT ROUTE FAMILIARIZATION ",
             "start_page": 232,
             "end_page": 232,
-            "end_link_label": "2.3.8 OTHER TRAINING ",
+            "end_tag": "2.3.8",
             "children": []
           },
           {
@@ -1531,14 +1531,14 @@
             "link_label": "2.3.8 OTHER TRAINING ",
             "start_page": 232,
             "end_page": 233,
-            "end_link_label": "2.3.9 REQUALIFICATION ",
+            "end_tag": "2.3.9",
             "children": [
               {
                 "link_idx": "2.3.8.1",
                 "link_label": "2.3.8.1 Training Review Meeting ",
                 "start_page": 232,
                 "end_page": 233,
-                "end_link_label": "2.3.9 REQUALIFICATION ",
+                "end_tag": "2.3.9",
                 "children": []
               }
             ]
@@ -1548,14 +1548,14 @@
             "link_label": "2.3.9 REQUALIFICATION ",
             "start_page": 233,
             "end_page": 234,
-            "end_link_label": "2.3.10 DISPATCH TRAINER AND EXAMINER ",
+            "end_tag": "2.3.10",
             "children": [
               {
                 "link_idx": "2.3.9.1",
-                "link_label": "2.3.9.1 Remedial Curriculum ",
+                "link_label": "2.3.9.1 Remedial Curriculum ......................................................................................................... 2143 10DISPATCH TRAINER AND EXAMINER ............................................................................................... 2144",
                 "start_page": 233,
                 "end_page": 234,
-                "end_link_label": "2.3.10 DISPATCH TRAINER AND EXAMINER ",
+                "end_tag": "2.3.10",
                 "children": []
               }
             ]
@@ -1565,14 +1565,14 @@
             "link_label": "2.3.10 DISPATCH TRAINER AND EXAMINER ",
             "start_page": 234,
             "end_page": 235,
-            "end_link_label": "3 PROCEDURES FOR TRAINING AND CHECKING ",
+            "end_tag": "3",
             "children": [
               {
                 "link_idx": "2.3.10.1",
                 "link_label": "2.3.10.1 Requirements for Dispatch Trainer  Examiner ",
                 "start_page": 234,
                 "end_page": 235,
-                "end_link_label": "3 PROCEDURES FOR TRAINING AND CHECKING ",
+                "end_tag": "3",
                 "children": []
               }
             ]
@@ -1586,21 +1586,21 @@
     "link_label": "3 PROCEDURES FOR TRAINING AND CHECKING ",
     "start_page": 235,
     "end_page": 277,
-    "end_link_label": "4 RECORD KEEPING ",
+    "end_tag": "4",
     "children": [
       {
         "link_idx": "3.0",
-        "link_label": "3.0 THE CREW PERFORMANCE ASSESSMENT SCHEME ",
+        "link_label": "3.0 THE CREW PERFORMANCE ASSESSMENT SCHEME ........................................................................ 31 3.0.1OBJECTIVE ......................................................................................................................................................... 31",
         "start_page": 235,
         "end_page": 239,
-        "end_link_label": "3.1 COMPETENCY BASED TRAINING AND ASSESSMENT CBTA ",
+        "end_tag": "3.1",
         "children": [
           {
             "link_idx": "3.0.1",
-            "link_label": "3.0.1 OBJECTIVE ",
+            "link_label": "3.0.1 OBJECTIVE ......................................................................................................................................................... 31 3.0.2GENERAL PRINCIPLES ................................................................................................................................... 32",
             "start_page": 235,
             "end_page": 236,
-            "end_link_label": "3.0.2 GENERAL PRINCIPLES ",
+            "end_tag": "3.0.2",
             "children": []
           },
           {
@@ -1608,31 +1608,31 @@
             "link_label": "3.0.2 GENERAL PRINCIPLES ",
             "start_page": 236,
             "end_page": 236,
-            "end_link_label": "3.0.3 WRITTEN COMPUTER BASED OR DISTANCE LEARNING EXAMINATIONS ",
+            "end_tag": "3.0.3",
             "children": []
           },
           {
             "link_idx": "3.0.3",
-            "link_label": "3.0.3 WRITTEN COMPUTER BASED OR DISTANCE LEARNING EXAMINATIONS ",
+            "link_label": "3.0.3 WRITTEN COMPUTER BASED OR DISTANCE LEARNING EXAMINATIONS ............................ 32 3.0.4GENERAL EXAMINATION CONDUCT ..................................................................................................... 33",
             "start_page": 236,
             "end_page": 237,
-            "end_link_label": "3.0.4 GENERAL EXAMINATION CONDUCT ",
+            "end_tag": "3.0.4",
             "children": []
           },
           {
             "link_idx": "3.0.4",
-            "link_label": "3.0.4 GENERAL EXAMINATION CONDUCT ",
+            "link_label": "3.0.4 GENERAL EXAMINATION CONDUCT ..................................................................................................... 33 3.0.5ATTENDANCE RECORDS ............................................................................................................................. 33",
             "start_page": 237,
             "end_page": 237,
-            "end_link_label": "3.0.5 ATTENDANCE RECORDS ",
+            "end_tag": "3.0.5",
             "children": []
           },
           {
             "link_idx": "3.0.5",
-            "link_label": "3.0.5 ATTENDANCE RECORDS ",
+            "link_label": "3.0.5 ATTENDANCE RECORDS ............................................................................................................................. 33 3.0.6GRADING SYSTEM ......................................................................................................................................... 33",
             "start_page": 237,
             "end_page": 237,
-            "end_link_label": "3.0.6 GRADING SYSTEM ",
+            "end_tag": "3.0.6",
             "children": []
           },
           {
@@ -1640,14 +1640,14 @@
             "link_label": "3.0.6 GRADING SYSTEM ",
             "start_page": 237,
             "end_page": 239,
-            "end_link_label": "3.1 COMPETENCY BASED TRAINING AND ASSESSMENT CBTA ",
+            "end_tag": "3.1",
             "children": [
               {
                 "link_idx": "3.0.6.1",
                 "link_label": "3.0.6.1 Grading for CheckingEvaluation ",
                 "start_page": 237,
                 "end_page": 238,
-                "end_link_label": "3.0.6.2 Grading for Training ",
+                "end_tag": "3.0.6.2",
                 "children": []
               },
               {
@@ -1655,7 +1655,7 @@
                 "link_label": "3.0.6.2 Grading for Training ",
                 "start_page": 238,
                 "end_page": 238,
-                "end_link_label": "3.0.6.3 Competency Assessment ",
+                "end_tag": "3.0.6.3",
                 "children": []
               },
               {
@@ -1663,7 +1663,7 @@
                 "link_label": "3.0.6.3 Competency Assessment ",
                 "start_page": 238,
                 "end_page": 239,
-                "end_link_label": "3.1 COMPETENCY BASED TRAINING AND ASSESSMENT CBTA ",
+                "end_tag": "3.1",
                 "children": []
               }
             ]
@@ -1675,30 +1675,30 @@
         "link_label": "3.1 COMPETENCY BASED TRAINING AND ASSESSMENT CBTA ",
         "start_page": 239,
         "end_page": 240,
-        "end_link_label": "3.2 EVIDENCE BASED TRAINING EBT ",
+        "end_tag": "3.2",
         "children": [
           {
             "link_idx": "3.1.1",
-            "link_label": "3.1.1 GENERAL ",
+            "link_label": "3.1.1 GENERAL ............................................................................................................................................................ 35 3.1.2THREAT AND ERROR MANAGEMENT .................................................................................................... 35",
             "start_page": 239,
             "end_page": 239,
-            "end_link_label": "3.1.2 THREAT AND ERROR MANAGEMENT ",
+            "end_tag": "3.1.2",
             "children": []
           },
           {
             "link_idx": "3.1.2",
-            "link_label": "3.1.2 THREAT AND ERROR MANAGEMENT ",
+            "link_label": "3.1.2 THREAT AND ERROR MANAGEMENT .................................................................................................... 35 3.1.3SAFETY ENHANCEMENT ............................................................................................................................. 35",
             "start_page": 239,
             "end_page": 239,
-            "end_link_label": "3.1.3 SAFETY ENHANCEMENT ",
+            "end_tag": "3.1.3",
             "children": []
           },
           {
             "link_idx": "3.1.3",
-            "link_label": "3.1.3 SAFETY ENHANCEMENT ",
+            "link_label": "3.1.3 SAFETY ENHANCEMENT ............................................................................................................................. 35 2EVIDENCE BASED TRAINING EBT .......................................................................................................... 36",
             "start_page": 239,
             "end_page": 240,
-            "end_link_label": "3.2 EVIDENCE BASED TRAINING EBT ",
+            "end_tag": "3.2",
             "children": []
           }
         ]
@@ -1708,30 +1708,30 @@
         "link_label": "3.2 EVIDENCE BASED TRAINING EBT ",
         "start_page": 240,
         "end_page": 242,
-        "end_link_label": "3.3 COMPETENCY FRAMEWORK ",
+        "end_tag": "3.3",
         "children": []
       },
       {
         "link_idx": "3.3",
-        "link_label": "3.3 COMPETENCY FRAMEWORK ",
+        "link_label": "3.3 COMPETENCY FRAMEWORK ..................................................................................................................... 38 3.3.1PILOT COMPETENCY FRAMEWORK ........................................................................................................ 38",
         "start_page": 242,
         "end_page": 255,
-        "end_link_label": "3.4 COMPETENCY BASED GRADING METHODOLOGY ",
+        "end_tag": "3.4",
         "children": [
           {
             "link_idx": "3.3.1",
-            "link_label": "3.3.1 PILOT COMPETENCY FRAMEWORK ",
+            "link_label": "3.3.1 PILOT COMPETENCY FRAMEWORK ........................................................................................................ 38 3.3.2CABIN CREW COMPETENCY FRAMEWORK ...................................................................................... 313",
             "start_page": 242,
             "end_page": 247,
-            "end_link_label": "3.3.2 CABIN CREW COMPETENCY FRAMEWORK ",
+            "end_tag": "3.3.2",
             "children": []
           },
           {
             "link_idx": "3.3.2",
-            "link_label": "3.3.2 CABIN CREW COMPETENCY FRAMEWORK ",
+            "link_label": "3.3.2 CABIN CREW COMPETENCY FRAMEWORK ...................................................................................... 313 3.3.3TRAINER COMPETENCY FRAMEWORK............................................................................................... 314",
             "start_page": 247,
             "end_page": 248,
-            "end_link_label": "3.3.3 TRAINER COMPETENCY FRAMEWORK",
+            "end_tag": "3.3.3",
             "children": []
           },
           {
@@ -1739,32 +1739,32 @@
             "link_label": "3.3.3 TRAINER COMPETENCY FRAMEWORK",
             "start_page": 248,
             "end_page": 252,
-            "end_link_label": "3.3.4 DISPATCHER COMPETENCY FRAMEWORK ",
+            "end_tag": "3.3.4",
             "children": []
           },
           {
             "link_idx": "3.3.4",
-            "link_label": "3.3.4 DISPATCHER COMPETENCY FRAMEWORK ",
+            "link_label": "3.3.4 DISPATCHER COMPETENCY FRAMEWORK ...................................................................................... 318 4COMPETENCY BASED GRADING METHODOLOGY ....................................................................... 321",
             "start_page": 252,
             "end_page": 255,
-            "end_link_label": "3.4 COMPETENCY BASED GRADING METHODOLOGY ",
+            "end_tag": "3.4",
             "children": []
           }
         ]
       },
       {
         "link_idx": "3.4",
-        "link_label": "3.4 COMPETENCY BASED GRADING METHODOLOGY ",
+        "link_label": "3.4 COMPETENCY BASED GRADING METHODOLOGY ....................................................................... 321 3.4.1EXPANDED WORD PICTURES  VENN MODEL ............................................................................... 323",
         "start_page": 255,
         "end_page": 258,
-        "end_link_label": "3.5 TRAINING SESSION OUTCOMES ",
+        "end_tag": "3.5",
         "children": [
           {
             "link_idx": "3.4.1",
-            "link_label": "3.4.1 EXPANDED WORD PICTURES  VENN MODEL ",
+            "link_label": "3.4.1 EXPANDED WORD PICTURES  VENN MODEL ............................................................................... 323 5TRAINING SESSION OUTCOMES .......................................................................................................... 324",
             "start_page": 257,
             "end_page": 258,
-            "end_link_label": "3.5 TRAINING SESSION OUTCOMES ",
+            "end_tag": "3.5",
             "children": []
           }
         ]
@@ -1774,22 +1774,22 @@
         "link_label": "3.5 TRAINING SESSION OUTCOMES ",
         "start_page": 258,
         "end_page": 261,
-        "end_link_label": "3.6 ASSESSMENT STANDARDS ",
+        "end_tag": "3.6",
         "children": [
           {
             "link_idx": "3.5.1",
-            "link_label": "3.5.1 INTRODUCTION ",
+            "link_label": "3.5.1 INTRODUCTION ........................................................................................................................................... 324 3.5.2LEARNING OBJECTIVES ............................................................................................................................. 324",
             "start_page": 258,
             "end_page": 258,
-            "end_link_label": "3.5.2 LEARNING OBJECTIVES ",
+            "end_tag": "3.5.2",
             "children": []
           },
           {
             "link_idx": "3.5.2",
-            "link_label": "3.5.2 LEARNING OBJECTIVES ",
+            "link_label": "3.5.2 LEARNING OBJECTIVES ............................................................................................................................. 324 3.5.3OUTCOMES.................................................................................................................................................... 325",
             "start_page": 258,
             "end_page": 259,
-            "end_link_label": "3.5.3 OUTCOMES",
+            "end_tag": "3.5.3",
             "children": []
           },
           {
@@ -1797,14 +1797,14 @@
             "link_label": "3.5.3 OUTCOMES",
             "start_page": 259,
             "end_page": 261,
-            "end_link_label": "3.6 ASSESSMENT STANDARDS ",
+            "end_tag": "3.6",
             "children": [
               {
                 "link_idx": "3.5.3.1",
                 "link_label": "3.5.3.1 Objectives Achieved ",
                 "start_page": 260,
                 "end_page": 260,
-                "end_link_label": "3.5.3.2 Objectives Achieved with Additional Practice FSTD ",
+                "end_tag": "3.5.3.2",
                 "children": []
               },
               {
@@ -1812,7 +1812,7 @@
                 "link_label": "3.5.3.2 Objectives Achieved with Additional Practice FSTD ",
                 "start_page": 260,
                 "end_page": 260,
-                "end_link_label": "3.5.3.3 Objectives Achieved with Additional Practice OE ",
+                "end_tag": "3.5.3.3",
                 "children": []
               },
               {
@@ -1820,7 +1820,7 @@
                 "link_label": "3.5.3.3 Objectives Achieved with Additional Practice OE ",
                 "start_page": 260,
                 "end_page": 260,
-                "end_link_label": "3.5.3.4 Objectives Not Achieved FSTD ",
+                "end_tag": "3.5.3.4",
                 "children": []
               },
               {
@@ -1828,7 +1828,7 @@
                 "link_label": "3.5.3.4 Objectives Not Achieved FSTD ",
                 "start_page": 260,
                 "end_page": 260,
-                "end_link_label": "3.5.3.5 Objectives Not Achieved OE ",
+                "end_tag": "3.5.3.5",
                 "children": []
               },
               {
@@ -1836,7 +1836,7 @@
                 "link_label": "3.5.3.5 Objectives Not Achieved OE ",
                 "start_page": 260,
                 "end_page": 261,
-                "end_link_label": "3.6 ASSESSMENT STANDARDS ",
+                "end_tag": "3.6",
                 "children": []
               }
             ]
@@ -1848,14 +1848,14 @@
         "link_label": "3.6 ASSESSMENT STANDARDS ",
         "start_page": 261,
         "end_page": 268,
-        "end_link_label": "3.7 STANDARDIZATION OF TRAINING ",
+        "end_tag": "3.7",
         "children": [
           {
             "link_idx": "3.6.1",
-            "link_label": "3.6.1 TREND ANALYSIS ",
+            "link_label": "3.6.1 TREND ANALYSIS ........................................................................................................................................ 327 3.6.2ASSESSMENT STANDARDS FOR PROFICIENCY CHECKS EBT MODULE EVALUATION",
             "start_page": 261,
             "end_page": 261,
-            "end_link_label": "3.6.2 ASSESSMENT STANDARDS FOR PROFICIENCY CHECKS EBT MODULE EVALUATION",
+            "end_tag": "3.6.2",
             "children": []
           },
           {
@@ -1863,23 +1863,23 @@
             "link_label": "3.6.2 ASSESSMENT STANDARDS FOR PROFICIENCY CHECKS EBT MODULE EVALUATION",
             "start_page": 261,
             "end_page": 261,
-            "end_link_label": "3.6.3 TABLE OF COMMON TEST STANDARDS FOR FLIGHT CREW ",
+            "end_tag": "3.6.3",
             "children": []
           },
           {
             "link_idx": "3.6.3",
-            "link_label": "3.6.3 TABLE OF COMMON TEST STANDARDS FOR FLIGHT CREW ",
+            "link_label": "3.6.3 TABLE OF COMMON TEST STANDARDS FOR FLIGHT CREW .................................................... 327 3.6.4ASSESSMENT STANDARDS FOR TRAINING SESSIONS ................................................................ 329",
             "start_page": 261,
             "end_page": 263,
-            "end_link_label": "3.6.4 ASSESSMENT STANDARDS FOR TRAINING SESSIONS ",
+            "end_tag": "3.6.4",
             "children": []
           },
           {
             "link_idx": "3.6.4",
-            "link_label": "3.6.4 ASSESSMENT STANDARDS FOR TRAINING SESSIONS ",
+            "link_label": "3.6.4 ASSESSMENT STANDARDS FOR TRAINING SESSIONS ................................................................ 329 3.6.5CONDUCT OF A TEST CHECK OR EVALUATION ............................................................................ 329",
             "start_page": 263,
             "end_page": 263,
-            "end_link_label": "3.6.5 CONDUCT OF A TEST CHECK OR EVALUATION ",
+            "end_tag": "3.6.5",
             "children": []
           },
           {
@@ -1887,24 +1887,24 @@
             "link_label": "3.6.5 CONDUCT OF A TEST CHECK OR EVALUATION ",
             "start_page": 263,
             "end_page": 265,
-            "end_link_label": "3.6.6 CONDUCT OF A TRAINING SESSION ",
+            "end_tag": "3.6.6",
             "children": [
               {
                 "link_idx": "3.6.5.1",
-                "link_label": "3.6.5.1 Conduct and Assessment of Oral Exams ",
+                "link_label": "3.6.5.1 Conduct and Assessment of Oral Exams ............................................................................. 330 6CONDUCT OF A TRAINING SESSION .................................................................................................. 331",
                 "start_page": 264,
                 "end_page": 265,
-                "end_link_label": "3.6.6 CONDUCT OF A TRAINING SESSION ",
+                "end_tag": "3.6.6",
                 "children": []
               }
             ]
           },
           {
             "link_idx": "3.6.6",
-            "link_label": "3.6.6 CONDUCT OF A TRAINING SESSION ",
+            "link_label": "3.6.6 CONDUCT OF A TRAINING SESSION .................................................................................................. 331 3.6.7LINE RELEASE CHECK LRC ..................................................................................................................... 331",
             "start_page": 265,
             "end_page": 265,
-            "end_link_label": "3.6.7 LINE RELEASE CHECK LRC ",
+            "end_tag": "3.6.7",
             "children": []
           },
           {
@@ -1912,64 +1912,64 @@
             "link_label": "3.6.7 LINE RELEASE CHECK LRC ",
             "start_page": 265,
             "end_page": 266,
-            "end_link_label": "3.6.8 LINE CHECK ",
+            "end_tag": "3.6.8",
             "children": []
           },
           {
             "link_idx": "3.6.8",
-            "link_label": "3.6.8 LINE CHECK ",
+            "link_label": "3.6.8 LINE CHECK ................................................................................................................................................... 332 3.6.9REMEDIAL TRAINING ................................................................................................................................. 333",
             "start_page": 266,
             "end_page": 267,
-            "end_link_label": "3.6.9 REMEDIAL TRAINING ",
+            "end_tag": "3.6.9",
             "children": []
           },
           {
             "link_idx": "3.6.9",
-            "link_label": "3.6.9 REMEDIAL TRAINING ",
+            "link_label": "3.6.9 REMEDIAL TRAINING ................................................................................................................................. 333 7STANDARDIZATION OF TRAINING ...................................................................................................... 334",
             "start_page": 267,
             "end_page": 268,
-            "end_link_label": "3.7 STANDARDIZATION OF TRAINING ",
+            "end_tag": "3.7",
             "children": []
           }
         ]
       },
       {
         "link_idx": "3.7",
-        "link_label": "3.7 STANDARDIZATION OF TRAINING ",
+        "link_label": "3.7 STANDARDIZATION OF TRAINING ...................................................................................................... 334 3.7.1GENERAL ......................................................................................................................................................... 334",
         "start_page": 268,
         "end_page": 272,
-        "end_link_label": "3.8 PROCEDURES TO BE APPLIED IN THE EVENT THAT PERSONNEL DO NOT ACHIEVE OR",
+        "end_tag": "3.8",
         "children": [
           {
             "link_idx": "3.7.1",
             "link_label": "3.7.1 GENERAL ",
             "start_page": 268,
             "end_page": 268,
-            "end_link_label": "3.7.2 INSTRUCTOR PROFICIENCY EVALUATION IPE ",
+            "end_tag": "3.7.2",
             "children": []
           },
           {
             "link_idx": "3.7.2",
-            "link_label": "3.7.2 INSTRUCTOR PROFICIENCY EVALUATION IPE ",
+            "link_label": "3.7.2 INSTRUCTOR PROFICIENCY EVALUATION IPE ............................................................................. 334 3.7.3INSTRUCTOR STANDARDIZATION SEMINAR .................................................................................. 334",
             "start_page": 268,
             "end_page": 268,
-            "end_link_label": "3.7.3 INSTRUCTOR STANDARDIZATION SEMINAR ",
+            "end_tag": "3.7.3",
             "children": []
           },
           {
             "link_idx": "3.7.3",
-            "link_label": "3.7.3 INSTRUCTOR STANDARDIZATION SEMINAR ",
+            "link_label": "3.7.3 INSTRUCTOR STANDARDIZATION SEMINAR .................................................................................. 334 3.7.4INSTRUCTOR DEVELOPMENT TRAINING .......................................................................................... 335",
             "start_page": 268,
             "end_page": 269,
-            "end_link_label": "3.7.4 INSTRUCTOR DEVELOPMENT TRAINING ",
+            "end_tag": "3.7.4",
             "children": []
           },
           {
             "link_idx": "3.7.4",
-            "link_label": "3.7.4 INSTRUCTOR DEVELOPMENT TRAINING ",
+            "link_label": "3.7.4 INSTRUCTOR DEVELOPMENT TRAINING .......................................................................................... 335 3.7.5INSTRUCTOR CONCORDANCE ASSURANCE TRAINING ICAP ............................................... 335",
             "start_page": 269,
             "end_page": 269,
-            "end_link_label": "3.7.5 INSTRUCTOR CONCORDANCE ASSURANCE TRAINING ICAP ",
+            "end_tag": "3.7.5",
             "children": []
           },
           {
@@ -1977,7 +1977,7 @@
             "link_label": "3.7.5 INSTRUCTOR CONCORDANCE ASSURANCE TRAINING ICAP ",
             "start_page": 269,
             "end_page": 271,
-            "end_link_label": "3.7.6 STANDARDIZATION OF EXTERNAL INSTRUCTORS ",
+            "end_tag": "3.7.6",
             "children": []
           },
           {
@@ -1985,14 +1985,14 @@
             "link_label": "3.7.6 STANDARDIZATION OF EXTERNAL INSTRUCTORS ",
             "start_page": 271,
             "end_page": 272,
-            "end_link_label": "3.8 PROCEDURES TO BE APPLIED IN THE EVENT THAT PERSONNEL DO NOT ACHIEVE OR",
+            "end_tag": "3.8",
             "children": [
               {
                 "link_idx": "3.7.6.1",
                 "link_label": "3.7.6.1 General ",
                 "start_page": 271,
                 "end_page": 271,
-                "end_link_label": "3.7.6.2 External Instructors  Selection ",
+                "end_tag": "3.7.6.2",
                 "children": []
               },
               {
@@ -2000,7 +2000,7 @@
                 "link_label": "3.7.6.2 External Instructors  Selection ",
                 "start_page": 271,
                 "end_page": 271,
-                "end_link_label": "3.7.6.3 External Instructors  Standardization ",
+                "end_tag": "3.7.6.3",
                 "children": []
               },
               {
@@ -2008,7 +2008,7 @@
                 "link_label": "3.7.6.3 External Instructors  Standardization ",
                 "start_page": 271,
                 "end_page": 272,
-                "end_link_label": "3.8 PROCEDURES TO BE APPLIED IN THE EVENT THAT PERSONNEL DO NOT ACHIEVE OR",
+                "end_tag": "3.8",
                 "children": []
               }
             ]
@@ -2020,22 +2020,22 @@
         "link_label": "3.8 PROCEDURES TO BE APPLIED IN THE EVENT THAT PERSONNEL DO NOT ACHIEVE OR",
         "start_page": 272,
         "end_page": 276,
-        "end_link_label": "3.9 TRAINING DURING COMMERCIAL OPERATIONS ",
+        "end_tag": "3.9",
         "children": [
           {
             "link_idx": "3.8.1",
-            "link_label": "3.8.1 GENERAL ",
+            "link_label": "3.8.1 GENERAL ......................................................................................................................................................... 338 3.8.2FAILURE OF GROUND EXAMINATION OR DISTANCE LEARNING EXAM ............................. 338",
             "start_page": 272,
             "end_page": 272,
-            "end_link_label": "3.8.2 FAILURE OF GROUND EXAMINATION OR DISTANCE LEARNING EXAM ",
+            "end_tag": "3.8.2",
             "children": []
           },
           {
             "link_idx": "3.8.2",
-            "link_label": "3.8.2 FAILURE OF GROUND EXAMINATION OR DISTANCE LEARNING EXAM ",
+            "link_label": "3.8.2 FAILURE OF GROUND EXAMINATION OR DISTANCE LEARNING EXAM ............................. 338 3.8.3OBJECTIVES NOT ACHIEVED DURING TRAINING .......................................................................... 338",
             "start_page": 272,
             "end_page": 272,
-            "end_link_label": "3.8.3 OBJECTIVES NOT ACHIEVED DURING TRAINING ",
+            "end_tag": "3.8.3",
             "children": []
           },
           {
@@ -2043,31 +2043,31 @@
             "link_label": "3.8.3 OBJECTIVES NOT ACHIEVED DURING TRAINING ",
             "start_page": 272,
             "end_page": 272,
-            "end_link_label": "3.8.4 FAILED CHECK TEST OR EVALUATION",
+            "end_tag": "3.8.4",
             "children": []
           },
           {
             "link_idx": "3.8.4",
-            "link_label": "3.8.4 FAILED CHECK TEST OR EVALUATION",
+            "link_label": "3.8.4 FAILED CHECK TEST OR EVALUATION............................................................................................... 338 3.8.5FAILED LINE CHECKS ................................................................................................................................. 339",
             "start_page": 272,
             "end_page": 273,
-            "end_link_label": "3.8.5 FAILED LINE CHECKS ",
+            "end_tag": "3.8.5",
             "children": []
           },
           {
             "link_idx": "3.8.5",
-            "link_label": "3.8.5 FAILED LINE CHECKS ",
+            "link_label": "3.8.5 FAILED LINE CHECKS ................................................................................................................................. 339 3.8.6INTERVENTION DURING LINE CHECKS .............................................................................................. 339",
             "start_page": 273,
             "end_page": 273,
-            "end_link_label": "3.8.6 INTERVENTION DURING LINE CHECKS ",
+            "end_tag": "3.8.6",
             "children": []
           },
           {
             "link_idx": "3.8.6",
-            "link_label": "3.8.6 INTERVENTION DURING LINE CHECKS ",
+            "link_label": "3.8.6 INTERVENTION DURING LINE CHECKS .............................................................................................. 339 3.8.7MANAGEMENT OF CREW PERFORMANCE MCP ......................................................................... 339",
             "start_page": 273,
             "end_page": 273,
-            "end_link_label": "3.8.7 MANAGEMENT OF CREW PERFORMANCE MCP ",
+            "end_tag": "3.8.7",
             "children": []
           },
           {
@@ -2075,23 +2075,23 @@
             "link_label": "3.8.7 MANAGEMENT OF CREW PERFORMANCE MCP ",
             "start_page": 273,
             "end_page": 274,
-            "end_link_label": "3.8.8 MCP LEVELS ",
+            "end_tag": "3.8.8",
             "children": []
           },
           {
             "link_idx": "3.8.8",
-            "link_label": "3.8.8 MCP LEVELS ",
+            "link_label": "3.8.8 MCP LEVELS ................................................................................................................................................... 340 3.8.9MCP PROCESS TRIGGER ........................................................................................................................... 341",
             "start_page": 274,
             "end_page": 275,
-            "end_link_label": "3.8.9 MCP PROCESS TRIGGER ",
+            "end_tag": "3.8.9",
             "children": []
           },
           {
             "link_idx": "3.8.9",
-            "link_label": "3.8.9 MCP PROCESS TRIGGER ",
+            "link_label": "3.8.9 MCP PROCESS TRIGGER ........................................................................................................................... 341 3.8.10ESCALATION OF MCP LEVEL .................................................................................................................. 341",
             "start_page": 275,
             "end_page": 275,
-            "end_link_label": "3.8.10 ESCALATION OF MCP LEVEL ",
+            "end_tag": "3.8.10",
             "children": []
           },
           {
@@ -2099,40 +2099,40 @@
             "link_label": "3.8.10 ESCALATION OF MCP LEVEL ",
             "start_page": 275,
             "end_page": 275,
-            "end_link_label": "3.8.11 REDUCTION OF MCP LEVEL ",
+            "end_tag": "3.8.11",
             "children": []
           },
           {
             "link_idx": "3.8.11",
-            "link_label": "3.8.11 REDUCTION OF MCP LEVEL ",
+            "link_label": "3.8.11 REDUCTION OF MCP LEVEL .................................................................................................................... 341 3.8.12RELEVANT MCP EVENTS .......................................................................................................................... 341",
             "start_page": 275,
             "end_page": 275,
-            "end_link_label": "3.8.12 RELEVANT MCP EVENTS ",
+            "end_tag": "3.8.12",
             "children": []
           },
           {
             "link_idx": "3.8.12",
-            "link_label": "3.8.12 RELEVANT MCP EVENTS ",
+            "link_label": "3.8.12 RELEVANT MCP EVENTS .......................................................................................................................... 341 9TRAINING DURING COMMERCIAL OPERATIONS .......................................................................... 342",
             "start_page": 275,
             "end_page": 276,
-            "end_link_label": "3.9 TRAINING DURING COMMERCIAL OPERATIONS ",
+            "end_tag": "3.9",
             "children": []
           }
         ]
       },
       {
         "link_idx": "3.9",
-        "link_label": "3.9 TRAINING DURING COMMERCIAL OPERATIONS ",
+        "link_label": "3.9 TRAINING DURING COMMERCIAL OPERATIONS .......................................................................... 342 3.9.1TRAINING PERMITTED DURING COMMERCIAL OPERATIONS ................................................. 342",
         "start_page": 276,
         "end_page": 277,
-        "end_link_label": "4 RECORD KEEPING ",
+        "end_tag": "4",
         "children": [
           {
             "link_idx": "3.9.1",
             "link_label": "3.9.1 TRAINING PERMITTED DURING COMMERCIAL OPERATIONS ",
             "start_page": 276,
             "end_page": 276,
-            "end_link_label": "3.9.2 TRAINING NOT PERMITTED DURING COMMERCIAL OPERATIONS ",
+            "end_tag": "3.9.2",
             "children": []
           },
           {
@@ -2140,7 +2140,7 @@
             "link_label": "3.9.2 TRAINING NOT PERMITTED DURING COMMERCIAL OPERATIONS ",
             "start_page": 276,
             "end_page": 277,
-            "end_link_label": "4 RECORD KEEPING ",
+            "end_tag": "4",
             "children": []
           }
         ]
@@ -2152,46 +2152,46 @@
     "link_label": "4 RECORD KEEPING ",
     "start_page": 277,
     "end_page": 281,
-    "end_link_label": "5 APPENDICES ",
+    "end_tag": "5",
     "children": [
       {
         "link_idx": "4.0",
-        "link_label": "4.0 REQUIRED TRAINING RECORDS ",
+        "link_label": "4.0 REQUIRED TRAINING RECORDS .............................................................................................................. 41 4.0.1ACCESS TO TRAINING RECORDS ............................................................................................................. 41",
         "start_page": 277,
         "end_page": 278,
-        "end_link_label": "4.1 FORMAT OF TRAINING RECORDS ",
+        "end_tag": "4.1",
         "children": [
           {
             "link_idx": "4.0.1",
             "link_label": "4.0.1 ACCESS TO TRAINING RECORDS ",
             "start_page": 277,
             "end_page": 277,
-            "end_link_label": "4.0.2 DOCUMENT RETENTION RESPONSIBILITIES ",
+            "end_tag": "4.0.2",
             "children": []
           },
           {
             "link_idx": "4.0.2",
-            "link_label": "4.0.2 DOCUMENT RETENTION RESPONSIBILITIES ",
+            "link_label": "4.0.2 DOCUMENT RETENTION RESPONSIBILITIES ....................................................................................... 41 1FORMAT OF TRAINING RECORDS ........................................................................................................... 42",
             "start_page": 277,
             "end_page": 278,
-            "end_link_label": "4.1 FORMAT OF TRAINING RECORDS ",
+            "end_tag": "4.1",
             "children": []
           }
         ]
       },
       {
         "link_idx": "4.1",
-        "link_label": "4.1 FORMAT OF TRAINING RECORDS ",
+        "link_label": "4.1 FORMAT OF TRAINING RECORDS ........................................................................................................... 42 4.1.1CREW MEMBERS AND DISPATCHER RECORDS ................................................................................. 42",
         "start_page": 278,
         "end_page": 279,
-        "end_link_label": "4.2 STORAGE OF TRAINING RECORDS ",
+        "end_tag": "4.2",
         "children": [
           {
             "link_idx": "4.1.1",
-            "link_label": "4.1.1 CREW MEMBERS AND DISPATCHER RECORDS ",
+            "link_label": "4.1.1 CREW MEMBERS AND DISPATCHER RECORDS ................................................................................. 42 2STORAGE OF TRAINING RECORDS ......................................................................................................... 43",
             "start_page": 278,
             "end_page": 279,
-            "end_link_label": "4.2 STORAGE OF TRAINING RECORDS ",
+            "end_tag": "4.2",
             "children": []
           }
         ]
@@ -2201,14 +2201,14 @@
         "link_label": "4.2 STORAGE OF TRAINING RECORDS ",
         "start_page": 279,
         "end_page": 281,
-        "end_link_label": "5 APPENDICES ",
+        "end_tag": "5",
         "children": [
           {
             "link_idx": "4.2.1",
             "link_label": "4.2.1 TRAINING RECORDS RETENTION ",
             "start_page": 279,
             "end_page": 281,
-            "end_link_label": "5 APPENDICES ",
+            "end_tag": "5",
             "children": []
           }
         ]
@@ -2217,10 +2217,67 @@
   },
   {
     "link_idx": "5",
-    "link_label": "5 APPENDICES ",
+    "link_label": "5 APPENDICES ...................................................................................................................... 51 5.0A1LIST OF APPROVED FSTD TRAINING EQUIPMENT AND SCOPE OF TRAINING ............ 51",
     "start_page": 281,
     "end_page": -1,
-    "end_link_label": null,
-    "children": []
+    "end_tag": null,
+    "children": [
+      {
+        "link_idx": "5.0",
+        "link_label": "5.0 A1LIST OF APPROVED FSTD TRAINING EQUIPMENT AND SCOPE OF TRAINING ............ 51 5.1A2LIST OF CONTRACTED TRAINING ORGANIZATIONS AND SCOPE OF TRAINING ........ 52",
+        "start_page": 281,
+        "end_page": 282,
+        "end_tag": "5.1",
+        "children": []
+      },
+      {
+        "link_idx": "5.1",
+        "link_label": "5.1 A2LIST OF CONTRACTED TRAINING ORGANIZATIONS AND SCOPE OF TRAINING ........ 52",
+        "start_page": 282,
+        "end_page": 283,
+        "end_tag": "5.2",
+        "children": []
+      },
+      {
+        "link_idx": "5.2",
+        "link_label": "5.2 A3LIST OF APPROVED INSTRUCTORS AND CHECK PILOTS ....................................................... 53 5.3A4EXAMPLES OF TRAINING AND CHECKING RECORDS ............................................................. 54",
+        "start_page": 283,
+        "end_page": 284,
+        "end_tag": "5.3",
+        "children": []
+      },
+      {
+        "link_idx": "5.3",
+        "link_label": "5.3 A4EXAMPLES OF TRAINING AND CHECKING RECORDS ............................................................. 54 5.4A5 RECURRENT TRAINING EVENT MATRIX ....................................................................................... 55",
+        "start_page": 284,
+        "end_page": 285,
+        "end_tag": "5.4",
+        "children": []
+      },
+      {
+        "link_idx": "5.4",
+        "link_label": "5.4 A5 RECURRENT TRAINING EVENT MATRIX ....................................................................................... 55 5.5A6  FLIGHT TRAINING FORMS ................................................................................................................ 56",
+        "start_page": 285,
+        "end_page": 286,
+        "end_tag": "5.5",
+        "children": []
+      },
+      {
+        "link_idx": "5.5",
+        "link_label": "5.5 A6  FLIGHT TRAINING FORMS ................................................................................................................ 56",
+        "start_page": 286,
+        "end_page": 287,
+        "end_tag": "5.6",
+        "children": []
+      },
+      {
+        "link_idx": "5.6",
+        "link_label": "5.6 A7 PROFICIENCY CHECK FORMS ........................................................................................................... 57",
+        "start_page": 287,
+        "end_page": -1,
+        "end_tag": null,
+        "children": []
+      }
+    ]
   }
 ]

@@ -8,7 +8,7 @@ Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_1.pdf
 Initializing ZPDF for file: data/sample_rxi_1.pdf
-Found 63 TOC Headers
+Found 64 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
@@ -25,15 +25,16 @@ Validating TOC Tree...
 0.11.1 not Found
 0.11.2 not Found
 0.11.3 not Found
-TOC Coverage Metric: 0.7936507936507937
+TOC Coverage Metric: 0.796875
 Running Post Correction...
-Found 64 TOC Headers
+Found 65 TOC Headers
 Running Post Correction...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_mac_4.pdf
 Initializing ZPDF for file: data/sample_mac_4.pdf
-Found 187 TOC Headers
+Found Link Gaps ['8.5.2', '8.11.6']
+Found 186 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
@@ -54,9 +55,9 @@ Validating TOC Tree...
 0.11.1 not Found
 0.11.2 not Found
 0.12 not Found
-TOC Coverage Metric: 0.9090909090909091
+TOC Coverage Metric: 0.9086021505376344
 Running Post Correction...
-Found 188 TOC Headers
+Found 187 TOC Headers
 Running Post Correction...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
@@ -76,7 +77,7 @@ Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_mac_5.pdf
 Initializing ZPDF for file: data/sample_mac_5.pdf
-Found 222 TOC Headers
+Found 223 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
@@ -97,9 +98,9 @@ Validating TOC Tree...
 0.11.1 not Found
 0.11.2 not Found
 0.12 not Found
-TOC Coverage Metric: 0.9234234234234234
+TOC Coverage Metric: 0.9237668161434978
 Running Post Correction...
-Found 223 TOC Headers
+Found 224 TOC Headers
 Running Post Correction...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
@@ -146,6 +147,7 @@ Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_mac_1.pdf
 Initializing ZPDF for file: data/sample_mac_1.pdf
+Found Link Gaps ['1.5.2', '1.5.4']
 Found 84 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
@@ -192,6 +194,7 @@ Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_mac_3.pdf
 Initializing ZPDF for file: data/sample_mac_3.pdf
+Found Link Gaps ['9.4']
 Found 385 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
@@ -245,7 +248,7 @@ TOC Coverage Metric: 0.9689922480620154
 Parsing: data/sample_mac_8.pdf
 Initializing ZPDF for file: data/sample_mac_8.pdf
 1.16.1 Duplicate
-Found 156 TOC Headers
+Found 160 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
@@ -278,6 +281,7 @@ Validating TOC Tree...
 0.7 not Found
 0.7.1 not Found
 0.7.2 not Found
+0.7.3 not Found
 0.7.4 not Found
 0.7.5 not Found
 0.8 not Found
@@ -309,6 +313,7 @@ Validating TOC Tree...
 1.11 not Found
 1.12 not Found
 1.13 not Found
+1.14 not Found
 1.15 not Found
 1.16 not Found
 1.16.1 not Found
@@ -341,6 +346,7 @@ Validating TOC Tree...
 2.4.4 not Found
 2.4.5 not Found
 2.4.6 not Found
+2.4.7 not Found
 2.4.8 not Found
 2.4.9 not Found
 2.4.10 not Found
@@ -374,6 +380,7 @@ Validating TOC Tree...
 3.7.5 not Found
 3.8 not Found
 3.8.1 not Found
+3.8.2 not Found
 3.8.3 not Found
 3.8.4 not Found
 3.9 not Found
@@ -407,12 +414,7 @@ Validating TOC Tree...
 4.5 not Found
 TOC Coverage Metric: 0.0
 Running Post Correction...
-Can not Find Unlinked Index 1
-Can not Find Unlinked Index 0
-Can not Find Unlinked Index 3
-Can not Find Unlinked Index 2
-Can not Find Unlinked Index 4
-Found 161 TOC Headers
+Found 165 TOC Headers
 Running Post Correction...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
@@ -432,7 +434,7 @@ Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_mac_6.pdf
 Initializing ZPDF for file: data/sample_mac_6.pdf
-Found 549 TOC Headers
+Found 553 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
@@ -453,6 +455,7 @@ Validating TOC Tree...
 0.11.1 not Found
 0.11.2 not Found
 0.12 not Found
+8. not Found
 8.1 not Found
 8.2 not Found
 8.3 not Found
@@ -532,12 +535,15 @@ Validating TOC Tree...
 8.25.1 not Found
 8.25.2 not Found
 8.25.3 not Found
+8.26 not Found
 8.26.1 not Found
 8.26.2 not Found
+8.26.3 not Found
+8.27 not Found
 8.27.1 not Found
-TOC Coverage Metric: 0.819672131147541
+TOC Coverage Metric: 0.8137432188065099
 Running Post Correction...
-Found 551 TOC Headers
+Found 555 TOC Headers
 Running Post Correction...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
@@ -564,7 +570,7 @@ Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_15.pdf
 Initializing ZPDF for file: data/sample_rxi_15.pdf
-Found 109 TOC Headers
+Found 110 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
@@ -585,7 +591,7 @@ Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_mac_9.pdf
 Initializing ZPDF for file: data/sample_mac_9.pdf
-Found 549 TOC Headers
+Found 553 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
@@ -606,6 +612,7 @@ Validating TOC Tree...
 0.11.1 not Found
 0.11.2 not Found
 0.12 not Found
+8. not Found
 8.1 not Found
 8.2 not Found
 8.3 not Found
@@ -685,18 +692,21 @@ Validating TOC Tree...
 8.25.1 not Found
 8.25.2 not Found
 8.25.3 not Found
+8.26 not Found
 8.26.1 not Found
 8.26.2 not Found
+8.26.3 not Found
+8.27 not Found
 8.27.1 not Found
-TOC Coverage Metric: 0.819672131147541
+TOC Coverage Metric: 0.8137432188065099
 Running Post Correction...
-Found 551 TOC Headers
+Found 555 TOC Headers
 Running Post Correction...OK
 Validating TOC Tree...
 TOC Coverage Metric: 1.0
 Parsing: data/sample_rxi_10.pdf
 Initializing ZPDF for file: data/sample_rxi_10.pdf
-Found 270 TOC Headers
+Found 277 TOC Headers
 Building TOC Tree...
 Building TOC Tree...OK
 Validating TOC Tree...
@@ -748,122 +758,146 @@ TOC Coverage Metric: 1.0
   "data/sample_rxi_5.pdf": {
     "toc_headers_count": 174,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_1.pdf": {
-    "toc_headers_count": 64,
+    "toc_headers_count": 65,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_mac_4.pdf": {
-    "toc_headers_count": 188,
+    "toc_headers_count": 187,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 2
   },
   "data/sample_rxi_6.pdf": {
     "toc_headers_count": 187,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_13.pdf": {
     "toc_headers_count": 101,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_mac_5.pdf": {
-    "toc_headers_count": 223,
+    "toc_headers_count": 224,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_mac_2.pdf": {
     "toc_headers_count": 202,
     "coverage_metric": 0.9851485148514851,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_4.pdf": {
     "toc_headers_count": 170,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_mac_1.pdf": {
     "toc_headers_count": 86,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 2
   },
   "data/sample_mac_3.pdf": {
     "toc_headers_count": 387,
     "coverage_metric": 0.9689922480620154,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 1
   },
   "data/sample_mac_8.pdf": {
-    "toc_headers_count": 161,
+    "toc_headers_count": 165,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 5
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_7.pdf": {
     "toc_headers_count": 110,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_9.pdf": {
     "toc_headers_count": 146,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_mac_6.pdf": {
-    "toc_headers_count": 551,
+    "toc_headers_count": 555,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_8.pdf": {
     "toc_headers_count": 280,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_2.pdf": {
     "toc_headers_count": 119,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_3.pdf": {
     "toc_headers_count": 92,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_15.pdf": {
-    "toc_headers_count": 109,
+    "toc_headers_count": 110,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_11.pdf": {
     "toc_headers_count": 119,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_12.pdf": {
     "toc_headers_count": 409,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_mac_9.pdf": {
-    "toc_headers_count": 551,
+    "toc_headers_count": 555,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_10.pdf": {
-    "toc_headers_count": 270,
+    "toc_headers_count": 277,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_rxi_14.pdf": {
     "toc_headers_count": 60,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   },
   "data/sample_mac_7.pdf": {
     "toc_headers_count": 105,
     "coverage_metric": 1.0,
-    "untitled_labels_count": 0
+    "untitled_labels_count": 0,
+    "link_gap_count": 0
   }
 }
 Benchmarked Files: 24
