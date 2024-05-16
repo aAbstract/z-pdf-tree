@@ -1,0 +1,1249 @@
+[
+  {
+    "link_idx": "0",
+    "link_label": "0. DOCUMENT ADMINISTRATION AND CONTROL ",
+    "start_page": 6,
+    "end_page": 44,
+    "end_tag": "1",
+    "children": [
+      {
+        "link_idx": "0.3",
+        "link_label": "0.3 TABLE OF CONTENTS ",
+        "start_page": 6,
+        "end_page": 12,
+        "end_tag": "0.4",
+        "children": []
+      },
+      {
+        "link_idx": "0.4",
+        "link_label": "0.4 REVISION HIGHLIGHTS ",
+        "start_page": 12,
+        "end_page": 14,
+        "end_tag": "0.5",
+        "children": []
+      },
+      {
+        "link_idx": "0.5",
+        "link_label": "0.5 RECORD OF NORMAL REVISIONS ",
+        "start_page": 14,
+        "end_page": 16,
+        "end_tag": "0.6",
+        "children": []
+      },
+      {
+        "link_idx": "0.6",
+        "link_label": "0.6 RECORD OF TEMPORARY REVISIONS ",
+        "start_page": 16,
+        "end_page": 18,
+        "end_tag": "0.7",
+        "children": []
+      },
+      {
+        "link_idx": "0.7",
+        "link_label": "0.7 LIST OF EFFECTIVE PAGES ",
+        "start_page": 18,
+        "end_page": 20,
+        "end_tag": "0.8",
+        "children": []
+      },
+      {
+        "link_idx": "0.8",
+        "link_label": "0.8 DISTRIBUTION LIST ",
+        "start_page": 20,
+        "end_page": 22,
+        "end_tag": "0.9",
+        "children": []
+      },
+      {
+        "link_idx": "0.9",
+        "link_label": "0.9 DOCUMENT STRUCTURE AND HIERARCHY ",
+        "start_page": 22,
+        "end_page": 24,
+        "end_tag": "0.10",
+        "children": [
+          {
+            "link_idx": "0.9.2",
+            "link_label": "0.9.2 PUBLICATIONS HIERARCHY ",
+            "start_page": 23,
+            "end_page": 23,
+            "end_tag": "0.9.3",
+            "children": []
+          },
+          {
+            "link_idx": "0.9.3",
+            "link_label": "0.9.3 MANUAL OWNER ",
+            "start_page": 23,
+            "end_page": 23,
+            "end_tag": "0.9.4",
+            "children": []
+          },
+          {
+            "link_idx": "0.9.4",
+            "link_label": "0.9.4 DOCUMENT FORMAT AND STYLE GUIDE ",
+            "start_page": 23,
+            "end_page": 24,
+            "end_tag": "0.10",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "0.10",
+        "link_label": "0.10 REVISION CONTROL ",
+        "start_page": 24,
+        "end_page": 26,
+        "end_tag": "0.11",
+        "children": [
+          {
+            "link_idx": "0.10.1",
+            "link_label": "0.10.1 SYSTEM OF AMENDMENT ",
+            "start_page": 24,
+            "end_page": 26,
+            "end_tag": "0.11",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "0.11",
+        "link_label": "0.11 ABBREVIATIONS ACRONYMS  DEFINITIONS ",
+        "start_page": 26,
+        "end_page": 43,
+        "end_tag": "0.12",
+        "children": [
+          {
+            "link_idx": "0.11.1",
+            "link_label": "0.11.1 ABBREVIATIONS AND ACRONYMS ",
+            "start_page": 26,
+            "end_page": 32,
+            "end_tag": "0.11.2",
+            "children": []
+          },
+          {
+            "link_idx": "0.11.2",
+            "link_label": "0.11.2 DEFINITIONS ",
+            "start_page": 32,
+            "end_page": 43,
+            "end_tag": "0.12",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "0.12",
+        "link_label": "0.12 USE OF PROCEDURAL WORDS ",
+        "start_page": 43,
+        "end_page": 44,
+        "end_tag": "1",
+        "children": []
+      }
+    ]
+  },
+  {
+    "link_idx": "1",
+    "link_label": "1. ORGANIZATION AND RESPONSIBILITIES ",
+    "start_page": 44,
+    "end_page": 62,
+    "end_tag": "2",
+    "children": [
+      {
+        "link_idx": "1.1",
+        "link_label": "1.1 ORGANIZATION CHART ",
+        "start_page": 44,
+        "end_page": 44,
+        "end_tag": "1.2",
+        "children": []
+      },
+      {
+        "link_idx": "1.2",
+        "link_label": "1.2 ORGANIZATIONAL STRUCTURE ",
+        "start_page": 44,
+        "end_page": 46,
+        "end_tag": "1.3",
+        "children": []
+      },
+      {
+        "link_idx": "1.3",
+        "link_label": "1.3 MANAGEMENT PERSONNEL ",
+        "start_page": 46,
+        "end_page": 47,
+        "end_tag": "1.4",
+        "children": []
+      },
+      {
+        "link_idx": "1.4",
+        "link_label": "1.4 OPERATIONAL CONTROL ",
+        "start_page": 47,
+        "end_page": 48,
+        "end_tag": "1.5",
+        "children": [
+          {
+            "link_idx": "1.4.1",
+            "link_label": "1.4.1 OPERATIONAL CONTROL  DEFINITION AND SYSTEM ",
+            "start_page": 47,
+            "end_page": 47,
+            "end_tag": "1.4.2",
+            "children": []
+          },
+          {
+            "link_idx": "1.4.2",
+            "link_label": "1.4.2 OPERATIONAL CONTROL  AUTHORITY AND RESPONSIBILITY ",
+            "start_page": 47,
+            "end_page": 47,
+            "end_tag": "1.4.3",
+            "children": []
+          },
+          {
+            "link_idx": "1.4.3",
+            "link_label": "1.4.3 OVERALL RESPONSIBILITY FOR OPERATIONAL CONTROL ",
+            "start_page": 47,
+            "end_page": 48,
+            "end_tag": "1.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "1.5",
+        "link_label": "1.5 OPERATIONAL CONTROL CENTER PERSONNEL AUTHORITIES AND RESPONSIBILITIES ",
+        "start_page": 48,
+        "end_page": 53,
+        "end_tag": "1.6",
+        "children": [
+          {
+            "link_idx": "1.5.1",
+            "link_label": "1.5.1 OPERATION CONTROL CENTER AND CREWING MANAGER ",
+            "start_page": 48,
+            "end_page": 49,
+            "end_tag": "1.5.2",
+            "children": []
+          },
+          {
+            "link_idx": "1.5.2",
+            "link_label": "1.5.2 FLIGHT DISPATCHER ",
+            "start_page": 49,
+            "end_page": 51,
+            "end_tag": "1.5.3",
+            "children": []
+          },
+          {
+            "link_idx": "1.5.3",
+            "link_label": "1.5.3 FLIGHT DISPATCH INSTRUCTOR ",
+            "start_page": 51,
+            "end_page": 53,
+            "end_tag": "1.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "1.6",
+        "link_label": "1.6 FLIGHT DISPATCHER SHIFT SCHEDULING AND DUTY TIME LIMITATIONS ",
+        "start_page": 53,
+        "end_page": 55,
+        "end_tag": "1.7",
+        "children": [
+          {
+            "link_idx": "1.6.1",
+            "link_label": "1.6.1 SHIFT CHANGEOVER ",
+            "start_page": 53,
+            "end_page": 53,
+            "end_tag": "1.6.2",
+            "children": []
+          },
+          {
+            "link_idx": "1.6.2",
+            "link_label": "1.6.2 SHIFT LOGBOOK",
+            "start_page": 53,
+            "end_page": 54,
+            "end_tag": "1.6.3",
+            "children": []
+          },
+          {
+            "link_idx": "1.6.3",
+            "link_label": "1.6.3 SHIFT SCHEDULING ",
+            "start_page": 54,
+            "end_page": 55,
+            "end_tag": "1.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "1.7",
+        "link_label": "1.7 MANAGEMENT CONTROL ",
+        "start_page": 55,
+        "end_page": 57,
+        "end_tag": "1.8",
+        "children": [
+          {
+            "link_idx": "1.7.1",
+            "link_label": "1.7.1 PROVISION OF RESOURCES ",
+            "start_page": 55,
+            "end_page": 55,
+            "end_tag": "1.7.2",
+            "children": []
+          },
+          {
+            "link_idx": "1.7.2",
+            "link_label": "1.7.2 MAIN OFFICE  OCC ",
+            "start_page": 55,
+            "end_page": 55,
+            "end_tag": "1.7.3",
+            "children": []
+          },
+          {
+            "link_idx": "1.7.3",
+            "link_label": "1.7.3 MAINTENANCE BASE ",
+            "start_page": 55,
+            "end_page": 55,
+            "end_tag": "1.7.4",
+            "children": []
+          },
+          {
+            "link_idx": "1.7.4",
+            "link_label": "1.7.4 SUPPORT SERVICES INCLUDING TRANSPORTATION AND COMMUNICATION",
+            "start_page": 55,
+            "end_page": 56,
+            "end_tag": "1.7.5",
+            "children": []
+          },
+          {
+            "link_idx": "1.7.5",
+            "link_label": "1.7.5 COMMUNICATION",
+            "start_page": 56,
+            "end_page": 57,
+            "end_tag": "1.8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "1.8",
+        "link_label": "1.8 EMPLOYMENT POLICY ",
+        "start_page": 57,
+        "end_page": 58,
+        "end_tag": "1.9",
+        "children": [
+          {
+            "link_idx": "1.8.1",
+            "link_label": "1.8.1 GENERAL ",
+            "start_page": 57,
+            "end_page": 57,
+            "end_tag": "1.8.2",
+            "children": []
+          },
+          {
+            "link_idx": "1.8.2",
+            "link_label": "1.8.2 QUALIFICATION REQUIREMENTS ADMINISTRATIVE REQUIREMENTS ",
+            "start_page": 57,
+            "end_page": 58,
+            "end_tag": "1.9",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "1.9",
+        "link_label": "1.9 DESIGNATED COMMON LANGUAGES",
+        "start_page": 58,
+        "end_page": 59,
+        "end_tag": "1.10",
+        "children": []
+      },
+      {
+        "link_idx": "1.10",
+        "link_label": "1.10 OCC PERSONNELS GENERAL REGULATION AND POLICIES ",
+        "start_page": 59,
+        "end_page": 62,
+        "end_tag": "2",
+        "children": [
+          {
+            "link_idx": "1.10.1",
+            "link_label": "1.10.1 BEHAVIOR IN PUBLIC ",
+            "start_page": 59,
+            "end_page": 59,
+            "end_tag": "1.10.2",
+            "children": []
+          },
+          {
+            "link_idx": "1.10.2",
+            "link_label": "1.10.2 PERSONAL DOCUMENTS ",
+            "start_page": 59,
+            "end_page": 60,
+            "end_tag": "1.10.3",
+            "children": []
+          },
+          {
+            "link_idx": "1.10.3",
+            "link_label": "1.10.3 PSYCHOACTIVE SUBSTANCES DRUGS AND ALCOHOLIC DRINKS POLICY ",
+            "start_page": 60,
+            "end_page": 60,
+            "end_tag": "1.10.4",
+            "children": []
+          },
+          {
+            "link_idx": "1.10.4",
+            "link_label": "1.10.4 UNIFORM ",
+            "start_page": 60,
+            "end_page": 62,
+            "end_tag": "2",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link_idx": "2",
+    "link_label": "2. QUALIFICATION AND TRAINING REQUIREMENTS ",
+    "start_page": 62,
+    "end_page": 72,
+    "end_tag": "3",
+    "children": [
+      {
+        "link_idx": "2.1",
+        "link_label": "2.1 GENERAL POLICY ",
+        "start_page": 62,
+        "end_page": 63,
+        "end_tag": "2.2",
+        "children": []
+      },
+      {
+        "link_idx": "2.2",
+        "link_label": "2.2 OCC PERSONNEL QUALIFICATION REQUIREMENTS ",
+        "start_page": 63,
+        "end_page": 64,
+        "end_tag": "2.3",
+        "children": [
+          {
+            "link_idx": "2.2.1",
+            "link_label": "2.2.1 AIRCRAFT DISPATCHER ",
+            "start_page": 63,
+            "end_page": 63,
+            "end_tag": "2.2.2",
+            "children": []
+          },
+          {
+            "link_idx": "2.2.2",
+            "link_label": "2.2.2 SENIOR AIRCRAFT DISPATCHER ",
+            "start_page": 63,
+            "end_page": 63,
+            "end_tag": "2.2.3",
+            "children": []
+          },
+          {
+            "link_idx": "2.2.3",
+            "link_label": "2.2.3 OCC SUPERVISOR ",
+            "start_page": 63,
+            "end_page": 63,
+            "end_tag": "2.2.4",
+            "children": []
+          },
+          {
+            "link_idx": "2.2.4",
+            "link_label": "2.2.4 OPERATIONS CONTROL CENTER MANAGER ",
+            "start_page": 63,
+            "end_page": 63,
+            "end_tag": "2.2.5",
+            "children": []
+          },
+          {
+            "link_idx": "2.2.5",
+            "link_label": "2.2.5 FLIGHT DISPATCH INSTRUCTOR ",
+            "start_page": 63,
+            "end_page": 64,
+            "end_tag": "2.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "2.3",
+        "link_label": "2.3 ENGLISH LANGUAGE PROFICIENCY ",
+        "start_page": 64,
+        "end_page": 65,
+        "end_tag": "2.4",
+        "children": []
+      },
+      {
+        "link_idx": "2.4",
+        "link_label": "2.4 EMPLOYMENT ",
+        "start_page": 65,
+        "end_page": 66,
+        "end_tag": "2.5",
+        "children": []
+      },
+      {
+        "link_idx": "2.5",
+        "link_label": "2.5 CERTIFICATION",
+        "start_page": 66,
+        "end_page": 67,
+        "end_tag": "2.6",
+        "children": []
+      },
+      {
+        "link_idx": "2.6",
+        "link_label": "2.6 TRAINING REQUIREMENTS ",
+        "start_page": 67,
+        "end_page": 70,
+        "end_tag": "2.7",
+        "children": [
+          {
+            "link_idx": "2.6.1",
+            "link_label": "2.6.1 INITIAL NEW HIRE TRAINING INCLUDING BASIC INDOCTRINATION ",
+            "start_page": 67,
+            "end_page": 67,
+            "end_tag": "2.6.2",
+            "children": []
+          },
+          {
+            "link_idx": "2.6.2",
+            "link_label": "2.6.2 INITIAL OPERATING FAMILIARIZATION ",
+            "start_page": 67,
+            "end_page": 68,
+            "end_tag": "2.6.3",
+            "children": []
+          },
+          {
+            "link_idx": "2.6.3",
+            "link_label": "2.6.3 RECURRENT TRAINING ",
+            "start_page": 68,
+            "end_page": 69,
+            "end_tag": "2.6.4",
+            "children": []
+          },
+          {
+            "link_idx": "2.6.4",
+            "link_label": "2.6.4 REQUALIFICATION TRAINING ",
+            "start_page": 69,
+            "end_page": 70,
+            "end_tag": "2.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "2.7",
+        "link_label": "2.7 QUALIFICATION AND TRAINING RECORDS ",
+        "start_page": 70,
+        "end_page": 72,
+        "end_tag": "3",
+        "children": []
+      }
+    ]
+  },
+  {
+    "link_idx": "3",
+    "link_label": "3. FLIGHT DISPATCH SYSTEMS AND PROCEDURES ",
+    "start_page": 72,
+    "end_page": 100,
+    "end_tag": "4",
+    "children": [
+      {
+        "link_idx": "3.1",
+        "link_label": "3.1 GENERAL RULES ",
+        "start_page": 72,
+        "end_page": 74,
+        "end_tag": "3.2",
+        "children": []
+      },
+      {
+        "link_idx": "3.2",
+        "link_label": "3.2 FLIGHT PREPARATION PLANNING AND FLIGHT DISPATCH RELEASE ",
+        "start_page": 74,
+        "end_page": 78,
+        "end_tag": "3.3",
+        "children": [
+          {
+            "link_idx": "3.2.1",
+            "link_label": "3.2.1 GENERAL ",
+            "start_page": 74,
+            "end_page": 74,
+            "end_tag": "3.2.2",
+            "children": []
+          },
+          {
+            "link_idx": "3.2.2",
+            "link_label": "3.2.2 PILOT IN COMMAND  FLIGHT DISPATCHER SHARED SYSTEM ",
+            "start_page": 74,
+            "end_page": 74,
+            "end_tag": "3.2.3",
+            "children": []
+          },
+          {
+            "link_idx": "3.2.3",
+            "link_label": "3.2.3 FLIGHT PREPARATION AND PLANNING ",
+            "start_page": 74,
+            "end_page": 74,
+            "end_tag": "3.2.4",
+            "children": []
+          },
+          {
+            "link_idx": "3.2.4",
+            "link_label": "3.2.4 FLIGHT DISPATCH RELEASE ",
+            "start_page": 74,
+            "end_page": 74,
+            "end_tag": "3.2.5",
+            "children": []
+          },
+          {
+            "link_idx": "3.2.5",
+            "link_label": "3.2.5 WEATHER REPORTS AND FORECAST DOCUMENTS ",
+            "start_page": 74,
+            "end_page": 75,
+            "end_tag": "3.2.6",
+            "children": []
+          },
+          {
+            "link_idx": "3.2.6",
+            "link_label": "3.2.6 AIRPORT DATA AND INFORMATION ",
+            "start_page": 75,
+            "end_page": 75,
+            "end_tag": "3.2.7",
+            "children": []
+          },
+          {
+            "link_idx": "3.2.7",
+            "link_label": "3.2.7 FLIGHT DISPATCH RELEASE FORM CONTENTS AND ATTACHMENTS",
+            "start_page": 75,
+            "end_page": 77,
+            "end_tag": "3.2.8",
+            "children": []
+          },
+          {
+            "link_idx": "3.2.8",
+            "link_label": "3.2.8 FLIGHT DISPATCH RELEASE FORMS ",
+            "start_page": 77,
+            "end_page": 77,
+            "end_tag": "3.2.9",
+            "children": []
+          },
+          {
+            "link_idx": "3.2.9",
+            "link_label": "3.2.9 LOAD MANIFEST PREPARED BY STATION DEPARTMENT ",
+            "start_page": 77,
+            "end_page": 78,
+            "end_tag": "3.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "3.3",
+        "link_label": "3.3 SOURCES OF OBTAINING INFORMATION AND DATA ",
+        "start_page": 78,
+        "end_page": 80,
+        "end_tag": "3.4",
+        "children": [
+          {
+            "link_idx": "3.3.1",
+            "link_label": "3.3.1 METEOROLOGICAL INFORMATION AND AERONAUTICAL NOTICES TO AIRMEN INFORMATION",
+            "start_page": 78,
+            "end_page": 78,
+            "end_tag": "3.3.2",
+            "children": []
+          },
+          {
+            "link_idx": "3.3.2",
+            "link_label": "3.3.2 AIRPORT AERONAUTICAL DATA AND ANALYSIS ",
+            "start_page": 78,
+            "end_page": 79,
+            "end_tag": "3.3.3",
+            "children": []
+          },
+          {
+            "link_idx": "3.3.3",
+            "link_label": "3.3.3 FLIGHT PLANNING",
+            "start_page": 79,
+            "end_page": 79,
+            "end_tag": "3.3.4",
+            "children": []
+          },
+          {
+            "link_idx": "3.3.4",
+            "link_label": "3.3.4 FLIGHT DISPATCH OPERATION  SAFETY BULLETINS AND CIRCULARS ",
+            "start_page": 79,
+            "end_page": 80,
+            "end_tag": "3.4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "3.4",
+        "link_label": "3.4 SYSTEM  METHOD OF COMMUNICATION",
+        "start_page": 80,
+        "end_page": 81,
+        "end_tag": "3.5",
+        "children": [
+          {
+            "link_idx": "3.4.1",
+            "link_label": "3.4.1 GROUND COMMUNICATIONS ",
+            "start_page": 80,
+            "end_page": 80,
+            "end_tag": "3.4.2",
+            "children": []
+          },
+          {
+            "link_idx": "3.4.2",
+            "link_label": "3.4.2 AIR TO GROUND COMMUNICATION ",
+            "start_page": 80,
+            "end_page": 81,
+            "end_tag": "3.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "3.5",
+        "link_label": "3.5 PREFLIGHT BRIEFING ",
+        "start_page": 81,
+        "end_page": 82,
+        "end_tag": "3.6",
+        "children": [
+          {
+            "link_idx": "3.5.1",
+            "link_label": "3.5.1 CREW BRIEFING ",
+            "start_page": 81,
+            "end_page": 82,
+            "end_tag": "3.6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "3.6",
+        "link_label": "3.6 SIGNING THE FLIGHT DISPATCH RELEASE FOR ACCEPTANCE ",
+        "start_page": 82,
+        "end_page": 83,
+        "end_tag": "3.7",
+        "children": [
+          {
+            "link_idx": "3.6.1",
+            "link_label": "3.6.1 INFLIGHT RERELEASE",
+            "start_page": 82,
+            "end_page": 83,
+            "end_tag": "3.7",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "3.7",
+        "link_label": "3.7 AMENDMENT OF FLIGHT DISPATCH OR REDISPATCH ",
+        "start_page": 83,
+        "end_page": 85,
+        "end_tag": "3.8",
+        "children": [
+          {
+            "link_idx": "3.7.1",
+            "link_label": "3.7.1 NEW RELEASE ",
+            "start_page": 83,
+            "end_page": 84,
+            "end_tag": "3.7.2",
+            "children": []
+          },
+          {
+            "link_idx": "3.7.2",
+            "link_label": "3.7.2 AMENDED RELEASE ",
+            "start_page": 84,
+            "end_page": 85,
+            "end_tag": "3.8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "3.8",
+        "link_label": "3.8 DELIVERY OF FLIGHT DISPATCH RELEASE TO FLIGHT FOLLOWING ",
+        "start_page": 85,
+        "end_page": 86,
+        "end_tag": "3.9",
+        "children": []
+      },
+      {
+        "link_idx": "3.9",
+        "link_label": "3.9 DISPATCH RELEASE INFORMATION ",
+        "start_page": 86,
+        "end_page": 94,
+        "end_tag": "3.10",
+        "children": [
+          {
+            "link_idx": "3.9.1",
+            "link_label": "3.9.1 NOTAMS ",
+            "start_page": 86,
+            "end_page": 87,
+            "end_tag": "3.9.2",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.2",
+            "link_label": "3.9.2 AIRCRAFT PERFORMANCE AIRCRAFT EQUIPMENT FLIGHT PLANNING AND AIRPORT",
+            "start_page": 87,
+            "end_page": 87,
+            "end_tag": "3.9.3",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.3",
+            "link_label": "3.9.3 TAKEOFF WEIGHT DETERMINATION",
+            "start_page": 87,
+            "end_page": 88,
+            "end_tag": "3.9.4",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.4",
+            "link_label": "3.9.4 WEATHER INFORMATION FOR FLIGHT OPERATIONAL CONTROL ",
+            "start_page": 88,
+            "end_page": 89,
+            "end_tag": "3.9.5",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.5",
+            "link_label": "3.9.5 SELECTION OF AIRPORTS ",
+            "start_page": 89,
+            "end_page": 89,
+            "end_tag": "3.9.6",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.6",
+            "link_label": "3.9.6 AIRWORTHINESS OF AIRCRAFT ",
+            "start_page": 89,
+            "end_page": 90,
+            "end_tag": "3.9.7",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.7",
+            "link_label": "3.9.7 MELCDL LIMITATIONS IN DISPATCH RELEASE ",
+            "start_page": 90,
+            "end_page": 90,
+            "end_tag": "3.9.8",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.8",
+            "link_label": "3.9.8 RELEASE UNDER VFR ",
+            "start_page": 90,
+            "end_page": 90,
+            "end_tag": "3.9.9",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.9",
+            "link_label": "3.9.9 RELEASE UNDER IFR ",
+            "start_page": 90,
+            "end_page": 90,
+            "end_tag": "3.9.10",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.10",
+            "link_label": "3.9.10 RELEASE OVER EXTENDED WATER ",
+            "start_page": 90,
+            "end_page": 91,
+            "end_tag": "3.9.11",
+            "children": []
+          },
+          {
+            "link_idx": "3.9.11",
+            "link_label": "3.9.11 FUEL POLICY",
+            "start_page": 91,
+            "end_page": 94,
+            "end_tag": "3.10",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "3.10",
+        "link_label": "3.10 DISPATCH DOCUMENTATION AND RECORD SYSTEM",
+        "start_page": 94,
+        "end_page": 100,
+        "end_tag": "4",
+        "children": [
+          {
+            "link_idx": "3.10.1",
+            "link_label": "3.10.1 DOCUMENTATION SYSTEM  GENERAL ",
+            "start_page": 94,
+            "end_page": 94,
+            "end_tag": "3.10.2",
+            "children": []
+          },
+          {
+            "link_idx": "3.10.2",
+            "link_label": "3.10.2 MANAGEMENT AND CONTROL OF OM ",
+            "start_page": 94,
+            "end_page": 95,
+            "end_tag": "3.10.3",
+            "children": []
+          },
+          {
+            "link_idx": "3.10.3",
+            "link_label": "3.10.3 RECEIPT OF DOCUMENTS ",
+            "start_page": 95,
+            "end_page": 95,
+            "end_tag": "3.10.4",
+            "children": []
+          },
+          {
+            "link_idx": "3.10.4",
+            "link_label": "3.10.4 CONTENT OF DOCUMENTATION",
+            "start_page": 95,
+            "end_page": 95,
+            "end_tag": "3.10.5",
+            "children": []
+          },
+          {
+            "link_idx": "3.10.5",
+            "link_label": "3.10.5 USE OF ELECTRONIC SYSTEM ",
+            "start_page": 95,
+            "end_page": 95,
+            "end_tag": "3.10.6",
+            "children": []
+          },
+          {
+            "link_idx": "3.10.6",
+            "link_label": "3.10.6 SYSTEM OF JEPPESEN AIRWAY MANUAL REVISIONS",
+            "start_page": 95,
+            "end_page": 96,
+            "end_tag": "3.10.7",
+            "children": []
+          },
+          {
+            "link_idx": "3.10.7",
+            "link_label": "3.10.7 RECORDS SYSTEM",
+            "start_page": 96,
+            "end_page": 97,
+            "end_tag": "3.10.8",
+            "children": []
+          },
+          {
+            "link_idx": "3.10.8",
+            "link_label": "3.10.8 OCC OFFICE DOCUMENTS",
+            "start_page": 97,
+            "end_page": 100,
+            "end_tag": "4",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link_idx": "4",
+    "link_label": "4. FLIGHT FOLLOWING POLICIES AND PROCEDURES ",
+    "start_page": 100,
+    "end_page": 108,
+    "end_tag": "5",
+    "children": [
+      {
+        "link_idx": "4.1",
+        "link_label": "4.1 GENERAL RULES ",
+        "start_page": 100,
+        "end_page": 101,
+        "end_tag": "4.2",
+        "children": []
+      },
+      {
+        "link_idx": "4.2",
+        "link_label": "4.2 EMERGENCY SITUATION ",
+        "start_page": 101,
+        "end_page": 102,
+        "end_tag": "4.3",
+        "children": [
+          {
+            "link_idx": "4.2.1",
+            "link_label": "4.2.1 EMERGENCY AUTHORITY ",
+            "start_page": 101,
+            "end_page": 102,
+            "end_tag": "4.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "4.3",
+        "link_label": "4.3 FLIGHT MONITORING ",
+        "start_page": 102,
+        "end_page": 103,
+        "end_tag": "4.4",
+        "children": []
+      },
+      {
+        "link_idx": "4.4",
+        "link_label": "4.4 FLIGHT FOLLOWING PROCEDURES ",
+        "start_page": 103,
+        "end_page": 105,
+        "end_tag": "4.5",
+        "children": [
+          {
+            "link_idx": "4.4.1",
+            "link_label": "4.4.1 DISPATCHERS REQUIREMENT TO FLIGHT FOLLOWING ",
+            "start_page": 103,
+            "end_page": 103,
+            "end_tag": "4.4.2",
+            "children": []
+          },
+          {
+            "link_idx": "4.4.2",
+            "link_label": "4.4.2 MUKAMALAH AVIATION DISPATCH COMPUTER PROGRAM ",
+            "start_page": 103,
+            "end_page": 104,
+            "end_tag": "4.4.3",
+            "children": []
+          },
+          {
+            "link_idx": "4.4.3",
+            "link_label": "4.4.3 TRACKING FLIGHTS",
+            "start_page": 104,
+            "end_page": 104,
+            "end_tag": "4.4.4",
+            "children": []
+          },
+          {
+            "link_idx": "4.4.4",
+            "link_label": "4.4.4 DELAYEDCANCELLED FLIGHT PROCEDURES ",
+            "start_page": 104,
+            "end_page": 104,
+            "end_tag": "4.4.5",
+            "children": []
+          },
+          {
+            "link_idx": "4.4.5",
+            "link_label": "4.4.5 MAINTENANCE DELAYS ",
+            "start_page": 104,
+            "end_page": 104,
+            "end_tag": "4.4.6",
+            "children": []
+          },
+          {
+            "link_idx": "4.4.6",
+            "link_label": "4.4.6 AIRCRAFT SUBSTITUTIONS ",
+            "start_page": 104,
+            "end_page": 104,
+            "end_tag": "4.4.7",
+            "children": []
+          },
+          {
+            "link_idx": "4.4.7",
+            "link_label": "4.4.7 NEXT DAY SET UP ",
+            "start_page": 104,
+            "end_page": 105,
+            "end_tag": "4.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "4.5",
+        "link_label": "4.5 MANUAL FLIGHT FOLLOW PROCESS ",
+        "start_page": 105,
+        "end_page": 106,
+        "end_tag": "4.6",
+        "children": []
+      },
+      {
+        "link_idx": "4.6",
+        "link_label": "4.6 AMENDMENT OF FLIGHT DISPATCH RELEASE ",
+        "start_page": 106,
+        "end_page": 108,
+        "end_tag": "5",
+        "children": [
+          {
+            "link_idx": "4.6.1",
+            "link_label": "4.6.1 CONCEPT ",
+            "start_page": 106,
+            "end_page": 106,
+            "end_tag": "4.6.2",
+            "children": []
+          },
+          {
+            "link_idx": "4.6.2",
+            "link_label": "4.6.2 UNPLANNED REDISPATCH ",
+            "start_page": 106,
+            "end_page": 106,
+            "end_tag": "4.6.3",
+            "children": []
+          },
+          {
+            "link_idx": "4.6.3",
+            "link_label": "4.6.3 REROUTE TO OTHER DESTINATION AIRPORT DUE TO COMMERCIAL OPERATIONAL OR",
+            "start_page": 106,
+            "end_page": 107,
+            "end_tag": "4.6.4",
+            "children": []
+          },
+          {
+            "link_idx": "4.6.4",
+            "link_label": "4.6.4 FLIGHT COMPLETION AND RECORD KEEPING OF DOCUMENTS ",
+            "start_page": 107,
+            "end_page": 108,
+            "end_tag": "5",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "link_idx": "5",
+    "link_label": "5. EMERGENCY RESPONSE PLAN ",
+    "start_page": 108,
+    "end_page": 118,
+    "end_tag": "6",
+    "children": [
+      {
+        "link_idx": "5.1",
+        "link_label": "5.1 GENERAL ",
+        "start_page": 108,
+        "end_page": 109,
+        "end_tag": "5.2",
+        "children": []
+      },
+      {
+        "link_idx": "5.2",
+        "link_label": "5.2 EMERGENCY POLICIES ",
+        "start_page": 109,
+        "end_page": 111,
+        "end_tag": "5.3",
+        "children": [
+          {
+            "link_idx": "5.2.1",
+            "link_label": "5.2.1 UNSAFE CONDITIONS ",
+            "start_page": 109,
+            "end_page": 110,
+            "end_tag": "5.2.2",
+            "children": []
+          },
+          {
+            "link_idx": "5.2.2",
+            "link_label": "5.2.2 CAPTAIN PIC ",
+            "start_page": 110,
+            "end_page": 110,
+            "end_tag": "5.2.3",
+            "children": []
+          },
+          {
+            "link_idx": "5.2.3",
+            "link_label": "5.2.3 DISPATCHER ",
+            "start_page": 110,
+            "end_page": 110,
+            "end_tag": "5.2.4",
+            "children": []
+          },
+          {
+            "link_idx": "5.2.4",
+            "link_label": "5.2.4 NOTIFICATION AND REPORTING ",
+            "start_page": 110,
+            "end_page": 110,
+            "end_tag": "5.2.5",
+            "children": []
+          },
+          {
+            "link_idx": "5.2.5",
+            "link_label": "5.2.5 REPORTING HAZARDOUS CONDITIONS AND IRREGULARITIES ",
+            "start_page": 110,
+            "end_page": 111,
+            "end_tag": "5.3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "5.3",
+        "link_label": "5.3 GENERAL POLICY ",
+        "start_page": 111,
+        "end_page": 112,
+        "end_tag": "5.4",
+        "children": []
+      },
+      {
+        "link_idx": "5.4",
+        "link_label": "5.4 OPERATIONAL CONTROL CENTER ",
+        "start_page": 112,
+        "end_page": 115,
+        "end_tag": "5.5",
+        "children": [
+          {
+            "link_idx": "5.4.1",
+            "link_label": "5.4.1 COMPANY EMERGENCIES ",
+            "start_page": 112,
+            "end_page": 112,
+            "end_tag": "5.4.2",
+            "children": []
+          },
+          {
+            "link_idx": "5.4.2",
+            "link_label": "5.4.2 GENERAL ",
+            "start_page": 112,
+            "end_page": 112,
+            "end_tag": "5.4.3",
+            "children": []
+          },
+          {
+            "link_idx": "5.4.3",
+            "link_label": "5.4.3 DISPATCHER ",
+            "start_page": 112,
+            "end_page": 113,
+            "end_tag": "5.4.4",
+            "children": []
+          },
+          {
+            "link_idx": "5.4.4",
+            "link_label": "5.4.4 AIR TRAFFIC CONTROL ",
+            "start_page": 113,
+            "end_page": 115,
+            "end_tag": "5.5",
+            "children": []
+          }
+        ]
+      },
+      {
+        "link_idx": "5.5",
+        "link_label": "5.5 OVERDUE AIRCRAFT ",
+        "start_page": 115,
+        "end_page": 116,
+        "end_tag": "5.6",
+        "children": []
+      },
+      {
+        "link_idx": "5.6",
+        "link_label": "5.6 AIRCRAFT COMMUNICATION FAILURE ",
+        "start_page": 116,
+        "end_page": 118,
+        "end_tag": "6",
+        "children": []
+      }
+    ]
+  },
+  {
+    "link_idx": "6",
+    "link_label": "6. SAMPLE FORMS ",
+    "start_page": 118,
+    "end_page": -1,
+    "end_tag": null,
+    "children": [
+      {
+        "link_idx": "6.1",
+        "link_label": "6.1 FLIGHT DISPATCH RELEASE FORMS ",
+        "start_page": 118,
+        "end_page": 119,
+        "end_tag": "6.2",
+        "children": []
+      },
+      {
+        "link_idx": "6.2",
+        "link_label": "6.2 LOAD MANIFEST ",
+        "start_page": 119,
+        "end_page": -1,
+        "end_tag": null,
+        "children": []
+      }
+    ]
+  }
+]

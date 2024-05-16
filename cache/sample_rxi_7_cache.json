@@ -64,7 +64,7 @@
       },
       {
         "link_idx": "0.8",
-        "link_label": "0.8 LIST OF COMPLIANCE ENTRIES ............................................................................................................... 021 0.9MANAGEMENT APPROVAL ....................................................................................................................... 023",
+        "link_label": "0.8 LIST OF COMPLIANCE ENTRIES ",
         "start_page": 20,
         "end_page": 22,
         "end_tag": "0.9",
@@ -185,7 +185,7 @@
           },
           {
             "link_idx": "0.13.2",
-            "link_label": "0.13.2 MANUAL HOLDER RESPONSIBILITY .................................................................................................... 033 0.13.3DISTRIBUTION LIST AND AVAILABILITY ............................................................................................. 033",
+            "link_label": "0.13.2 MANUAL HOLDER RESPONSIBILITY ",
             "start_page": 32,
             "end_page": 32,
             "end_tag": "0.13.3",
@@ -457,7 +457,7 @@
       },
       {
         "link_idx": "3.6",
-        "link_label": "3.6 FDAP REVIEW GROUP ................................................................................................................................... 36 3.6.1FDAP GATE KEEPER FLIGHT CREW LIAISON PERSONNEL ........................................................... 38",
+        "link_label": "3.6 FDAP REVIEW GROUP ",
         "start_page": 55,
         "end_page": 58,
         "end_tag": "3.7",
@@ -612,7 +612,7 @@
         "children": [
           {
             "link_idx": "4.7.1",
-            "link_label": "4.7.1 ADJUSTMENTS AND CHANGES TO THRESHOLDS ........................................................................ 411 8EXCEEDANCE DETECTION AND ANALYSIS ......................................................................................... 413",
+            "link_label": "4.7.1 ADJUSTMENTS AND CHANGES TO THRESHOLDS ",
             "start_page": 70,
             "end_page": 72,
             "end_tag": "4.8",
@@ -737,7 +737,7 @@
       },
       {
         "link_idx": "7.2",
-        "link_label": "7.2 DATA STORAGE RETENTION AND DEIDENTIFICATION POLICY ............................................... 72 7.3PROCEDURES FOR IMPLEMENTING AND AUDITING SECURITY MECHANISMS OF DATA 73",
+        "link_label": "7.2 DATA STORAGE RETENTION AND DEIDENTIFICATION POLICY ",
         "start_page": 87,
         "end_page": 88,
         "end_tag": "7.3",
@@ -829,7 +829,7 @@
     "children": [
       {
         "link_idx": "10.1",
-        "link_label": "10.1 EVENT LIST B787............................................................................................................................................ 101",
+        "link_label": "10.1 EVENT LIST B787",
         "start_page": 96,
         "end_page": 97,
         "end_tag": "10.2",

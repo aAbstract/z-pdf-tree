@@ -3,7 +3,6 @@ import re
 import string
 from typing import Optional
 from pydantic import BaseModel
-from collections import Counter
 
 
 class TocLink(BaseModel):
@@ -38,7 +37,15 @@ class ZPDF:
     _last_link_idx: str
 
     @staticmethod
+    def _toc_dots_clean(text: str) -> str:
+        toc_dots_pattern = '.' * 5
+        if toc_dots_pattern in text:
+            return text.split(toc_dots_pattern)[0]
+        return text
+
+    @staticmethod
     def _link_pattern_match(link_text: str) -> tuple[str, str] | None:
+        link_text = ZPDF._toc_dots_clean(link_text)
         # link_text contains chars and digits: T3E2ST, B737800
         if re.findall(r'\b(?=\w*\d)(?=\w*[A-Za-z])[A-Za-z0-9]+\b', link_text):
             idx = link_text.split(' ')[0]
@@ -194,10 +201,10 @@ class ZPDF:
             lines = toc_page_text.split('\n')
             basic_search_res = basic_search(lines)
             if basic_search_res:
-                return basic_search_res
+                return ZPDF._toc_dots_clean(basic_search_res)
             advanced_search_res = advanced_search(lines)
             if advanced_search_res:
-                return advanced_search_res
+                return ZPDF._toc_dots_clean(advanced_search_res)
 
         print('Can not Find Unlinked Index', link_idx)
         self.untitled_labels_count += 1

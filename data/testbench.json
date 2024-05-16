@@ -129,10 +129,10 @@
     },
     {
         "file_path": "data/sample_mac_6.pdf",
-        "toc_key": "8.10.7",
-        "start_page": 327,
-        "end_page": 327,
-        "end_tag": "8.10.8",
-        "text_file_path": "data/sample_mac_6_8.10.7.txt"
+        "toc_key": "8.9.3",
+        "start_page": 315,
+        "end_page": 315,
+        "end_tag": "8.9.4",
+        "text_file_path": "data/sample_mac_6_8.9.3.txt"
     }
 ]

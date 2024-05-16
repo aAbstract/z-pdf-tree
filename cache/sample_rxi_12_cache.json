@@ -1,7 +1,7 @@
 [
   {
     "link_idx": "0",
-    "link_label": "0 FRONT MATTER ................................................................................................................ 03 0.1TABLE OF CONTENTS ................................................................................................................................. 03",
+    "link_label": "0 FRONT MATTER ",
     "start_page": 2,
     "end_page": 114,
     "end_tag": "1",
@@ -260,14 +260,14 @@
     "children": [
       {
         "link_idx": "1.1",
-        "link_label": "1.1 RIYADH AIR ORGANIZATION STRUCTURE ......................................................................................... 11 1.1.1NOMENCLATURE FOR NOMINATED POST HOLDER POSITIONS .............................................. 11",
+        "link_label": "1.1 RIYADH AIR ORGANIZATION STRUCTURE ",
         "start_page": 114,
         "end_page": 116,
         "end_tag": "1.2",
         "children": [
           {
             "link_idx": "1.1.1",
-            "link_label": "1.1.1 NOMENCLATURE FOR NOMINATED POST HOLDER POSITIONS .............................................. 11 2NOMINATED MANAGEMENT PERSONNEL ........................................................................................ 13",
+            "link_label": "1.1.1 NOMENCLATURE FOR NOMINATED POST HOLDER POSITIONS ",
             "start_page": 114,
             "end_page": 116,
             "end_tag": "1.2",
@@ -277,14 +277,14 @@
       },
       {
         "link_idx": "1.2",
-        "link_label": "1.2 NOMINATED MANAGEMENT PERSONNEL ........................................................................................ 13 1.2.1NOMINATED MANAGEMENT PERSONNEL CHANGE NOTIFICATION ..................................... 13",
+        "link_label": "1.2 NOMINATED MANAGEMENT PERSONNEL ",
         "start_page": 116,
         "end_page": 119,
         "end_tag": "1.3",
         "children": [
           {
             "link_idx": "1.2.1",
-            "link_label": "1.2.1 NOMINATED MANAGEMENT PERSONNEL CHANGE NOTIFICATION ..................................... 13 1.2.2DEPUTIZING RULES FOR NOMINATED AND FLIGHT OPERATIONS MANAGEMENT",
+            "link_label": "1.2.1 NOMINATED MANAGEMENT PERSONNEL CHANGE NOTIFICATION ",
             "start_page": 116,
             "end_page": 116,
             "end_tag": "1.2.2",
@@ -531,7 +531,7 @@
         "children": [
           {
             "link_idx": "2.2.1",
-            "link_label": "2.2.1 OPERATIONAL NOTICES ........................................................................................................................... 28 3OPERATIONAL CONTROL ...................................................................................................................... 210",
+            "link_label": "2.2.1 OPERATIONAL NOTICES ",
             "start_page": 149,
             "end_page": 151,
             "end_tag": "2.3",
@@ -541,14 +541,14 @@
       },
       {
         "link_idx": "2.3",
-        "link_label": "2.3 OPERATIONAL CONTROL ...................................................................................................................... 210 2.3.1GENERAL ...................................................................................................................................................... 210",
+        "link_label": "2.3 OPERATIONAL CONTROL ",
         "start_page": 151,
         "end_page": 153,
         "end_tag": "2.4",
         "children": [
           {
             "link_idx": "2.3.1",
-            "link_label": "2.3.1 GENERAL ...................................................................................................................................................... 210 2.3.2OPERATIONAL CONTROL MANAGEMENT STRUCTURE ............................................................. 210",
+            "link_label": "2.3.1 GENERAL ",
             "start_page": 151,
             "end_page": 151,
             "end_tag": "2.3.2",
@@ -556,7 +556,7 @@
           },
           {
             "link_idx": "2.3.2",
-            "link_label": "2.3.2 OPERATIONAL CONTROL MANAGEMENT STRUCTURE ............................................................. 210 2.3.3RESPONSIBILITY FOR THE OPERATIONAL CONTROL OF EACH FLIGHT ............................... 211",
+            "link_label": "2.3.2 OPERATIONAL CONTROL MANAGEMENT STRUCTURE ",
             "start_page": 151,
             "end_page": 152,
             "end_tag": "2.3.3",
@@ -564,7 +564,7 @@
           },
           {
             "link_idx": "2.3.3",
-            "link_label": "2.3.3 RESPONSIBILITY FOR THE OPERATIONAL CONTROL OF EACH FLIGHT ............................... 211 4DISPATCH RELEASE SYSTEM ................................................................................................................. 212",
+            "link_label": "2.3.3 RESPONSIBILITY FOR THE OPERATIONAL CONTROL OF EACH FLIGHT ",
             "start_page": 152,
             "end_page": 153,
             "end_tag": "2.4",
@@ -821,7 +821,7 @@
         "children": [
           {
             "link_idx": "3.6.1",
-            "link_label": "3.6.1 FLIGHT DATA ANALYSIS PROGRAM ..................................................................................................... 37 3.6.2EMERGENCY RESPONSE PLANNING .................................................................................................... 38",
+            "link_label": "3.6.1 FLIGHT DATA ANALYSIS PROGRAM ",
             "start_page": 170,
             "end_page": 171,
             "end_tag": "3.6.2",
@@ -829,7 +829,7 @@
           },
           {
             "link_idx": "3.6.2",
-            "link_label": "3.6.2 EMERGENCY RESPONSE PLANNING .................................................................................................... 38 7SAFETY PROMOTION ................................................................................................................................. 39",
+            "link_label": "3.6.2 EMERGENCY RESPONSE PLANNING ",
             "start_page": 171,
             "end_page": 172,
             "end_tag": "3.7",
@@ -839,7 +839,7 @@
       },
       {
         "link_idx": "3.7",
-        "link_label": "3.7 SAFETY PROMOTION ................................................................................................................................. 39 3.8FATIGUE RISK MANAGEMENT SYSTEM FRMS ............................................................................. 310",
+        "link_label": "3.7 SAFETY PROMOTION ",
         "start_page": 172,
         "end_page": 173,
         "end_tag": "3.8",
@@ -847,7 +847,7 @@
       },
       {
         "link_idx": "3.8",
-        "link_label": "3.8 FATIGUE RISK MANAGEMENT SYSTEM FRMS ............................................................................. 310 3.9SMS DOCUMENTATION AND RECORD KEEPING ......................................................................... 311",
+        "link_label": "3.8 FATIGUE RISK MANAGEMENT SYSTEM FRMS ",
         "start_page": 173,
         "end_page": 174,
         "end_tag": "3.9",
@@ -855,7 +855,7 @@
       },
       {
         "link_idx": "3.9",
-        "link_label": "3.9 SMS DOCUMENTATION AND RECORD KEEPING ......................................................................... 311 3.9.1GENERAL DOCUMENTATION REQUIREMENTS ............................................................................. 311",
+        "link_label": "3.9 SMS DOCUMENTATION AND RECORD KEEPING ",
         "start_page": 174,
         "end_page": 176,
         "end_tag": "4",
@@ -1111,7 +1111,7 @@
           },
           {
             "link_idx": "5.3.4",
-            "link_label": "5.3.4 PILOT IN COMMAND QUALIFICATIONS ............................................................................................. 55 4SPECIAL AREAS AND AERODROMES .................................................................................................... 57",
+            "link_label": "5.3.4 PILOT IN COMMAND QUALIFICATIONS ",
             "start_page": 188,
             "end_page": 190,
             "end_tag": "5.4",
@@ -1121,14 +1121,14 @@
       },
       {
         "link_idx": "5.4",
-        "link_label": "5.4 SPECIAL AREAS AND AERODROMES .................................................................................................... 57 5.4.1SPECIAL AIRPORTS QUALIFICATION .................................................................................................... 57",
+        "link_label": "5.4 SPECIAL AREAS AND AERODROMES ",
         "start_page": 190,
         "end_page": 191,
         "end_tag": "5.5",
         "children": [
           {
             "link_idx": "5.4.1",
-            "link_label": "5.4.1 SPECIAL AIRPORTS QUALIFICATION .................................................................................................... 57 5.4.2DESIGNATED SPECIAL AIRPORTS .......................................................................................................... 57",
+            "link_label": "5.4.1 SPECIAL AIRPORTS QUALIFICATION ",
             "start_page": 190,
             "end_page": 190,
             "end_tag": "5.4.2",
@@ -1136,7 +1136,7 @@
           },
           {
             "link_idx": "5.4.2",
-            "link_label": "5.4.2 DESIGNATED SPECIAL AIRPORTS .......................................................................................................... 57 5OPERATIONAL EXPERIENCE RESTRICTIONS ...................................................................................... 58",
+            "link_label": "5.4.2 DESIGNATED SPECIAL AIRPORTS ",
             "start_page": 190,
             "end_page": 191,
             "end_tag": "5.5",
@@ -1146,7 +1146,7 @@
       },
       {
         "link_idx": "5.5",
-        "link_label": "5.5 OPERATIONAL EXPERIENCE RESTRICTIONS ...................................................................................... 58 5.5.1INCREASED IFR LANDING WEATHER MINIMUMS........................................................................... 58",
+        "link_label": "5.5 OPERATIONAL EXPERIENCE RESTRICTIONS ",
         "start_page": 191,
         "end_page": 192,
         "end_tag": "5.6",
@@ -1401,7 +1401,7 @@
           },
           {
             "link_idx": "6.5.5",
-            "link_label": "6.5.5 SCUBA DIVING ........................................................................................................................................... 611 6.5.6BLOODBONE MARROW DONATION ............................................................................................... 611",
+            "link_label": "6.5.5 SCUBA DIVING ",
             "start_page": 206,
             "end_page": 206,
             "end_tag": "6.5.6",
@@ -1409,7 +1409,7 @@
           },
           {
             "link_idx": "6.5.6",
-            "link_label": "6.5.6 BLOODBONE MARROW DONATION ............................................................................................... 611 6.5.7MEAL PRECAUTIONS ............................................................................................................................... 612",
+            "link_label": "6.5.6 BLOODBONE MARROW DONATION ",
             "start_page": 206,
             "end_page": 207,
             "end_tag": "6.5.7",
@@ -1417,7 +1417,7 @@
           },
           {
             "link_idx": "6.5.7",
-            "link_label": "6.5.7 MEAL PRECAUTIONS ............................................................................................................................... 612 6.5.8SLEEP AND REST ....................................................................................................................................... 612",
+            "link_label": "6.5.7 MEAL PRECAUTIONS ",
             "start_page": 207,
             "end_page": 207,
             "end_tag": "6.5.8",
@@ -1425,7 +1425,7 @@
           },
           {
             "link_idx": "6.5.8",
-            "link_label": "6.5.8 SLEEP AND REST ....................................................................................................................................... 612 6.5.9SURGICAL OPERATIONS ......................................................................................................................... 612",
+            "link_label": "6.5.8 SLEEP AND REST ",
             "start_page": 207,
             "end_page": 207,
             "end_tag": "6.5.9",
@@ -1433,7 +1433,7 @@
           },
           {
             "link_idx": "6.5.9",
-            "link_label": "6.5.9 SURGICAL OPERATIONS ......................................................................................................................... 612 6.5.10IMMUNIZATION ........................................................................................................................................ 612",
+            "link_label": "6.5.9 SURGICAL OPERATIONS ",
             "start_page": 207,
             "end_page": 207,
             "end_tag": "6.5.10",
@@ -1687,7 +1687,7 @@
           },
           {
             "link_idx": "7.1.6",
-            "link_label": "7.1.6 FLIGHT DUTY PERIOD  AUGMENTED FLIGHT CREW ..................................................................... 74 7.1.7FLIGHT DUTY PERIOD EXTENSIONS ..................................................................................................... 75",
+            "link_label": "7.1.6 FLIGHT DUTY PERIOD  AUGMENTED FLIGHT CREW ",
             "start_page": 223,
             "end_page": 224,
             "end_tag": "7.1.7",
@@ -1695,7 +1695,7 @@
           },
           {
             "link_idx": "7.1.7",
-            "link_label": "7.1.7 FLIGHT DUTY PERIOD EXTENSIONS ..................................................................................................... 75 7.1.8RESERVE STATUS .......................................................................................................................................... 76",
+            "link_label": "7.1.7 FLIGHT DUTY PERIOD EXTENSIONS ",
             "start_page": 224,
             "end_page": 225,
             "end_tag": "7.1.8",
@@ -1703,7 +1703,7 @@
           },
           {
             "link_idx": "7.1.8",
-            "link_label": "7.1.8 RESERVE STATUS .......................................................................................................................................... 76 7.1.9CUMULATIVE LIMITATIONS ..................................................................................................................... 77",
+            "link_label": "7.1.8 RESERVE STATUS ",
             "start_page": 225,
             "end_page": 226,
             "end_tag": "7.1.9",
@@ -1711,7 +1711,7 @@
           },
           {
             "link_idx": "7.1.9",
-            "link_label": "7.1.9 CUMULATIVE LIMITATIONS ..................................................................................................................... 77 7.1.10REST PERIOD .................................................................................................................................................. 77",
+            "link_label": "7.1.9 CUMULATIVE LIMITATIONS ",
             "start_page": 226,
             "end_page": 226,
             "end_tag": "7.1.10",
@@ -1719,7 +1719,7 @@
           },
           {
             "link_idx": "7.1.10",
-            "link_label": "7.1.10 REST PERIOD .................................................................................................................................................. 77 7.1.11CONSECUTIVE NIGHT TIME OPERATIONS ......................................................................................... 78",
+            "link_label": "7.1.10 REST PERIOD ",
             "start_page": 226,
             "end_page": 227,
             "end_tag": "7.1.11",
@@ -1964,7 +1964,7 @@
           },
           {
             "link_idx": "8.3.4",
-            "link_label": "8.3.4 ALTITUDE ALERTING SYSTEM PROCEDURES .................................................................................. 870 8.3.5GROUND PROXIMITY WARNING SYSTEM GPWS PROCEDURES ......................................... 870",
+            "link_label": "8.3.4 ALTITUDE ALERTING SYSTEM PROCEDURES ",
             "start_page": 303,
             "end_page": 303,
             "end_tag": "8.3.5",
@@ -1972,7 +1972,7 @@
           },
           {
             "link_idx": "8.3.5",
-            "link_label": "8.3.5 GROUND PROXIMITY WARNING SYSTEM GPWS PROCEDURES ......................................... 870 8.3.6TRAFFIC COLLISION AVOIDANCE SYSTEM TCASAIRBORNE COLLISION AVOIDANCE",
+            "link_label": "8.3.5 GROUND PROXIMITY WARNING SYSTEM GPWS PROCEDURES ",
             "start_page": 303,
             "end_page": 304,
             "end_tag": "8.3.6",
@@ -1988,7 +1988,7 @@
           },
           {
             "link_idx": "8.3.7",
-            "link_label": "8.3.7 POLICY AND PROCEDURES FOR INFLIGHT FUEL MANAGEMENT ........................................ 872 8.3.8ADVERSE AND POTENTIALLY HAZARDOUS ATMOSPHERIC CONDITIONS ........................ 873",
+            "link_label": "8.3.7 POLICY AND PROCEDURES FOR INFLIGHT FUEL MANAGEMENT ",
             "start_page": 305,
             "end_page": 306,
             "end_tag": "8.3.8",
@@ -2248,7 +2248,7 @@
         "children": [
           {
             "link_idx": "8.7.1",
-            "link_label": "8.7.1 GENERAL .................................................................................................................................................... 8131 8.7.2TYPES OF NONREVENUE FLIGHTS .................................................................................................. 8133",
+            "link_label": "8.7.1 GENERAL ",
             "start_page": 364,
             "end_page": 366,
             "end_tag": "8.7.2",
@@ -2256,7 +2256,7 @@
           },
           {
             "link_idx": "8.7.2",
-            "link_label": "8.7.2 TYPES OF NONREVENUE FLIGHTS .................................................................................................. 8133 8.7.3GROUND CHECK RUNS ........................................................................................................................ 8134",
+            "link_label": "8.7.2 TYPES OF NONREVENUE FLIGHTS ",
             "start_page": 366,
             "end_page": 367,
             "end_tag": "8.7.3",
@@ -2264,7 +2264,7 @@
           },
           {
             "link_idx": "8.7.3",
-            "link_label": "8.7.3 GROUND CHECK RUNS ........................................................................................................................ 8134 8OXYGEN REQUIREMENTS .................................................................................................................... 8136",
+            "link_label": "8.7.3 GROUND CHECK RUNS ",
             "start_page": 367,
             "end_page": 369,
             "end_tag": "8.8",
@@ -2274,14 +2274,14 @@
       },
       {
         "link_idx": "8.8",
-        "link_label": "8.8 OXYGEN REQUIREMENTS .................................................................................................................... 8136 8.8.1FLIGHT CREW ........................................................................................................................................... 8136",
+        "link_label": "8.8 OXYGEN REQUIREMENTS ",
         "start_page": 369,
         "end_page": 371,
         "end_tag": "8.9",
         "children": [
           {
             "link_idx": "8.8.1",
-            "link_label": "8.8.1 FLIGHT CREW ........................................................................................................................................... 8136 8.8.2CABIN CREW ............................................................................................................................................. 8136",
+            "link_label": "8.8.1 FLIGHT CREW ",
             "start_page": 369,
             "end_page": 369,
             "end_tag": "8.8.2",
@@ -2536,7 +2536,7 @@
       },
       {
         "link_idx": "9.11",
-        "link_label": "9.11 STOWAGE REQUIREMENTS ONBOARD AIRCRAFT ...................................................................... 928 9.12NOTIFICATION TO THE PILOT IN COMMAND NOTOC ........................................................... 929",
+        "link_label": "9.11 STOWAGE REQUIREMENTS ONBOARD AIRCRAFT ",
         "start_page": 399,
         "end_page": 400,
         "end_tag": "9.12",
@@ -2544,7 +2544,7 @@
       },
       {
         "link_idx": "9.12",
-        "link_label": "9.12 NOTIFICATION TO THE PILOT IN COMMAND NOTOC ........................................................... 929 9.13PREBOARD INSPECTION OF PASSENGERS .................................................................................... 930",
+        "link_label": "9.12 NOTIFICATION TO THE PILOT IN COMMAND NOTOC ",
         "start_page": 400,
         "end_page": 401,
         "end_tag": "9.13",
@@ -2552,7 +2552,7 @@
       },
       {
         "link_idx": "9.13",
-        "link_label": "9.13 PREBOARD INSPECTION OF PASSENGERS .................................................................................... 930 9.14RECOGNITION OF UNDECLARED  HIDDEN DANGEROUS GOODS ...................................... 933",
+        "link_label": "9.13 PREBOARD INSPECTION OF PASSENGERS ",
         "start_page": 401,
         "end_page": 404,
         "end_tag": "9.14",
@@ -2560,14 +2560,14 @@
       },
       {
         "link_idx": "9.14",
-        "link_label": "9.14 RECOGNITION OF UNDECLARED  HIDDEN DANGEROUS GOODS ...................................... 933 9.14.1HIDDEN DANGEROUS GOODS ............................................................................................................ 933",
+        "link_label": "9.14 RECOGNITION OF UNDECLARED  HIDDEN DANGEROUS GOODS ",
         "start_page": 404,
         "end_page": 410,
         "end_tag": "9.15",
         "children": [
           {
             "link_idx": "9.14.1",
-            "link_label": "9.14.1 HIDDEN DANGEROUS GOODS ............................................................................................................ 933 9.14.2SAFETY DATA SHEETS ............................................................................................................................. 936",
+            "link_label": "9.14.1 HIDDEN DANGEROUS GOODS ",
             "start_page": 404,
             "end_page": 407,
             "end_tag": "9.14.2",
@@ -2815,7 +2815,7 @@
       },
       {
         "link_idx": "10.6",
-        "link_label": "10.6 PHYSICAL BAGGAGE IDENTIFICATION AFTER BOARDING ........................................................ 109 10.7ADDITIONAL SECURITY PROCEDURES ........................................................................................... 1010",
+        "link_label": "10.6 PHYSICAL BAGGAGE IDENTIFICATION AFTER BOARDING ",
         "start_page": 428,
         "end_page": 429,
         "end_tag": "10.7",
@@ -2823,14 +2823,14 @@
       },
       {
         "link_idx": "10.7",
-        "link_label": "10.7 ADDITIONAL SECURITY PROCEDURES ........................................................................................... 1010 10.7.1HEIGHTENED SECURITY PROCEDURES ........................................................................................... 1010",
+        "link_label": "10.7 ADDITIONAL SECURITY PROCEDURES ",
         "start_page": 429,
         "end_page": 430,
         "end_tag": "10.8",
         "children": [
           {
             "link_idx": "10.7.1",
-            "link_label": "10.7.1 HEIGHTENED SECURITY PROCEDURES ........................................................................................... 1010 10.7.2INTERNATIONAL STATION WITH HIGHRISK SECURITY ALERT ............................................ 1010",
+            "link_label": "10.7.1 HEIGHTENED SECURITY PROCEDURES ",
             "start_page": 429,
             "end_page": 429,
             "end_tag": "10.7.2",
@@ -2838,7 +2838,7 @@
           },
           {
             "link_idx": "10.7.2",
-            "link_label": "10.7.2 INTERNATIONAL STATION WITH HIGHRISK SECURITY ALERT ............................................ 1010 .8SECURITY PROCEDURES AT FOREIGN STATIONS ....................................................................... 1011",
+            "link_label": "10.7.2 INTERNATIONAL STATION WITH HIGHRISK SECURITY ALERT ",
             "start_page": 429,
             "end_page": 430,
             "end_tag": "10.8",
@@ -2848,7 +2848,7 @@
       },
       {
         "link_idx": "10.8",
-        "link_label": "10.8 SECURITY PROCEDURES AT FOREIGN STATIONS ....................................................................... 1011 10.9SECURITY PROTECTION IN THE AIR ................................................................................................. 1012",
+        "link_label": "10.8 SECURITY PROCEDURES AT FOREIGN STATIONS ",
         "start_page": 430,
         "end_page": 431,
         "end_tag": "10.9",
@@ -3103,7 +3103,7 @@
     "children": [
       {
         "link_idx": "12.1",
-        "link_label": "12.1 INTRODUCTION ........................................................................................................................................ 121 12.2RULES OF THE AIR OF THE KINGDOM OF SAUDI ARABIA ........................................................ 122",
+        "link_label": "12.1 INTRODUCTION ",
         "start_page": 454,
         "end_page": 455,
         "end_tag": "12.2",
@@ -3111,14 +3111,14 @@
       },
       {
         "link_idx": "12.2",
-        "link_label": "12.2 RULES OF THE AIR OF THE KINGDOM OF SAUDI ARABIA ........................................................ 122 12.2.1SAUDI APPLICATION OF THE RULES OF THE AIR ......................................................................... 122",
+        "link_label": "12.2 RULES OF THE AIR OF THE KINGDOM OF SAUDI ARABIA ",
         "start_page": 455,
         "end_page": 456,
         "end_tag": "12.3",
         "children": [
           {
             "link_idx": "12.2.1",
-            "link_label": "12.2.1 SAUDI APPLICATION OF THE RULES OF THE AIR ......................................................................... 122 .3ICAO CLASSIFICATION OF AIRSPACES ............................................................................................. 123",
+            "link_label": "12.2.1 SAUDI APPLICATION OF THE RULES OF THE AIR ",
             "start_page": 455,
             "end_page": 456,
             "end_tag": "12.3",
@@ -3128,7 +3128,7 @@
       },
       {
         "link_idx": "12.3",
-        "link_label": "12.3 ICAO CLASSIFICATION OF AIRSPACES ............................................................................................. 123 12.3.1OPERATING ON OR IN THE VICINITY OF AN AERODROME IN CLASS G AIRSPACE. ....... 125",
+        "link_label": "12.3 ICAO CLASSIFICATION OF AIRSPACES ",
         "start_page": 456,
         "end_page": 459,
         "end_tag": "12.4",

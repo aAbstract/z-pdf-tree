@@ -157,10 +157,10 @@ def test_link_pattern_match():
     test_set = [
         ('1.4.5 CABIN CREW TRAINING SUPERVISOR .............................................................................................. 19   ', ('1.4.5 CABIN CREW TRAINING SUPERVISOR ', '1.4.5')),
         ('1.3.1 DELEGATION OF NOMINATED MANAGEMENT PERSONNEL OF CABIN CREW DEPARTMENT ', ('1.3.1 DELEGATION OF NOMINATED MANAGEMENT PERSONNEL OF CABIN CREW DEPARTMENT ', '1.3.1')),
-        ('8.5 CC POSITION B737800 NORMALEMERGENCY DEMONSTRATION ......................................... 85   ', ('8.5 CC POSITION B737800 NORMALEMERGENCY DEMONSTRATION ......................................... 85   ', '8.5')),
-        ('8.18 GALLEYS  B737800 FWD AND AFT GALLEY .................................................................................. 832   ', ('8.18 GALLEYS  B737800 FWD AND AFT GALLEY .................................................................................. 832   ', '8.18')),
-        ('8.27 B737 EMERGENCY EQUIPMENT CHECKLISTS ................................................................................ 845   ', ('8.27 B737 EMERGENCY EQUIPMENT CHECKLISTS ................................................................................ 845   ', '8.27')),
-        ('5.2.1 B737 RECURRENT TRAINING ................................................................................................. 522   ', ('5.2.1 B737 RECURRENT TRAINING ................................................................................................. 522   ', '5.2.1')),
+        ('8.5 CC POSITION B737800 NORMALEMERGENCY DEMONSTRATION ......................................... 85   ', ('8.5 CC POSITION B737800 NORMALEMERGENCY DEMONSTRATION ', '8.5')),
+        ('8.18 GALLEYS  B737800 FWD AND AFT GALLEY .................................................................................. 832   ', ('8.18 GALLEYS  B737800 FWD AND AFT GALLEY ', '8.18')),
+        ('8.27 B737 EMERGENCY EQUIPMENT CHECKLISTS ................................................................................ 845   ', ('8.27 B737 EMERGENCY EQUIPMENT CHECKLISTS ', '8.27')),
+        ('5.2.1 B737 RECURRENT TRAINING ................................................................................................. 522   ', ('5.2.1 B737 RECURRENT TRAINING ', '5.2.1')),
     ]
 
     for inp, target_out in test_set:
@@ -215,7 +215,7 @@ def test_terminal_text_extraction():
 
 
 def _test_create_cache_file_function():
-    file_path = 'data/sample_mac_8.pdf'
+    file_path = 'data/sample_mac_6.pdf'
     zpdf = ZPDF(file_path=file_path)
     with open('test_cache.json', 'w') as f:
         f.write(json.dumps(zpdf.get_cache(), indent=2))
@@ -229,7 +229,7 @@ def _test_extract_text_function():
     with open(cache_file_path, 'r') as f:
         cache = json.loads(f.read())
     zpdf = ZPDF(file_path=file_path, cache=cache)
-    link_idx = '8.10.7'
+    link_idx = '8.9.3'
     sections = zpdf.extract_text([link_idx])
     with open(f"data/{file_name}_{link_idx}.txt", 'w') as f:
         f.write(sections[0])
